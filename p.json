@@ -1,0 +1,160 @@
+[
+    {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Physics",
+    "code": "PHY 101.1",
+    "session": "2023/2024",
+    "time": "1hr 30min"
+}, {
+    "type": "Instruction",
+    "content": "Answer all questions."
+}, {
+    "type": "heading",
+    "heading": "Section A",
+    "Subheading": "Each question carries 4marks."
+},
+
+
+    {
+        "type": "Question",
+        "name": "Question 1",
+
+        "Question": {
+            "content": "What is my name?",
+            "type": "OBJ",
+            "options": ["Believe", "Alex", "John", "Hope"]
+        },
+
+        "Answer": {
+            "type": "string",
+            "content": "Believe"
+        },
+
+        "Explanation": {
+            "type": "imgs",
+            "content": [
+                "../Img/math.jpg",
+                "../Img/math.jpg",
+                "../Img/math.jpg",
+                "../Img/math.jpg",
+                "../Img/math.jpg",
+                "../Img/math.jpg"
+            ]
+        }
+    },
+
+
+    {
+        "type": "Question",
+        "name": "Question 2",
+
+        "Question": {
+            "content": "What is my name?",
+            "type": "OBJ",
+            "options": ["Believe", "Alex", "John", "Hope"]
+        },
+
+        "Answer": {
+            "type": "string",
+            "content": "Believe"
+        },
+
+        "Explanation": {
+            "type": "string",
+            "content": "My parents named me Believe."
+        }
+    },
+
+
+
+    {
+        "type": "Question",
+        "name": "Question 3",
+
+        "Question": {
+            "content": "What is my name?",
+            "type": "OBJ",
+            "options": ["Believe", "Alex", "John", "Hope"]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Believe"
+        },
+
+        "Explanation": {
+            "type": "string",
+            "content": "My parents named me Believe."
+        }
+    },
+    {
+        "type": "heading",
+        "heading": "Section B",
+        "Subheading": "Answer all the questions"
+    },
+    {
+        "type": "img",
+        "content": "img/math.jpg",
+        "alt": "testing image",
+        "cation": "Use the image above to answer the questions 4."
+    }, {
+        "type": "Question",
+        "name": "Question 4",
+
+        "Question": {
+            "content": "What is my name?",
+            "type": "OBJ",
+            "options": ["Believe", "Alex", "John", "Hope"]
+        },
+
+        "Answer": {
+            "type": "string",
+            "content": "Believe"
+        },
+
+
+        "Explanation": {
+            "type": "string",
+            "content": "My parents named me Believe."
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 5",
+
+        "Question": {
+            "content": "What is my name?",
+            "type": "OBJ",
+            "options": ["Believe", "Alex", "John", "Hope"]
+        },
+
+        "Answer": {
+            "type": "string",
+            "content": "Believe"
+        },
+
+        "Explanation": {
+            "type": "string",
+            "content": "My parents named me Believe."
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 6",
+
+        "Question": {
+            "content": "What is my name?",
+            "type": "OBJ",
+            "options": ["Believe", "Alex", "John", "Hope"]
+        },
+
+        "Answer": {
+            "type": "img",
+            "content": "Believe"
+        },
+
+        "Explanation": {
+            "type": "string",
+            "content": "My parents named me osiaru."
+        }
+    }]
