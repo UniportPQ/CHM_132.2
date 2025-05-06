@@ -1,0 +1,581 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "SUBJECTIVE",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM 132.2",
+    "session": "2014/2015",
+    "time": "90"},
+  {
+    "type": "Instruction",
+    "content": "Answer all questions."
+  },
+    {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "What is the chemical produced from the reaction of cooking gas with excess of oxygen?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CO₂ & H₂O"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": " Cooking gas \\(C_3H_8\\) (propane) (write combustion reaction using the propane) <br> \\( C_3H_8 + 5O_2 \\rightarrow CO_2 + 4H_2O\\) : The products CO₂ & H₂O"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Name structures with molecular formula C₂H₂O",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethanol C₂H₂OH <br> Dimethylether \\(CH_3O-CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Name the product of oxidation of 1-butylbenzene with \\(KMnO_4\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butylbenzene and Benzoic acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "A hydrocarbon must have the following elements (a)___ (b)___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a) Carbon & (b) Hydrogen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Mention two instrumental methods used in the identification of organic compounds",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i.) Infrared spectroscopy<br> ii.) Mass spectroscopy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Combustion of 8.23mg of a compound",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_2H_4O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "The mixing of one 2s and two 2p orbitals give __ hybrid orbital",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(sp^2\\) hybrid orbital"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "\\(CH_3CH_2Br +  KOH \\rightarrow CH_2=CH_2 + KBr\\)  is an example of ____ reaction. ",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Elimination reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "How many sigma and pie bonds are there in 3-penten-1-yne?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sigma bonds = 10 <br> Pi bonds = 3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+     {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Circle any of these compounds that may be described by the term organic metallic compound",
+      "type": "OBJ",
+      "options": ["RSH", "RNH₂", "HCO₂H", "RMgX"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "RMgX"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "it contains a metal magnesium(Mg)"
+    }
+  },
+     {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Which of these functional groups has no carbonyl group:",
+      "type": "OBJ",
+      "options": ["aldehyde", "ketone", "amine", "amide", "ester"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "amine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "amine (c). Formula for amine is RNH₂"
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "After crystallization, the purity of the product is determine by to",
+      "type": "OBJ",
+      "options": ["Boiling point" , "distillation" , "Melting point" , "chromatography"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Melting point "
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "In a chromatogram of an unknown compound single spot, Aswas obtained at a distance 5cm from origin and the distance between the origin and the solvent iront is 15cm. What is the \\(R_f\\) value of A?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.33"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "What is the percentage carbon, hydrogen and oxygen in 0.570g of an organic compound that gave 143mg of carbon (IV) oxitiband 270mg of water on combustion?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "%C = 6.84% <br> %H = 5.26% <br>.%O = 87.9%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Give the structure of 3-methylcyclopentene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": ""
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "study the diagram"
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Arrange n-butane, cyclobutane and methyl propane in their ascending order of boiling points",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Methylpropane < n-butane < cyclobutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Draw the structure and give the IUPAC name of an alkane with the molecular formular \\(C_2H_{12}\\) that has only primary hydrogens",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2,2-dimethylpropane",
+      "content": ""
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "The type of isomerism exhibited by 2-chloroprone and 1-chloropropane is called____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Positional isomerism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "What is the structure of the product of the reaction between benzene and ethanoyl chloride/acetyl chloride \\( (CH_3COCI) \\) in the presence of aluminium chloride?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": ""
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Give the structure of 5-amino-3-chloro-2-octano",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": ""
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "When ethene reacts with bromine water, it decolourises bromine water. Give the structure of the major product",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": ""
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "\\(CH_3CH=CH_2 + HBr \\rightarrow ^{+Peroxides} ?\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "propene and 1-bromopropane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "What is the product of the reaction of benzene with \\(H_2S_{O4}/SO_3\\) for 8 hrs?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Benzene and Benzenesulfonic acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "During heterolytic fission of a carbon-carbon bond, the possible carbon species formed are ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbocation & Carbanion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Thin layer chromatography, \\(R_f\\) value, high pressure liquid chromatography, elution, absorbent are all chromatography-related terms except_____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Absorbent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In chromatography, we have Adsorbent"
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "For the different hybridized carbon atoms, the carbon-carbon bond length increase as the s- character increase.",
+     "options": [true, false],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": false
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Bond length decreases as S character increases"
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "An organic compound and dry CuO was heated in a tube, A colourlessmas, which when passed through \\(Ca(OH)_2 \\)solution gave a cloudy solution and a vapour which condensed in the tube were observed. identify (a) colourless gas and (b) the vapour",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a) colourless gas \\(\\rightarrow\\)Carbon (IV) oxide \\(CO_2(g)\\) <br> (b) The vapour Water vapour \\(H_2O(g)\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "What type of reaction is shown in the following transformation",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Substitution reaction (Br is substituted with S"
+    },
+    "Explanation": {
+      "type": "img",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "What type of reagent would accept electrons in a reaction or attack a substrate at a point of high electron density?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electrophiles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "What is the relationship between \\(CH_3OH_2OCH_2CH_3\\) and \\(CH_3CH_2CH(OH)CH_3\\)?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH₂CH₂OCH_3CH_3 \\rightarrow diethylethe \\) \\( CH_3CH_2CH(OH)CH_3 \\rightarrow 2-butanol\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "They have same molecular formoffferent functional group as such they are <u> FUCNTIONAL </u>"
+    }
+  },
+
+    {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Which of the following is/are heterocyclic compound",
+     "options": ["<img src='/img/math.jpg'>", "<img src='/img/math.jpg'>", "<img src='/img/math.jpg'>", "<img src='/img/math.jpg'>"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": 7
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "For a compound the considered as heterocyclic, it must possess a ring and also a heteroatom as part of the ring. Therefore the heterocyclic compounds in the set are given below:"
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "Name the process used to separate petroleum into useful fractions",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fractional distillation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Arrange the following petroleum fractions in increasing order of the boiling points: <i>Petrol, Kerosene, Naphtha, LPG, Heavy Gas Oil</i>",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "LPG < Petrol < Naphtha < Kerosene < Heavy gas oil"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "A \\(C_6H_{12}\\) hydrocarbon reacts with ozone to yield a single product \\(C_3H_6O \\) which is identified as a ketone. Give the structure of the hydrocarbon",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2,3-Dimethylbut-2-ene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Oxidation of alkene with ozone can give ketone, aldehyde or carbondioxide depending on the type of alkene used. <br> The alkene with \\(C_6H_{12}\\) that will give a ketone with formula  \\(C_3H_6O \\) is 2,3-dimethylbut-2-ene"
+    }
+  },
+    {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Give the name reagent used to distinguish terminal alkyne such as \\(CH_3CH_2C≡CH\\) from internal alkyne \\(CH_3C≡CCH_3\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tollen's reagent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  
+]
