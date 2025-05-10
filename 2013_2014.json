@@ -5,64 +5,68 @@
     "course_title": "Introduction To Organic Chemistry",
     "code": "CHM 132.2",
     "session": "2013/2014",
-    "time": "90"},
+    "time": "90"
+  },
   {
     "type": "Instruction",
     "content": "Answer all questions."
   },
-    {
-  "type": "Question",
-  "name": "Question 1",
-  "Question": {
-    "content": "Draw possible cyclopropenes with the molecular formula \\(C_4H_6\\)",
-    "type": "subjective"
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Draw possible cyclopropenes with the molecular formula \\(C_4H_6\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1VkHNj_sOmsIgQvbiy9ptQc1JJRsCDsZ5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Structural Isomers</b> for C₃H₆ share the same molecular formula but differ in bonding arrangement:<br><br>1. <b>Propene</b> (alkene):<br>   - Structure: CH₃-CH=CH₂<br>   - Features: Contains a double bond (C=C) between two carbons, making it unsaturated.<br><br>2. <b>Cyclopropane</b> (cycloalkane):<br>   - Structure: Three carbons in a ring (△)<br>   - Features: Single bonds only; ring strain due to 60° bond angles (vs. ideal 109.5°).<br><br><b>Key Difference:</b><br>- Propene: Open-chain with π-bond reactivity.<br>- Cyclopropane: Ring structure with angle strain (explosive reactivity)."
+    }
   },
-  "Answer": {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/1VkHNj_sOmsIgQvbiy9ptQc1JJRsCDsZ5"
-  },
-  "Explanation": {
-    "type": "string",
-    "content": "<b>Structural Isomers</b> for C₃H₆ share the same molecular formula but differ in bonding arrangement:<br><br>1. <b>Propene</b> (alkene):<br>   - Structure: CH₃-CH=CH₂<br>   - Features: Contains a double bond (C=C) between two carbons, making it unsaturated.<br><br>2. <b>Cyclopropane</b> (cycloalkane):<br>   - Structure: Three carbons in a ring (△)<br>   - Features: Single bonds only; ring strain due to 60° bond angles (vs. ideal 109.5°).<br><br><b>Key Difference:</b><br>- Propene: Open-chain with π-bond reactivity.<br>- Cyclopropane: Ring structure with angle strain (explosive reactivity)."
-  }
-},
+  
   {
     "type": "Question",
     "name": "Question 2",
     "Question": {
-      "content": "What are the chemicals produced from the reaction of octane with excess of oxygen?",
+      "content": "What are the chemicals produced from the reaction of octane with excess oxygen?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "\\[C_8H_{18(g)} + \\frac{25}{2}O_{2(g)} \\rightarrow 8CO_{2(g)} + 9H_2O_{(l)}\\]"
+      "content": "Carbon dioxide (CO₂) and water (H₂O)"
     },
     "Explanation": {
       "type": "string",
-      "content": "<b>Balanced Combustion Reaction:</b><br/>\\[C_8H_{18} + \\frac{25}{2}O_2 \\rightarrow 8CO_2 + 9H_2O\\]<br/><br/><b>Key Features:</b><br/>• <b>Stoichiometry:</b> 1 mole octane reacts with 12.5 moles O₂<br/>• <b>Products:</b> Carbon dioxide (\\[CO_2\\]) and water (\\[H_2O\\])<br/>• <b>State Symbols:</b> (g) = gas, (l) = liquid<br/><br/><b>Hexane-Water Observation:</b><br/>When equal volumes are mixed in sandstone:<br/>\\[\\text{Hexane (nonpolar)} \\uparrow \\text{separates from } H_2O \\text{(polar)} \\downarrow\\]"
+      "content": "<b>Complete Combustion of Octane:</b><br>\\[C_8H_{18(g)} + \\frac{25}{2}O_{2(g)} \\rightarrow 8CO_{2(g)} + 9H_2O_{(l)}\\]<br><br><b>Key Points:</b><br>• <b>Products:</b> CO₂ (greenhouse gas) and H₂O (liquid).<br>• <b>Conditions:</b> Excess oxygen ensures complete combustion (no CO or soot).<br>• <b>Stoichiometry:</b> 1 mol octane requires 12.5 mol O₂ for full oxidation.<br>• <b>Energy:</b> Exothermic reaction (releases heat, used in engines).<br><br><b>Note:</b> Incomplete combustion (limited O₂) produces toxic carbon monoxide (CO)."
     }
   },
   {
     "type": "Question",
     "name": "Question 3",
     "Question": {
-      "content": "When equal volumes of hexane and water are shaken in a separating stunnel then left to stand, which liquid is formed in  the lower layer ?",
+      "content": "When equal volumes of hexane and water are shaken in a separating funnel then left to stand, which liquid forms the lower layer?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "hexane"
+      "content": "Water"
     },
     "Explanation": {
       "type": "string",
-      "content": "Hexane and water are completely immisicible as such there will formowo phases when left to stand in a separating funnel with the heavier (more dense) liquid taking the lowenlayer and light (less dense) liquid taking the upper layer. <br>Therefore, water will take the lower layer since water is more dense than hexane"
+      "content": "<b>Key Concepts:</b><br>• <b>Immiscibility:</b> Hexane (nonpolar) and water (polar) do not mix.<br>• <b>Density:</b> Water (1 g/mL) is denser than hexane (~0.66 g/mL).<br>• <b>Layer Formation:</b> The denser liquid (water) sinks to the bottom, while hexane floats on top.<br><br><b>Practical Note:</b> This principle is used in liquid-liquid extractions in chemistry."
     }
   },
+  
   {
     "type": "Question",
     "name": "Question 4",
     "Question": {
-      "content": "Draw structures for two different classes of bydrcarbons with the molecular formula \\(C_3H_4\\)",
+      "content": "Draw structures for two different classes of hydrocarbons with the molecular formula C₃H₄",
       "type": "subjective"
     },
     "Answer": {
@@ -71,61 +75,61 @@
       "content": "https://lh3.googleusercontent.com/d/1VuFl4G-VbWOrftAOABCSFhDSD58Uw-nd"
     },
     "Explanation": {
-      "type": "img",
-      "alt": "diagram of Propyne (alkyne F.G) and 1,2-propadiene (Diene F.G)",
-      "content": "https://lh3.googleusercontent.com/d/1VuFl4G-VbWOrftAOABCSFhDSD58Uw-nd"
+      "type": "string",
+      "content": "1. <b>Propyne</b> (Alkyne): CH≡C-CH₃<br>2. <b>1,2-Propadiene</b> (Allene): CH₂=C=CH₂ <br> <br> <b>Isomers of C₃H₄:</b><br>1. <b>Propyne</b> (Alkyne Functional Group):<br>   • Structure: CH≡C-CH₃ (triple bond at C1).<br>   • Class: Terminal alkyne (acidic H).<br><br>2. <b>1,2-Propadiene</b> (Allene/Diene):<br>   • Structure: CH₂=C=CH₂ (cumulated double bonds).<br>   • Class: Unstable due to bond strain; reacts readily.<br><br><b>Key Difference:</b> Bond arrangement (triple vs. cumulated double)."
     }
   },
+  
   {
     "type": "Question",
     "name": "Question 5",
     "Question": {
-      "content": "Name the structure of the product of the reaction of 3-methyl 2 pentene with \\(HBr/(CH_3O)_2\\)",
+      "content": "Name the structure of the product of the reaction of 3-methyl-2-pentene with HBr/(CH₃O)₂",
       "type": "subjective"
     },
     "Answer": {
       "type": "img",
-      "alt": "Diagram of 3-methyl pent-2-ene and 2-bromo-3-methylpentane",
+      "alt": "2-Bromo-3-methylpentane",
       "content": "https://lh3.googleusercontent.com/d/1W5gWU5a4blBkKsx5ZObUG_iEskioZiWG"
     },
     "Explanation": {
-      "type": "img",
-      "content": "https://lh3.googleusercontent.com/d/1W5gWU5a4blBkKsx5ZObUG_iEskioZiWG"
+      "type": "string",
+      "content": "<b>Reaction Mechanism (Markovnikov Addition):</b><br>1. <b>Electrophilic Attack:</b> H⁺ from HBr adds to the less substituted carbon (C2), forming a carbocation at C3.<br>2. <b>Nucleophilic Attack:</b> Br⁻ attacks the carbocation (C3).<br><br><b>Product:</b> CH₃-CH(Br)-CH(CH₃)-CH₂-CH₃<br><b>Name:</b> 2-Bromo-3-methylpentane<br><br><b>Note:</b> (CH₃O)₂ (dimethyl ether) acts as a polar solvent but doesn't alter the product."
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 6",
-    "Question": {
-      "content": "If water adds to propene in an anti-Markovnikov's manner, the product of the reaction will be ________",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Propene and Propene"
-    }, 
-    "Explanation": {
-      "type": "img",
+  
+{
+  "type": "Question",
+  "name": "Question 6",
+  "Question": {
+    "content": "If water adds to propene in an anti-Markovnikov's manner, the product of the reaction will be ________",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
     "content": "https://lh3.googleusercontent.com/d/1W7ypyIahYHFx5qNCLeegtsbxhPu3gbfj"
-    }
   },
-  {
-    "type": "Question",
-    "name": "Question 7",
-    "Question": {
-      "content": "The oxidation of compound Y with cold alkaline potassium permanganate gives Butane-2,3-diol. Give the name and structure of Y",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "BUT-2-ENE"
-
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "Oxidation of alkene using cold alkaline potassium permanganate involves addition of two (2) OH groups across the two (2) carbons of the double bond to give a diol. Therefore removing the two OH at position 2 & 3 of the diol (Butane-2,3-diol) will give BUT-2-ENE.      <img src='https://lh3.googleusercontent.com/d/1W6-joPvl92rHXDRG_59vBUZsgFbJJSCn' class='explainImg'/>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": " <h3>1-Propanol (CH₃-CH₂-CH₂OH)</h3> <b>Anti-Markovnikov Addition of Water to Propene:</b><br><br>1. <b>Mechanism:</b> <br>   • Requires <b>peroxide (ROOR)</b> to initiate free-radical addition.<br>   • <b>Br•</b> (from HBr) attacks the less substituted carbon (CH₂=CH-CH₃ → •CH₂-CH₂-CH₃).<br>   • <b>OH</b> attaches to the terminal carbon, forming 1-propanol.<br><br>2. <b>Product:</b><br>   • <b>1-Propanol</b>: CH₃-CH₂-CH₂OH (primary alcohol).<br><br>3. <b>Contrast with Markovnikov:</b><br>   • Normal addition (without peroxide) would yield <i>2-propanol</i> (CH₃-CH(OH)-CH₃).<br><br><b>Key Point:</b> Anti-Markovnikov addition places the OH group on the <i>less</i> substituted carbon."
+  }
+} ,
+{
+  "type": "Question",
+  "name": "Question 7",
+  "Question": {
+    "content": "The oxidation of compound Y with cold alkaline potassium permanganate gives Butane-2,3-diol. Give the name and structure of Y",
+    "type": "subjective"
   },
+  "Answer": {
+    "type": "string",
+    "content": "But-2-ene (CH₃-CH=CH-CH₃)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Mechanism:</b><br>1. <b>Reaction Type:</b> Syn-hydroxylation of alkenes with cold alkaline KMnO₄.<br>2. <b>Process:</b> Two OH groups add across the double bond of But-2-ene.<br>3. <b>Structural Change:</b><br>   • Reactant (Y): CH₃-CH=CH-CH₃ (But-2-ene)<br>   • Product: CH₃-CH(OH)-CH(OH)-CH₃ (Butane-2,3-diol)<br><br><b>Key Points:</b><br>• Cold/alkaline conditions prevent C=C bond cleavage (vs. hot KMnO₄).<br>• Stereochemistry: Forms a meso compound (if cis-But-2-ene) or racemic mixture (if trans).<br>• Reverse logic: Removing the two OH groups from the diol reveals the original alkene."
+  }
+},
   {
     "type": "Question",
     "name": "Question 8",
@@ -134,13 +138,13 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "propene and cyclopropane"
-    },
-    "Explanation": {
-      "type": "img",
+            "type": "img",
       "alt": "propene and cyclopropane",
       "content": "https://lh3.googleusercontent.com/d/1WCDF_Wv9gRVsb9LyOfEA9-8rQZvdu52S"
+    },
+    "Explanation": {
+      "type": "string",
+    "content": "<b>Structural Isomers</b> for C₃H₆ share the same molecular formula but differ in bonding arrangement:<br><br>1. <b>Propene</b> (alkene):<br>   - Structure: CH₃-CH=CH₂<br>   - Features: Contains a double bond (C=C) between two carbons, making it unsaturated.<br><br>2. <b>Cyclopropane</b> (cycloalkane):<br>   - Structure: Three carbons in a ring (△)<br>   - Features: Single bonds only; ring strain due to 60° bond angles (vs. ideal 109.5°).<br><br><b>Key Difference:</b><br>- Propene: Open-chain with π-bond reactivity.<br>- Cyclopropane: Ring structure with angle strain (explosive reactivity)."
     }
   },
   {
@@ -153,111 +157,113 @@
     "Answer": {
       "type": "img",
       "content": "https://lh3.googleusercontent.com/d/1WEm-eOPIdw12neZCPAYxyZYl-as-P26P",
-    "alt": "ans"
-  },
+      "alt": "ans"
+    },
     "Explanation": {
       "type": "img",
-    "alt": "ans",
+      "alt": "ans",
       "content": "https://lh3.googleusercontent.com/d/1WEm-eOPIdw12neZCPAYxyZYl-as-P26P"
     }
   },
   {
-    "type": "Question",
-    "name": "Question 10",
-    "Question": {
-      "content": "Draw the structure of 1,2-diethoxyethane",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "\\(CH₂CH₂O-CH₂CH-OCH_2OH_3\\)"
-    },
-    "Explanation": {
-      "type": "string",
-"content": "\\(CH₂CH₂O-CH₂CH-OCH_2OH_3\\)"
-    }
+  "type": "Question",
+  "name": "Question 10",
+  "Question": {
+    "content": "Draw the structure of 1,2-diethoxyethane",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 11",
-    "Question": {
-      "content": "Name the product of oxidation of 1-propylbenzenouth \\(KMnO_4\\)",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "propyl benzene and (Benzoic acid) "
-    },
-    "Explanation": {
-      "type": "img",
-    "alt": "propyl benzene and (Benzoic acid) ",
+  "Answer": {
+    "type": "string",
+    "content": "CH₃-CH₂-O-CH₂-CH₂-O-CH₂-CH₃"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Structure of 1,2-Diethoxyethane:</b><br>• <b>IUPAC Name:</b> 1,2-Diethoxyethane (ethylene glycol diethyl ether)<br>• <b>Structure:</b> CH₃-CH₂-O-CH₂-CH₂-O-CH₂-CH₃<br>• <b>Key Features:</b><br>   - Central ethane (CH₂-CH₂) with two ethoxy (-O-CH₂-CH₃) groups<br>   - Symmetrical ether structure<br>   - Common solvent in organic chemistry<br><br><b>Note:</b> This is different from diethyl ether (CH₃-CH₂-O-CH₂-CH₃) as it contains an additional ethylene bridge between the oxygen atoms."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+    "content": "Name the product of oxidation of 1-propylbenzene with KMnO₄",
+    "type": "subjective"
+  },
+      "Answer": {
+            "type": "img",
+      "alt": "propyl benzene => (Benzoic acid) ",
       "content": "https://lh3.googleusercontent.com/d/1WFVMgXc-bS6OptWIsFmhmUCN2gJL_a10"
-    }
+
+    },
+  "Explanation": {
+    "type": "string",
+    "content": "<h3>Benzoic acid (C₆H₅-COOH)</h3> <b>Oxidation Mechanism:</b><br>1. <b>Reactant:</b> 1-Propylbenzene (C₆H₅-CH₂-CH₂-CH₃)<br>2. <b>Reagent:</b> KMnO₄ (strong oxidizing agent)<br>3. <b>Process:</b><br>   • The alkyl side chain (propyl group) is completely oxidized<br>   • Regardless of side chain length, forms benzoic acid<br>4. <b>Product:</b> Benzoic acid (C₆H₅-COOH)<br><br><b>Key Points:</b><br>• Requires <i>heated</i> KMnO₄ for complete oxidation<br>• The entire side chain is converted to carboxyl group<br>• If under milder conditions, stops at phenylalkanoic acid intermediate"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 12",
+  "Question": {
+    "content": "Write an equation that explains why butane turns a cooking pot black",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 12",
-    "Question": {
-      "content": "Write an equation that explains why butane turns a cooking pot black",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "\\(C_4H_{10} + \\frac{9}{4}O_2 \\rightarrow 4CO_2 + H_2O\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "Incomplete combustion explain why cooking pot turns black because the CO produced during incomplete combustion is the black sooth that will blacken the pot"
-    }
+  "Answer": {
+    "type": "string",
+    "content": "\\[2C_4H_{10} + 5O_2 \\rightarrow 8C + 10H_2O\\]"
   },
-  {
-    "type": "Question",
-    "name": "Question 13",
-    "Question": {
-      "content": "In a compound containing C, H, and O only, how could you determine quantitatively the percentage of oxygen in the compound?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Mechanism of Soot Formation:</b><br>1. <b>Primary Cause:</b> Incomplete combustion due to insufficient oxygen<br>2. <b>Key Products:</b><br>   • Carbon (C) - Black soot deposits on pot<br>   • Water (H₂O) - Forms as vapor<br>3. <b>Conditions:</b> Occurs when air intake is restricted in gas stoves<br>4. <b>Complete Combustion Contrast:</b><br>   \\[C_4H_{10} + \\frac{13}{2}O_2 \\rightarrow 4CO_2 + 5H_2O\\]<br><br><b>Practical Solution:</b> Clean burner ports and ensure proper ventilation to promote complete combustion."
+  }
+},
+ {
+  "type": "Question",
+  "name": "Question 13",
+  "Question": {
+    "content": "In a compound containing C, H, and O only, how could you determine quantitatively the percentage of oxygen in the compound?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
       "content": "\\( \\text{%O} = \\frac{ \\text{mass of O}}{\\text{total mass of compound} } \\times 100\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "Just learn the formula dude 🙂"
-    }
+
   },
-  {
-    "type": "Question",
-    "name": "Question 14",
-    "Question": {
-      "content": "A reagent that attacks a substrate at a centre deficient of electrons is called...",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "NUCLEOPHILE"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "Centre of electron deficient is electrophile, so the reagent that will attack electrophile will be <b>NUCLEOPHILE</b>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Experimental Methods:</b><br>1. <b>Combustion Analysis:</b><br>   • Burn compound to measure CO₂ (for %C) and H₂O (for %H)<br>   • Oxygen % = 100 - (%C + %H)<br>2. <b>Mass Difference:</b><br>   • Measure total mass<br>   • Subtract measured masses of C and H<br>3. <b>Instrumental Methods:</b><br>   • Elemental analysis (CHN analyzer)<br>   • Mass spectrometry<br><br><b>Example Calculation:</b><br>For ethanol (C₂H₅OH):<br>Molar mass = 46 g/mol<br>%O = (16/46) × 100 = 34.78%"
+  }
+}, 
+{
+  "type": "Question",
+  "name": "Question 14",
+  "Question": {
+    "content": "A reagent that attacks a substrate at a centre deficient of electrons is called...",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 15",
-    "Question": {
-      "content": "The reaction of 2-butene and 12 to give 2,3-iodobutane is what type of reaction",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "addition reaction"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "Addition reaction since it involves addition of 12 across the double bond of the 2-butene"
-    }
+  "Answer": {
+    "type": "string",
+    "content": "Nucleophile"
   },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Key Concepts:</b><br>• <b>Electrophile</b>: Electron-deficient center (e.g., carbocations, carbonyl carbons)<br>• <b>Nucleophile</b>: Electron-rich species that donates electrons to electrophiles<br><br><b>Examples:</b><br>• Nucleophiles: OH⁻, NH₃, CN⁻, H₂O<br>• Electrophiles: H⁺, BF₃, CH₃⁺<br><br><b>Mechanism:</b> Nucleophiles attack electrophiles in substitution/addition reactions (e.g., SN₂ reactions)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 15",
+  "Question": {
+    "content": "The reaction of 2-butene and I₂ to give 2,3-diiodobutane is what type of reaction?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Electrophilic addition reaction"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Reaction Details:</b><br>1. <b>Type:</b> Electrophilic addition (halogenation)<br>2. <b>Mechanism:</b><br>   • Step 1: π-electrons of C=C attack I₂ → cyclic iodonium ion<br>   • Step 2: I⁻ opens the ring → anti-addition product<br>3. <b>Product:</b> meso-2,3-diiodobutane (stereospecific)<br>4. <b>Key Feature:</b> Trans addition across double bond<br><br><b>Equation:</b><br>CH₃-CH=CH-CH₃ + I₂ → CH₃-CH(I)-CH(I)-CH₃"
+  }
+},
   {
     "type": "Question",
     "name": "Question 16",
@@ -271,33 +277,27 @@
     },
     "Explanation": {
       "type": "img",
-   "content": "https://lh3.googleusercontent.com/d/1WCpft0NZphHmEu7WcWgQ8pUY-rWiSl0P",
+      "content": "https://lh3.googleusercontent.com/d/1WCpft0NZphHmEu7WcWgQ8pUY-rWiSl0P",
       "alt": "2-bromo-4-chloro-3-methylpentane"
-
+      
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 17",
-    "Question": {
-      "content": "Give the structure of a compound that can be identified using \\(Ag(NH_3)_2OH\\)",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Compounds that can be identified using \\(Ag(NH_3)_2OH\\) are TERMINAL ALKYNES"
-    },
-    "Explanation": {
-      "type": "img",
-      "alt": "Compounds that can be identified using \\(Ag(NH_3)_2OH\\) are TERMINAL ALKYNES",
-      "content": "https://lh3.googleusercontent.com/d/1WHBcl7NcRejYoLG01ki5jKl9F7fuPT7R"
-    }
+{
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+    "content": "Give the structure of a compound that can be identified using Ag(NH₃)₂OH",
+    "type": "subjective"
   },
-  
-  
-  
-  
-  
+  "Answer": {
+    "type": "string",
+    "content": "Terminal alkyne (e.g., Ethyne: HC≡CH)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Tollens' Reagent Test for Terminal Alkynes:</b><br>1. <b>Reagent:</b> Ag(NH₃)₂OH (ammoniacal silver nitrate)<br>2. <b>Reactive Functional Group:</b> Terminal -C≡C-H (alkynes with acidic hydrogen)<br>3. <b>Reaction:</b><br>   • HC≡CH + 2Ag(NH₃)₂OH → AgC≡CAg↓ (silver acetylide) + 4NH₃ + 2H₂O<br>   • Forms white precipitate of silver acetylide<br>4. <b>Examples:</b><br>   • Ethyne (HC≡CH)<br>   • Propyne (CH₃-C≡CH)<br>5. <b>Application:</b> Distinguishes terminal alkynes from internal alkynes/non-alkynes<br><br><b>Note:</b> Also positive for aldehydes (but forms silver mirror, not precipitate)"
+  }
+},
   {
     "type": "Question",
     "name": "Question 18",
@@ -311,10 +311,10 @@
     },
     "Explanation": {
       "type": "img",
-"content": "https://lh3.googleusercontent.com/d/.   "
+      "content": "https://lh3.googleusercontent.com/d/.   "
     }
   },
-  {
+    {
     "type": "Question",
     "name": "Question 19",
     "Question": {
@@ -324,60 +324,61 @@
     "Answer": {
       "type": "img",
       "alt": "Cyclohexene + Br => 1,5-dionocyclohexane",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1WKR94GM4LlmBIEgxMmPjBy2olTRKIaWR"
     },
     "Explanation": {
       "type": "img",
       "alt": "Cyclohexene + Br => 1,5-dionocyclohexane",
-      "content": ""
+"content": "https://lh3.googleusercontent.com/d/1WKR94GM4LlmBIEgxMmPjBy2olTRKIaWR"
+
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 20",
-    "Question": {
-      "content": "For a compound to be classified as heterocyclic, it must have two important features. What are these features?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "It must have a ring and <br> It must contain heteroatom within the ring"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "nan"
-    }
+{
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+    "content": "For a compound to be classified as heterocyclic, it must have two important features. What are these features?",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 21",
-    "Question": {
-      "content": "What type of carbon species are formed during homolytic fission?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "The carbon specie formed during homolytic cleavage are the free radical"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "nan"
-    }
+  "Answer": {
+    "type": "string",
+    "content": "1. Cyclic (ring) structure<br>2. At least one heteroatom in the ring"
   },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Heterocyclic Compounds Defined:</b><br>• <b>Cyclic Structure:</b> Must contain closed ring of atoms (3+ members)<br>• <b>Heteroatom:</b> Non-carbon atom in the ring (O, N, S most common)<br><br><b>Examples:</b><br>• Pyridine (C₅H₅N) - 6-membered ring with nitrogen<br>• Furan (C₄H₄O) - 5-membered ring with oxygen<br><br><b>Contrast:</b> Homocyclic compounds contain only carbon in the ring (e.g., benzene)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 21",
+  "Question": {
+    "content": "What type of carbon species are formed during homolytic fission?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Carbon free radicals (•R)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Homolytic Fission Mechanism:</b><br>1. <b>Process:</b> Covalent bond breaks symmetrically<br>   A:B → A• + •B<br>2. <b>Carbon Radical Formation:</b><br>   • Each fragment retains one electron (odd e⁻ count)<br>   • Highly reactive intermediates<br>3. <b>Example:</b><br>   CH₃-CH₃ → 2CH₃• (methyl radicals)<br><br><b>Key Features:</b><br>• Requires energy (heat/UV light)<br>• Important in combustion/polymerization<br>• Contrast with heterolytic fission (ions)"
+  }
+},
   {
     "type": "Question",
     "name": "Question 22",
     "Question": {
-      "content": "Draw two structural isomers for \\(C_8H_10\\) containing a benzene ring",
+      "content": "Draw two structural isomers for \\(C_8H_{10}\\) containing a benzene ring",
       "type": "subjective"
     },
     "Answer": {
       "type": "img",
-      "content": "https://lh3.googleusercontent.com/d/. "
+      "content": "https://lh3.googleusercontent.com/d/1WWYAhxnHS3-xRxqIhXgma4-1aym7idgZ"
     },
     "Explanation": {
       "type": "img",
-      "content": "https://lh3.googleusercontent.com/d/. "
+      "content": "https://lh3.googleusercontent.com/d/1WWYAhxnHS3-xRxqIhXgma4-1aym7idgZ"
     }
   },
   {
@@ -389,202 +390,224 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "2-methylbutane (CH₃-CH₂-CH(CH₃)-CH₃)",
+      "content": "https://lh3.googleusercontent.com/d/1W0YxHoWUW-D7acrpmf7_xVqbJjngb6ir"
     },
-    "Explanation": {
-      "type": "img",
-      "content": ""
-    }
+      "Explanation": {
+    "type": "string",
+    "content": "<b>Hydrogenation Reaction Mechanism:</b><br>1. <b>Reactant:</b> 2-methylbut-1-ene (CH₂=C(CH₃)-CH₂-CH₃)<br>2. <b>Catalyst:</b> Nickel (Ni) metal surface<br>3. <b>Process:</b> Syn-addition of H₂ across the C=C double bond<br>4. <b>Product:</b> 2-methylbutane (saturated alkane)<br><br><b>Key Features:</b><br>• <b>Stereochemistry:</b> Occurs on metal surface (cis-addition)<br>• <b>Conditions:</b> Typically requires heat/pressure<br>• <b>Energy:</b> Exothermic (releases ~120 kJ/mol)<br><br><b>Equation:</b><br>CH₂=C(CH₃)-CH₂-CH₃ + H₂ → CH₃-CH₂-CH(CH₃)-CH₃"
+  }
+
   },
-  {
-    "type": "Question",
-    "name": "Question 24",
-    "Question": {
-      "content": "The ability of carbon to react with itself to form longer chains is known as______",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "<b> CATENATION </b>"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+{
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+    "content": "The ability of carbon to react with itself to form longer chains is known as______",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 25",
-    "Question": {
-      "content": "To a weight sample of an unknown organic compound was added sixture of concentrated \\(HNO_3\\) and solid \\(AgNO_3\\) in a sealed tube and heated. The tube Was cooled and broken into water. When filtered, a bright yellow precipitation was obtained. The yellow precipitate",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Bright yellow precipitate shows the precipuate contains abdide. The precipitate is AgI"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Answer": {
+    "type": "string",
+    "content": "Catenation"
   },
-  {
-    "type": "Question",
-    "name": "Question 26",
-    "Question": {
-      "content": "26. A compound contains 22.2% carbon, 4.6% hydrogen and 73.2% bromine. If the molecular mass is 109, calculate its molecular formula",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Molecular formula = \\( (C_2H_5Br)_1 = C_2H_5Br\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Catenation Definition:</b><br>• Carbon's unique ability to form covalent bonds with other carbon atoms<br>• Creates chains (straight/branched) or rings of varying lengths<br><br><b>Why Carbon Excels:</b><br>1. <b>Bond Strength:</b> C-C bonds (348 kJ/mol) are optimally strong<br>2. <b>Tetravalency:</b> Forms 4 stable covalent bonds<br>3. <b>Hybridization:</b> sp³/sp²/sp orbital flexibility<br><br><b>Examples:</b><br>• Ethane (C-C)<br>• Polyethylene (-C-C-)<sub>n</sub><br>• Buckminsterfullerene (C<sub>60</sub>)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+    "content": "To a weighed sample of an unknown organic compound was added a mixture of concentrated HNO₃ and solid AgNO₃ in a sealed tube and heated. The tube was cooled and broken into water. When filtered, a bright yellow precipitate was obtained. Identify the precipitate",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 27",
-    "Question": {
-      "content": "Which of the following functional groups is out of place? Carboxyl group; Carbonyl group; Amide group Hydroxyl group",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Hydroxyl group (all other groups contains carbonyl (CO) group)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Answer": {
+    "type": "string",
+    "content": "Silver iodide (AgI)"
   },
-  {
-    "type": "Question",
-    "name": "Question 28",
-    "Question": {
-      "content": "Calculate the unsaturation equivalent or index of hydrogen deficiency in : <br>(i) \\(C_4H_{11}NSO\\) <br> (ii) \\(C_7H_{10}BrCIO\\)",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "(i) 0 <br>(ii) 2"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Beilstein Test Modification:</b><br>1. <b>Process:</b><br>   • HNO₃ oxidizes organic material, releasing halides<br>   • AgNO₃ reacts with halides → colored precipitates<br>2. <b>Precipitate Colors:</b><br>   • <b>White:</b> AgCl (chloride)<br>   • <b>Pale Yellow:</b> AgBr (bromide)<br>   • <b>Bright Yellow:</b> AgI (iodide)<br>3. <b>Chemistry:</b><br>   R-I + HNO₃ → I⁻ + oxidation products<br>   I⁻ + Ag⁺ → AgI↓ (K<sub>sp</sub> = 8.3×10<sup>-17</sup>)<br>4. <b>Confirmation:</b> Precipitate insoluble in NH₃(aq)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+    "content": "A compound contains 22.2% carbon, 4.6% hydrogen and 73.2% bromine. If the molecular mass is 109, calculate its molecular formula",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 29",
-    "Question": {
-      "content": "Suggest the types of hybrid orbitals you will find in a compound with molecular formula \\(C_4H_8S\\)",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "the IHD for this compound is one (1) as such implies the sompoundy have a double bond Sp and \\(Sp^{30}\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Answer": {
+    "type": "string",
+    "content": "Molecular formula = \\[C_2H_5Br\\] (Bromoethane)"
   },
-  {
-    "type": "Question",
-    "name": "Question 30",
-    "Question": {
-      "content": "One gram each of sand salt were mixed and dissolved in 20 cm³ of water. What is the content of the filtrate?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "salt solution (salt and water)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Step 1: Assume 100g sample</b><br>\\[ C = 22.2g,\\ H = 4.6g,\\ Br = 73.2g \\]<br><br><b>Step 2: Convert to moles</b><br>\\[ \\text{Moles C} = \\frac{22.2}{12.01} = 1.85 \\]<br>\\[ \\text{Moles H} = \\frac{4.6}{1.01} = 4.55 \\]<br>\\[ \\text{Moles Br} = \\frac{73.2}{79.90} = 0.916 \\]<br><br><b>Step 3: Determine simplest ratio</b><br>Divide by smallest value (0.916):<br>\\[ C = \\frac{1.85}{0.916} \\approx 2 \\]<br>\\[ H = \\frac{4.55}{0.916} \\approx 5 \\]<br>\\[ Br = 1 \\]<br><br><b>Step 4: Empirical formula</b><br>\\[ C_2H_5Br \\]<br><br><b>Step 5: Verify molecular mass</b><br>\\[ (2\\times12.01) + (5\\times1.01) + 79.90 = 109\\ \\text{g/mol} \\]<br>\\[ \\therefore \\text{Molecular formula} = C_2H_5Br \\]"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "Question": {
+    "content": "Which of the following functional groups is out of place? Carboxyl group; Carbonyl group; Amide group; Hydroxyl group",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 31",
-    "Question": {
-      "content": "The m.pt for two different samples of a given organic compound was taken under similar conditions. One sample gave 80-85°C and others. Which of these samples is purer sample?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Pure sample (solid) melts at a fixed melting point 81°C"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Answer": {
+    "type": "string",
+    "content": "Hydroxyl group (-OH)"
   },
-  {
-    "type": "Question",
-    "name": "Question 32",
-    "Question": {
-      "content": "Mention two methods for the insolation of an organic compound",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Distillation and Chromatography"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Key Observation:</b><br>• <b>Common Feature:</b> Carboxyl (\\[-COOH\\]), carbonyl (\\[C=O\\]), and amide (\\[-CONH_2\\]) groups all contain a <b>carbonyl (C=O)</b> moiety<br>• <b>Outlier:</b> Hydroxyl group (\\[-OH\\]) lacks a carbonyl group<br><br><b>Structural Comparison:</b><br>1. Carboxyl: \\[R-COOH\\] (contains \\[C=O\\])<br>2. Carbonyl: \\[R-CO-R'\\]<br>3. Amide: \\[R-CONH_2\\]<br>4. Hydroxyl: \\[R-OH\\] (no C=O)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "Question": {
+    "content": "Calculate the unsaturation equivalent or index of hydrogen deficiency in:<br>(i) \\(C_4H_{11}NSO\\)<br>(ii) \\(C_7H_{10}BrClO\\)",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 33",
-    "Question": {
-      "content": "8.0 cm³ of gaseous hydrocarbon, X, was exploded with 54.0 cm³ of oxygen. The volume of the gaseous product after cooling to room temperature was 38.0 cm³, of which 6.0 cm³ remained after treatment with aqueous KOH. <br>(i) What volume of carbon (IV) oxide formed? <br>(ii) What volume of oxygen reacted? <br>(iii) what is the formula of X?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "(i)32.0cm³ <br> (ii)48.0cm³ <br>(iii)\\(C_4H_8\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Answer": {
+    "type": "string",
+    "content": "(i) 0<br>(ii) 2"
   },
-    {
-    "type": "Question",
-    "name": "Question 34",
-    "Question": {
-      "content": "Give two spectroscopic techniques used in identification of organic compounds",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Infrared spectroscopy and Nuclear Magnetic Resonance (NMR)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Formula:</b> \\(IHD = \\frac{2C + 2 + N - H - X}{2}\\)<br> (where X = halogens)<br><br><b>(i) \\(C_4H_{11}NSO\\):</b><br>• Count: 4C, 11H, 1N, 1S (O ignored)<br>• Calculation: \\(\\frac{(2\\times4) + 2 + 1 - 11}{2} = 0\\)<br>• <b>Interpretation:</b> No rings/double bonds (saturated)<br><br><b>(ii) \\(C_7H_{10}BrClO\\):</b><br>• Count: 7C, 10H, 1Br, 1Cl (O ignored)<br>• Calculation: \\(\\frac{(2\\times7) + 2 - 10 - 1 - 1}{2} = 2\\)<br>• <b>Possible structures:</b> Could indicate 3 rings, 3 double bonds, 1 triple bond + 1 double bond, or combinations"
+  }
+},
+
+
+
+
+  
+  
+  
+  
+
+{
+  "type": "Question",
+  "name": "Question 29",
+  "Question": {
+    "content": "Suggest the types of hybrid orbitals you will find in a compound with molecular formula (C₄H₈S)",
+    "type": "subjective"
   },
-  {
-    "type": "Question",
-    "name": "Question 35",
-    "Question": {
-      "content": "In the analysis of a hydrocarbon a known weight of the compound was mixed with dry copper oxide and heated in a test tube. The evolved gas was passed through calcium hydroxide solution which turned cloudy. Which gas was evolved?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "\\(CO_2\\) will turn the calcium hydroxide solution cloudy loudy (milky). The gas is evolved is \\(CO_2\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
-  }]
+  "Answer": {
+    "type": "string",
+    "content": "sp³ (tetrahedral) and sp² (trigonal planar)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Analysis:</b><br>1. <b>IHD = 1</b> (implies one double bond or ring)<br>2. <b>Possible Structures:</b><br>   • Thiophene (cyclic): sp² at all carbons and sulfur<br>   • Thioether with double bond: sp³ at saturated C/S, sp² at C=C<br>3. <b>Typical Hybridization:</b><br>   • Sulfur in thioethers: sp³<br>   • Carbon in double bonds: sp²<br>   • Carbon in single bonds: sp³"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 30",
+  "Question": {
+    "content": "One gram each of sand and salt were mixed and dissolved in 20 cm³ of water. What is the content of the filtrate?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Sodium chloride solution (NaCl + H₂O)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Separation Process:</b><br>1. <b>Soluble Component:</b> NaCl dissolves completely in water<br>2. <b>Insoluble Component:</b> Sand (SiO₂) remains as solid<br>3. <b>Filtration:</b> Sand is retained on filter paper, filtrate contains only aqueous NaCl<br>4. <b>Evidence:</b> Filtrate will conduct electricity due to ions"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "Question": {
+    "content": "The m.pt for two samples of a compound was taken. One sample gave 80-85°C and another 81°C. Which is purer?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Sample with sharp melting point (81°C)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Purity Indicators:</b><br>1. <b>Pure Compounds:</b> Melt within 0.5-1°C range<br>2. <b>Impure Compounds:</b> Broader range (80-85°C shows impurities)<br>3. <b>Scientific Principle:</b> Impurities depress and broaden melting point<br>4. <b>Application:</b> 81°C sample is >99% pure, while 80-85°C sample contains impurities"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "Question": {
+    "content": "Mention two methods for the isolation of an organic compound",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Distillation<br>2. Chromatography"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Isolation Techniques:</b><br>1. <b>Distillation:</b><br>   • Separates by boiling point differences<br>   • Types: Simple, fractional, steam<br>2. <b>Chromatography:</b><br>   • Separates by affinity to stationary phase<br>   • Types: Column, TLC, HPLC<br><br><b>Other Methods:</b> Recrystallization, extraction, sublimation"
+  }
+},
+
+
+{
+  "type": "Question",
+  "name": "Question 33",
+  "Question": {
+    "content": "8.0 cm³ of gaseous hydrocarbon, X, was exploded with 54.0 cm³ of oxygen. The volume of the gaseous product after cooling to room temperature was 38.0 cm³, of which 6.0 cm³ remained after treatment with aqueous KOH. <br>(i) What volume of carbon (IV) oxide formed? <br>(ii) What volume of oxygen reacted? <br>(iii) what is the formula of X?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "(i) 32.0 cm³ \\(CO_2\\) <br>(ii) 48.0 cm³ \\(O_2\\) <br>(iii) \\(C_4H_8\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Combustion Analysis Steps:</b><br><br><b>(i) Volume of \\[CO_2\\] formed:</b><br>\\[ \\text{Total gas after reaction} = 38.0\\,cm^3 \\]<br>\\[ \\text{Remaining gas after KOH} = 6.0\\,cm^3 \\ \\text{(unreacted } O_2\\text{)} \\]<br>\\[ \\text{Volume } CO_2 = 38.0 - 6.0 = \\boxed{32.0\\,cm^3} \\]<br><br><b>(ii) Volume of \\[O_2\\] reacted:</b><br>\\[ \\text{Initial } O_2 = 54.0\\,cm^3 \\]<br>\\[ \\text{Unreacted } O_2 = 6.0\\,cm^3 \\]<br>\\[ \\text{Reacted } O_2 = 54.0 - 6.0 = \\boxed{48.0\\,cm^3} \\]<br><br><b>(iii) Determine \\[C_xH_y\\] formula:</b><br><b>Step 1: Mole ratio from \\[CO_2\\]</b><br>\\[ \\frac{32.0\\,cm^3}{8.0\\,cm^3} = 4 \\ \\text{(4 C atoms per molecule)} \\]<br><b>Step 2: Balance oxygen atoms</b><br>General equation: \\[ C_xH_y + \\left(x + \\frac{y}{4}\\right)O_2 \\rightarrow xCO_2 + \\frac{y}{2}H_2O \\]<br>\\[ \\text{Volume ratio } O_2:CO_2 = 48:32 = 3:2 \\]<br>\\[ x + \\frac{y}{4} = 6 \\ \\text{and} \\ x = 4 \\]<br>\\[ 4 + \\frac{y}{4} = 6 \\Rightarrow y = 8 \\]<br>\\[ \\text{Formula} = \\boxed{C_4H_8} \\]"
+  }
+},
+  
+  
+  
+  
+  
+{
+  "type": "Question",
+  "name": "Question 34",
+  "Question": {
+    "content": "Give two spectroscopic techniques used in identification of organic compounds",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Infrared (IR) spectroscopy <br>. Nuclear Magnetic Resonance (NMR) spectroscopy"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Infrared Spectroscopy:</b><br>• Measures absorption of IR radiation by molecular vibrations <br>• Functional group identification via characteristic frequencies (e.g., \\( C=O \\  \\approx 1700cm^{-1}\\) )<br> <br><b>NMR Spectroscopy:</b> <br>• Analyzes nuclear spin transitions in magnetic fields  <br>• \\(^1H\\) NMR reveals hydrogen environments (chemical shifts \\(\\delta\\) in ppm)  <br>• \\(^{13}C\\) NMR shows carbon skeleton <br> <br><u>Other Techniques:</u> <br>• Mass spectrometry (molecular weight/fragmentation) <br>• UV-Vis spectroscopy (conjugated systems)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "Question": {
+    "content": "In the analysis of a hydrocarbon, a known weight was mixed with dry copper oxide and heated. The evolved gas turned calcium hydroxide solution cloudy. Which gas was evolved?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Carbon dioxide \\( CO_2\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Combustion Analysis:</b> <br>1. <b>Reaction:</b>  <br> \\( C_xH_y + CuO \\rightarrow (\\Delta) xCO_2 + \\frac{y}{2}H_2O + Cu \\) <br>2. <b>Gas Test:</b>  <br> \\( CO_{2(g)} + Ca(OH)_{2(aq)} \\rightarrow CaCO_3(s)↓ + H_2O_{(l)} \\) <br> <i>•Observation:</i> White precipitate \\(CaCO_3\\) causes cloudiness <br> <br><b>Key Points:</b> <br>• Copper oxide (\\(CuO\\)) oxidizes hydrocarbon <br>• Only \\(CO_2\\) produces this result with limewater <br>• Quantitative analysis possible by measuring \\(CO_2\\) mass "
+    
+  }
+}
+]
+
+
