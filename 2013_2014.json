@@ -10,23 +10,22 @@
     "type": "Instruction",
     "content": "Answer all questions."
   },
-  {
-    "type": "Question",
-    "name": "Question 1",
-    "Question": {
-      "content": "Draw two structural isomers for the compound C₃H₆",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Propene and cyclopropane"
-    },
-    "Explanation": {
-      "type": "img",
-      "alt": "Image of Propene and cyclopropane",
-      "content": "https://lh3.googleusercontent.com/d/1VkHNj_sOmsIgQvbiy9ptQc1JJRsCDsZ5"
-    }
+    {
+  "type": "Question",
+  "name": "Question 1",
+  "Question": {
+    "content": "Draw possible cyclopropenes with the molecular formula \\(C_4H_6\\)",
+    "type": "subjective"
   },
+  "Answer": {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1VkHNj_sOmsIgQvbiy9ptQc1JJRsCDsZ5"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Structural Isomers</b> for C₃H₆ share the same molecular formula but differ in bonding arrangement:<br><br>1. <b>Propene</b> (alkene):<br>   - Structure: CH₃-CH=CH₂<br>   - Features: Contains a double bond (C=C) between two carbons, making it unsaturated.<br><br>2. <b>Cyclopropane</b> (cycloalkane):<br>   - Structure: Three carbons in a ring (△)<br>   - Features: Single bonds only; ring strain due to 60° bond angles (vs. ideal 109.5°).<br><br><b>Key Difference:</b><br>- Propene: Open-chain with π-bond reactivity.<br>- Cyclopropane: Ring structure with angle strain (explosive reactivity)."
+  }
+},
   {
     "type": "Question",
     "name": "Question 2",
