@@ -567,7 +567,7 @@
     "type": "Question",
     "name": "Question 35",
     "Question": {
-      "content": "Calculate the molecular formula of a compound that contains 40% carbon, 6.7% Hydrogen and 53.3% oxygen by mass. Molecular wight of compound is \\(180gmol^-¹\\)",
+      "content": "Calculate the molecular formula of a compound that contains 40% carbon, 6.7% Hydrogen and 53.3% oxygen by mass. Molecular wight of compound is \\(180gmol^{-1}\\)",
       "type": "subjective"
     },
     "Answer": {
