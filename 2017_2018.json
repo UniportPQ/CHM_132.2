@@ -1,0 +1,583 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "SUBJECTIVE",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM 132.2",
+    "session": "2017/2018",
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all questions."
+  },
+  {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/ ",
+    "alt": "chemical reaction",
+    "Caption": "Use this diagram to answer the question below"
+  }
+    , {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "How many pi-bonds are present in 2,3-dimethylhexane____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zero (0)."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "The smallest alkane that can form a ring structure is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Propane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "The percentage of p-character in sp³ hybridized carbon is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "75%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "sp² hybridized carbon has ___ geometry with ___ bond angles",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "trigenalplanar and 120°"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "The dehydration of ethanolto give othene is type of ___ reaction",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Elimination reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The bond angles for tetrahedral molecules is ___ while that of planar molecules is_____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "109.5° & 120°"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Alkynes form insoluble steetylides with____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "strong base"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Reactions that proceeds through many intermediates (multistep reactions) are called",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "chain reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Orbitals of equal energy are called,",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Degenerate orbitals (E.g Px, Py, Pz)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "Homolysis in chemistry leads to the production of",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Free radicals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Calculate the index of hydrogen deficiency (IHD) of \\(C_7H_{10}\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "From the following list, circle the one(s) that is/are not made of organic compounds; dyes, ba pure water, dry wood, shirt, paraceutamol, grass",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pure water (H₂O doesn't contain carbon)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "The first organic compounds synthesized in the laboratory is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(Urea (NH_2-CO-NH_2)\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "In sodium fudion test, the sodium halide formed was reacted with silver trionitrate (V) to form a yellow precipitate, which is insoluble in excess ammonia. This shows that the analyte contains",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "lodide ion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "Which of the following is an example of heteroaliphatic compound? ",
+      "type": "OBJ",
+      "options": ["canettol", "cyclopentane" , "methylethyl ether" , "n-pentane"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "methylethyl ethe"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Arrange the structures of butane, methylpropane and cyclobutane an order of decreasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyclobutane > butane > methylpropane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "The average energy required to break a Weak bond in a compound is called",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bond Energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Crude oil can be separated into its useful products by",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fractional distillation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Write an equation for the complete combustion of propane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_3H_8 + 5O_2 \\rightarrow 3CO_2 + 4H_2O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "What is the product of the reaction of propene with hydrogen bromide?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-bromopropane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Give the structure of the major product of the reaction of but-2-ene with cold \\(KMnO_4\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": ""
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "What is the hybridization and molecular geometry for methane? ___ and ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Methane is an alkane. <br> Hybridization => sp³ & molecular geometry => tetrahedral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "How many sigma bonds and pi-bonds are present in a molecule of propylene?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sigma bonds=8 & Pi-bonds = 1"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Which of the following compounds will exhibit cis-trans (geometrical) isomerism?",
+      "options": ["2-butene","2-butyne","2-butanol"],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-butene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "The formation of violet colour when sodium nitroprusside is addudatos sodium extract (during Lassigne test) indicates the presence of",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sulphur (S)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "The laboratory instrument used to separate liquid-liquid immiscible mixture is___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "separating funnel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Draw the structure of 3-ethyl-2-methylhex-1-ene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": ""
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Give the product of dehydrohalogenation of 2-bromopent-2-ene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-pentyne"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "The product of the reaction between 2-butyne and 2 molecules of hydrogen is __",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Draw the structure of 2-ethyl-1,4-dimethylcyclohexene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": ""
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Give the laboratory test used to differentiate between pentene and pentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bromine water test & The Baeyer test"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "The most important natural source of hydrocarbon is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Crude oil"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Give the IUPAC nomenclature of \\(CH_3CH_2C(CH_3)CH_2CH_2CH_3\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3,3-dimethylhexane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Mention two spectroscopic technique",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Infrared spectroscopy and Mass spectroscopy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+  , {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Calculate the molecular formula of a compound that contains 40% carbon, 6.7% Hydrogen and 53.3% oxygen by mass. Molecular wight of compound is \\(180gmol^-¹\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_6H_{12}O_6\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": ""
+    }
+  }
+]
+
