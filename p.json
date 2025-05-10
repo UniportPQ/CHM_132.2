@@ -42,7 +42,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "<b>Complete Combustion of Octane:</b><br>\\[C_8H_{18(g)} + \\frac{25}{2}O_{2(g)} \\rightarrow 8CO_{2(g)} + 9H_2O_{(l)}\\(<br><br><b>Key Points:</b><br>• <b>Products:</b> CO₂ (greenhouse gas) and H₂O (liquid).<br>• <b>Conditions:</b> Excess oxygen ensures complete combustion (no CO or soot).<br>• <b>Stoichiometry:</b> 1 mol octane requires 12.5 mol O₂ for full oxidation.<br>• <b>Energy:</b> Exothermic reaction (releases heat, used in engines).<br><br><b>Note:</b> Incomplete combustion (limited O₂) produces toxic carbon monoxide (CO)."
+      "content": "<b>Complete Combustion of Octane:</b><br>\\[C_8H_{18(g)} + \\frac{25}{2}O_{2(g)} \\rightarrow 8CO_{2(g)} + 9H_2O_{(l)}\\]<br><br><b>Key Points:</b><br>• <b>Products:</b> CO₂ (greenhouse gas) and H₂O (liquid).<br>• <b>Conditions:</b> Excess oxygen ensures complete combustion (no CO or soot).<br>• <b>Stoichiometry:</b> 1 mol octane requires 12.5 mol O₂ for full oxidation.<br>• <b>Energy:</b> Exothermic reaction (releases heat, used in engines).<br><br><b>Note:</b> Incomplete combustion (limited O₂) produces toxic carbon monoxide (CO)."
     }
   },
   {
