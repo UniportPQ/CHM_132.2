@@ -12,40 +12,26 @@
     "content": "Answer all questions."
   },
   {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/ ",
-    "alt": "chemical reaction",
-    "Caption": "Use this diagram to answer the question below"
-  },
-  
-  {
     "type": "Question",
     "name": "Question 1",
     "Question": {
-      "content": "Complete the Reaction above.",
+      "content": "<img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1dCgz8BKtks0ym1KBSIGQMX_kdtb_Wtai'> Complete the Reaction above.",
       "type": "subjective"
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1dIvpVqPWeC6I6_2ucJN41k2zh6Zn5R9L"
     },
     "Explanation": {
       "type": "string",
       "content": ""
     }
   },
-  
-  {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/ ",
-    "alt": "chemical reaction",
-    "Caption": "Use this diagram to answer the question below"
-  },
-  {
+    {
     "type": "Question",
     "name": "Question 2",
     "Question": {
-      "content": "Name the reaction above.",
+      "content": "Name the reaction below.<img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1dO2Q19qr9GCIRdoXr3LvE-qakTsXYLmf'> ",
       "type": "subjective"
     },
     "Answer": {
@@ -57,24 +43,16 @@
       "content": ""
     }
   },
-  
-  
-  {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/ ",
-    "alt": "chemical reaction",
-    "Caption": "Use this diagram to answer the question below"
-  },
-  {
+    {
     "type": "Question",
     "name": "Question 3",
     "Question": {
-      "content": "Name the compound above",
+      "content": "Name the compound below. <img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1dPsFBE5MDi7asGKTJve7LLXB7pLJMsB8'> ",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": ""
+      "content": "But-2-ene"
     },
     "Explanation": {
       "type": "string",
@@ -112,18 +90,12 @@
       "type": "string",
       "content": ""
     }
-  },
-    {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/ ",
-    "alt": "chemical reaction",
-    "Caption": "Use this diagram to answer the question below"
   }
   , {
     "type": "Question",
     "name": "Question 6",
     "Question": {
-      "content": "What type of reaction is occurring above",
+      "content": "What type of reaction is occurring below. <img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1dSvKRkssokHzcQyY-t8fvtDKKdwIT-s5'> ",
       "type": "subjective"
     },
     "Answer": {
@@ -176,7 +148,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1dX_bRtif9scNqb8YalTDZWa6JOeEmKzL"
     },
     "Explanation": {
       "type": "string",
@@ -224,7 +196,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1dXcpswlrGMoMkrGIWKWkmMFooGeHFhSr"
     },
     "Explanation": {
       "type": "string",
@@ -561,7 +533,7 @@
     "type": "Question",
     "name": "Question 33",
     "Question": {
-      "content": "Which functional group contained in the compound above",
+      "content": "Which functional group contained in the compound below. <img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1dgjBI9k7emTIp7GVCXwfAYa-IdXeDUht'> ",
       "type": "subjective"
     },
     "Answer": {
@@ -607,4 +579,3 @@
   }
   
 ]
-
