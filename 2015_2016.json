@@ -82,8 +82,9 @@
         "type": "subjective"
       },
       "Answer": {
-        "type": "string",
-        "content": "propene => 2-bromopropane"
+        "type": "img",
+        "alt": "propene => 2-bromopropane",
+             "content": "https://lh3.googleusercontent.com/d/1c7EHkqXMPE8Nbk2caDWqMU2YZ9Fdt7fL"
       },
       "Explanation": {
         "type": "img",
@@ -115,7 +116,7 @@
       },
       "Answer": {
         "type": "img",
-        "content": ""
+        "content": "https://lh3.googleusercontent.com/d/1cA0XNLQVumLY_udXhXkFn3Ejiu1udSFU"
       },
       "Explanation": {
         "type": "string",
@@ -179,8 +180,8 @@
         "type": "subjective"
       },
       "Answer": {
-        "type": "string",
-        "content": "img"
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1cB0UnRW--_z3E9JGHOY9DAruIdJqyPg4"
       },
       "Explanation": {
         "type": "string",
@@ -371,8 +372,8 @@
         "type": "subjective"
       },
       "Answer": {
-        "type": "string",
-        "content": "imh"
+        "type": "img",
+        "content": "https://lh3.googleusercontent.com/d/1cK7Ua6yfgGMhUK86sq4YMvcr5F7O11P5"
       },
       "Explanation": {
         "type": "string",
@@ -518,7 +519,7 @@
       "Answer": {
         "type": "img",
         "alt": "2,2-dimethylpropane",
-        "content": ""
+        "content": "https://lh3.googleusercontent.com/d/1cY-lRt0zct_SPQ2P3hwYlI-y9yN1BuJW"
       },
       "Explanation": {
         "type": "string",
@@ -558,18 +559,6 @@
         "content": ""
       }
     }
-
-
-
-
-
-
-
-
-
-
-
-
 
   ,{
       "type": "Question",
