@@ -50,12 +50,13 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "Butylbenzene and Benzoic acid"
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1agwh3iTiWfH5syXdtADEZBkYNqI4Isyj",
+      "alt": "Butylbenzene and Benzoic acid"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "Butylbenzene and Benzoic acid"
     }
   },
   {
@@ -146,12 +147,12 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "Sigma bonds = 10 <br> Pi bonds = 3"
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1ahGbd3zkI8SduTe1-FEIH9KyrdI7pX3s"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "Sigma bonds = 10 <br> Pi bonds = 3"
     }
   },
      {
@@ -246,7 +247,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1an3R1q0bsoqf_S14f6T9Ej3rkrsSguxS"
     },
     "Explanation": {
       "type": "string",
@@ -279,7 +280,7 @@
     "Answer": {
       "type": "img",
       "alt": "2,2-dimethylpropane",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1aoOTUlHmhHK8cJXQXXhWGl9zVHiIQM0N"
     },
     "Explanation": {
       "type": "string",
@@ -311,7 +312,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1apaOoMaMOnsU8nESfsFzANHU2bsD2a3t"
     },
     "Explanation": {
       "type": "string",
@@ -327,7 +328,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "5-amino-3-chloro-2-octano",
+      "content": "https://lh3.googleusercontent.com/d/1atF-D_rHq3XQtEag1f1eHGcaCbPA5VxW"
     },
     "Explanation": {
       "type": "string",
@@ -343,7 +345,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1atl_q4-lkCJ8yiO3dBhh0lt6g-Mbp6_q"
     },
     "Explanation": {
       "type": "string",
@@ -375,7 +377,8 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Benzene and Benzenesulfonic acid"
+      "content": "https://lh3.googleusercontent.com/d/1avqoDcmmsmJZAXDhgwPVFI200sZ9hCwh",
+      "alt": "Benzene and Benzenesulfonic acid"
     },
     "Explanation": {
       "type": "string",
@@ -451,7 +454,7 @@
     "type": "Question",
     "name": "Question 28",
     "Question": {
-      "content": "What type of reaction is shown in the following transformation",
+      "content": "What type of reaction is shown in the transformation below <img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1b-Br2T1wg-XHQHk1NzW56vE9S4wI_PPo'>",
       "type": "subjective"
     },
     "Answer": {
@@ -478,7 +481,7 @@
       "type": "string",
       "content": ""
     }
-  },
+  },  
     {
     "type": "Question",
     "name": "Question 30",
@@ -496,17 +499,17 @@
     }
   },
 
+
     {
     "type": "Question",
     "name": "Question 31",
     "Question": {
-      "content": "Which of the following is/are heterocyclic compound",
-     "options": ["<img src='/img/math.jpg'>", "<img src='/img/math.jpg'>", "<img src='/img/math.jpg'>", "<img src='/img/math.jpg'>"],
-      "type": "OBJ"
+      "content": "Which of the following is/are heterocyclic compound. <img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1b5DHl9XVe6BMqvOW3zreFDNU_L9E-gRR'>",
+      "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": 7
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1b72tvGFrqhTUb4C_V1lVxZ5zqeohOYks"
     },
     "Explanation": {
       "type": "string",
@@ -553,8 +556,9 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "2,3-Dimethylbut-2-ene"
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1bHHQ2ROkBILktlhZOqG3bU8AZZfNsqAe",
+      "alt": "2,3-Dimethylbut-2-ene"
     },
     "Explanation": {
       "type": "string",
