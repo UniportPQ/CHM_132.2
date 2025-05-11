@@ -12,12 +12,6 @@
     "content": "Answer all questions."
   },
   {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/ ",
-    "alt": "chemical reaction",
-    "Caption": "Use this diagram to answer the question below"
-  }
-  , {
     "type": "Question",
     "name": "Question 1",
     "Question": {
@@ -27,7 +21,7 @@
     "Answer": {
       "type": "img",
       "alt": "4-ethyl-2-methylheptane",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1eGXLZl90JKIVjjsVDAkbTKwj4yd1Cn1w"
     },
     "Explanation": {
       "type": "string",
@@ -189,7 +183,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1eTQAjTib9hSl7IvPCWAMzGxBCt0NzzBc"
     },
     "Explanation": {
       "type": "string",
@@ -303,7 +297,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "benzenesulphonic acid",
+      "content": "https://lh3.googleusercontent.com/d/1ekxUNdMHjldhhDvgjYOqCI1ygahtZ2eO"
     },
     "Explanation": {
       "type": "string",
@@ -318,8 +313,9 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "Sigma bonds = 5"
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1f0o7YLo98PcNIMlj25a7FvSEyasU0zqj",
+      "alt": "Sigma bonds = 5"
     },
     "Explanation": {
       "type": "string",
@@ -398,8 +394,9 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "propanone"
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1f0zbilpQATewAK4D_v3TTqQ6wdqUQMJN",
+      "alt": "propanone"
     },
     "Explanation": {
       "type": "string",
@@ -511,7 +508,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "benzoic ethanoic anhydride",
+      "content": "https://lh3.googleusercontent.com/d/1f5KBoW1ic74L-mIeUcTLPnbSK5vQmFE8"
     },
     "Explanation": {
       "type": "string",
@@ -584,4 +582,3 @@
   }
 
 ]
-
