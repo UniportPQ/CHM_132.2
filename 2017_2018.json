@@ -10,12 +10,6 @@
   {
     "type": "Instruction",
     "content": "Answer all questions."
-  },
-  {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/ ",
-    "alt": "chemical reaction",
-    "Caption": "Use this diagram to answer the question below"
   }
     , {
     "type": "Question",
@@ -330,8 +324,9 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "string",
-      "content": "2-bromopropane"
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1dwlFxM8jEJWwSIyz7zBq3tWzDr0MaZpR",
+      "alt": "2-bromopropane"
     },
     "Explanation": {
       "type": "string",
@@ -347,7 +342,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "Butane-2,3-diol",
+      "content": "https://lh3.googleusercontent.com/d/1dwwje9QrRoiwGu84w5WxTINhmS6L8yyP"
     },
     "Explanation": {
       "type": "string",
@@ -379,7 +375,8 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Sigma bonds=8 & Pi-bonds = 1"
+      "content": "https://lh3.googleusercontent.com/d/1e1oqzfUSjt_7V9YlTSgYjaYRBtA9rPZ2",
+      "alt": "Sigma bonds=8 & Pi-bonds = 1"
     },
     "Explanation": {
       "type": "string",
@@ -444,7 +441,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "3-ethyl-2-methylhex-1-ene",
+      "content": "https://lh3.googleusercontent.com/d/1e6LgLrivh_cZkaqybyK_1nfV3AXaPpan"
     },
     "Explanation": {
       "type": "string",
@@ -492,7 +490,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "2-ethyl-1,4-dimethylcyclohexene",
+      "content": "https://lh3.googleusercontent.com/d/1e7iDCgoIb5OdbLQcve9GZ61z36WhcuNu"
     },
     "Explanation": {
       "type": "string",
@@ -580,4 +579,3 @@
     }
   }
 ]
-
