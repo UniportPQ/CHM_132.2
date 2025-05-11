@@ -10,12 +10,6 @@
   {
     "type": "Instruction",
     "content": "Answer all questions."
-  },
-  {
-    "type": "img",
-    "content": "https://lh3.googleusercontent.com/d/ ",
-    "alt": "chemical reaction",
-    "Caption": "Use this diagram to answer the question below"
   }
   ,{
     "type": "Question",
@@ -60,7 +54,7 @@
     "Answer": {
       "type": "img",
       "alt": "bicylco[3.2.1] octane",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1fkj2s3bfEw5fuyrpC5SPhS__lP27Dip5"
     },
     "Explanation": {
       "type": "string",
@@ -124,7 +118,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "2-butylbenzene",
+      "content": "https://lh3.googleusercontent.com/d/1fnZ1c-8LwcEOiryrMXNJyWEogWcsiDNG"
     },
     "Explanation": {
       "type": "string",
@@ -140,7 +135,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "pentane"
+      "content": "<img alt='pentane' class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1fpLVGtnmPZzDCNyPJMy-cj18UGvkVZQD'>  <center>pentane</center>"
     },
     "Explanation": {
       "type": "string",
@@ -156,7 +151,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "4-(2-butyl)phenol",
+      "content": "https://lh3.googleusercontent.com/d/1ft4IE10crXtto0_ysit5SuwA0uDAqY7U"
     },
     "Explanation": {
       "type": "string",
@@ -221,7 +217,7 @@
     "Answer": {
       "type": "img",
       "alt": "cis-2-butene",
-      "content": ""
+      "content": "https://lh3.googleusercontent.com/d/1fuWhJSwoFsM4jdCHYoQAPmxGgpozgst0"
     },
     "Explanation": {
       "type": "string",
@@ -253,7 +249,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "3-chloro-4-phenyl-4-hexanal",
+      "content": "https://lh3.googleusercontent.com/d/1fx3UsNn_VBYNyuBN4Ely5KB7vDLEK33b"
     },
     "Explanation": {
       "type": "string",
@@ -301,7 +298,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Lewis acid \\(AlCl_3\\) or \\(PCl_3\\)"
+      "content": "<center>Lewis acid \\(AlCl_3\\) or \\(PCl_3\\)</center>"
     },
     "Explanation": {
       "type": "string",
@@ -317,7 +314,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "2"
+      "content": "<center>Pie bond 2 (found in the triple bond)</center> <img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1fyv5SGoNgd4wJ7dV0UuoUlsJ2ISay_d1'> "
     },
     "Explanation": {
       "type": "string",
@@ -382,7 +379,8 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "3-chloro-4-hydroxy-butanoic acid",
+      "content": "https://lh3.googleusercontent.com/d/1fz6ShBlAwDl5oEJFKUgmG4UYWSWn3WWc"
     },
     "Explanation": {
       "type": "string",
@@ -586,4 +584,5 @@
     }
   }
 ]
+
 
