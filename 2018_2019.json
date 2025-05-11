@@ -330,8 +330,8 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "img",
-      "content": ""
+      "type": "string",
+      "content": "\\(CH_3CH_2-C≡C-CH-CH_2\\)"
     },
     "Explanation": {
       "type": "string",
