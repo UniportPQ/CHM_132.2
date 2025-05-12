@@ -10,574 +10,569 @@
     "type": "Instruction",
     "content": "Answer all questions."
   },
-  {
-      "type": "Question",
-      "name": "Question 1",
-      "Question": {
-        "content": "Circle the secondary amine(s) from the compound below: <br> (i) \\(CH_3N(CH_3)_2\\) <br>(ii) \\(CH_3CH_2NHCH_3\\) <br>(iii) \\((CH_3)_2CHNH_2\\) <br>(iv) \\(CH_3NHCH_2CH_3\\)",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "\\( (ii) CH_3CH_2NHCH_3\\)  <center>&</center>\\( (iv) CH_3NHCH_2CH_3\\)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": "Secondary amines are amines that have two (2) carbons directly attached to the N of the amine"
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 2",
-      "Question": {
-        "content": "Provide a correct systemic name for <i>2-chloro-2-bromo-3-hydroxyl pentane</i>",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "2-bromo-2-chloropentan-3-ol"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": "<ul> <li>The hydroxy group (OH) is meant to be named as 'ol'</li> <li> The correct systematic name is 2-bromo-2-chloropentan-3-ol </li></ul>"
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 3",
-      "Question": {
-        "content": "Identify the class of the organic compound; \\(CH_3CO_2COCH_3\\)",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Acid Anhydride (Has a general formula of \\(RCOOCOR.\\) (Where R ==> alkyl group)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 4",
-      "Question": {
-        "content": "Arrange n-hexane, cyclohexane and 3-methyl pentane in an order of decreasing boiling point",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Cyclohexane > n-hexane > 3-methylpentane"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 5",
-      "Question": {
-        "content": "What is the product of the reaction of hydrogen bromide with propene?",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "img",
-        "alt": "propene => 2-bromopropane",
-             "content": "https://lh3.googleusercontent.com/d/1c7EHkqXMPE8Nbk2caDWqMU2YZ9Fdt7fL"
-      },
-      "Explanation": {
-        "type": "img",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 6",
-      "Question": {
-        "content": "Account for the different in boiling points between methoxymethane and ethanol, although both have the same molecular formula",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Ethanol can form hydrogen bonding whereas methoxymethane cannot."
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 7",
-      "Question": {
-        "content": "Draw the structure of the product of reaction of benzene with ethanoyl chloride in the presence of \\(AlCl_3\\)",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "img",
-        "content": "https://lh3.googleusercontent.com/d/1cA0XNLQVumLY_udXhXkFn3Ejiu1udSFU"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 8",
-      "Question": {
-        "content": "List any two modern techniques for structural elucidation of organic compounds",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "<ul> <li>Nuclear Magnetic Resonance (NMR) </li>  <li>Infrared spectroscopy</li></ul>"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 9",
-      "Question": {
-        "content": "Name any two techniques used for separation of a mixture of organic compounds",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "<ul> <li>Chromatography </li>  <li>Filtration </li></ul>"
-
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 10",
-      "Question": {
-        "content": "What type of isomerism exists in 2-chloropentane and 3-chloropentane",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Positional isomerism"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 11",
-      "Question": {
-        "content": "Provide a structure for the compound ethyl methanoate",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "img",
-        "content": "https://lh3.googleusercontent.com/d/1cB0UnRW--_z3E9JGHOY9DAruIdJqyPg4"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 12",
-      "Question": {
-        "content": "A mixture of hexane and water is said to be",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "immiscible"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 13",
-      "Question": {
-        "content": "What is the relationship between bond length and unsaturation?",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Bond length decreases with increase in unsaturation (sp³ > sp² >sp)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 14",
-      "Question": {
-        "content": "An organic compound has an empirical formula of CH₂O and a molecul weight of 60. Give the molecular formula of the compound",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "\\(C_2H_4O_2\\)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 15",
-      "Question": {
-        "content": "Which of these are chromatographic technique in the study of organic compounds (i)Thin layer (ii)Carbon (iii)Paper (iv)Gas (v)Solid",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": " <ul> <li>Thin Layer</li>  <li>Paper</li> <li>Gas</li></ul>"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 16",
-      "Question": {
-        "content": "What does the homolysis of bonds real in?",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Homolysis gives <b>FREE RADICAL</b>"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 17",
-      "Question": {
-        "content": "What types of hybrid orbitals arctresponsible for the bonds found in propyne?",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "sp³ & sp"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 18",
-      "Question": {
-        "content": "What are the reagents required to product 1-bromo-1-methylcyclopentane from 1-methyl pentene?",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "the reaction is elimination reaction (loss of HBr); Reagent → кон"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 19",
-      "Question": {
-        "content": "What is the IUPAC nomenclature of the compound \\(CH_3CH_2OCH_3\\)?",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Methoxyethane"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 20",
-      "Question": {
-        "content": "What differentiates a class of organic compound from another?",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Functional group"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 21",
-      "Question": {
-        "content": "Write an equation that describes the complete combustion of butane",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "\\(C_4H_{10} + \\frac{13}{2}O_2 \\rightarrow 4CO_2 + 5H_2O\\)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 22",
-      "Question": {
-        "content": "Give the structures or names of the reagents that will be required to produce ethylbenzene from benzene",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "\\(Ethylchloride (CH₂CH₂Cl)  \\ and  \\ Friedel   \\  catalyst \\rightarrow AICl_3(Aluminium chloride)\\)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 23",
-      "Question": {
-        "content": "Draw the structure of the main product of treating cyclopentene with cold \\(KMnO_4\\)",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "img",
-        "content": "https://lh3.googleusercontent.com/d/1cK7Ua6yfgGMhUK86sq4YMvcr5F7O11P5"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 24",
-      "Question": {
-        "content": "What is the general formula for cycloalkanes?",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "\\(C_nH_{2n}\\)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 25",
-      "Question": {
-        "content": "What is the product of treating 1-butyne with 1 mole of chlorine",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "\\(1,2-dichlorobut-2-ene(CH_3CH_3C(Cl)=CH(Cl))\\)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-
-  {
-      "type": "Question",
-      "name": "Question 26",
-      "Question": {
-        "content": "In a laboratory set up for paper chromatography, the distance travelled by a substance is 3cm calculate the Rf value if the distance travelled by the solvent is 4.5cm",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "\\(R_f = 0.667\\)"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
     {
-      "type": "Question",
-      "name": "Question 27",
-      "Question": {
-        "content": "The ability of carbon to formahains with itself is called",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Catenation"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 28",
-      "Question": {
-        "content": "Sate as true or false the statement that all organic compounds contain carbon and hydrogen only.",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "FALSE"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 29",
-      "Question": {
-        "content": "Give the full meaning of <b>NMR</b>",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Nuclear Magnetic Resonance <b>(NMR)</b>"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 30",
-      "Question": {
-        "content": "The positively charged species in heterolytic cleavage is called",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Carbocation"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 31",
-      "Question": {
-        "content": "An electrophile is a reagent that attacks a substrate at a position of low electron density",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "FALSE"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    },
-  {
-      "type": "Question",
-      "name": "Question 32",
-      "Question": {
-        "content": "Draw the structure and give the IUPAC name of an alkane with the molecular formula \\(C_2H_{12}\\) that has only primary hydrogens",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "img",
-        "alt": "2,2-dimethylpropane",
-        "content": "https://lh3.googleusercontent.com/d/1cY-lRt0zct_SPQ2P3hwYlI-y9yN1BuJW"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    }
-  ,{
-      "type": "Question",
-      "name": "Question 33",
-      "Question": {
-        "content": "Give the name and structure of the product of hydrobromiation of propene",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "img",
-        "alt": "propene and 2-bromopropane",
-        "content": "https://lh3.googleusercontent.com/d/1d69R81yWaCy5lQozzGuPgtgqw53exvTk"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    }
-  ,{
-      "type": "Question",
-      "name": "Question 34",
-      "Question": {
-        "content": "In a chromatographic separation technique, <b> Rf </b> means",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": "Retention Factor"
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    }
-
-  ,{
-      "type": "Question",
-      "name": "Question 35",
-      "Question": {
-        "content": "Which of the following is NOT a carboxylic acid derivative  \\((i) CH_3CO₂H. \\) \\( (ii) CH_3CONH_2. \\)  \\( (iii) CH_3CH_2CH_2Cl.\\)   \\((iv) CH_3CH_2COCl\\)",
-        "type": "subjective"
-      },
-      "Answer": {
-        "type": "string",
-        "content": " \\( (iii) CH_3CH_2CH_2Cl.\\) "
-      },
-      "Explanation": {
-        "type": "string",
-        "content": ""
-      }
-    }
-  
+  "type": "Question",
+  "name": "Question 1",
+  "Question": {
+    "content": "Circle the secondary amine(s) from the compound below: <br> (i) \\(CH_3N(CH_3)_2\\) <br>(ii) \\(CH_3CH_2NHCH_3\\) <br>(iii) \\((CH_3)_2CHNH_2\\) <br>(iv) \\(CH_3NHCH_2CH_3\\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\( (ii) CH_3CH_2NHCH_3\\)  <center>&</center> \\( (iv) CH_3NHCH_2CH_3\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "A <strong>secondary amine</strong> has <strong>two carbon groups</strong> attached to the nitrogen (N). <br><br><strong>Breakdown:</strong> <br>- (i) \\(CH_3N(CH_3)_2\\): <em>Tertiary</em> (3 carbons on N). <br>- (ii) \\(CH_3CH_2NHCH_3\\): <em>Secondary</em> (2 carbons: \\(CH_3CH_2\\)- and \\(CH_3\\) ). <br>- (iii) \\((CH_3)_2CHNH_2\\): <em>Primary</em> (1 carbon on N). <br>- (iv) \\(CH_3NHCH_2CH_3\\): <em>Secondary</em> 2.) carbons: \\(CH_3\\)- and \\(CH_2CH_3\\). <br><br><strong>Why?</strong> Only (ii) and (iv) fit the rule!"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2",
+  "Question": {
+    "content": "Provide a correct systemic name for <i>2-chloro-2-bromo-3-hydroxyl pentane</i>",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2-bromo-2-chloropentan-3-ol"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>The hydroxy group (OH) is named as 'ol' suffix in IUPAC nomenclature</li><li>Halogens (Br, Cl) are named as prefixes in alphabetical order</li><li>The parent chain is pentane (5 carbons)</li><li>The correct numbering gives the hydroxyl group priority at position 3</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3",
+  "Question": {
+    "content": "Identify the class of the organic compound; \\(CH_3CO_2COCH_3\\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Acid anhydride (general formula \\(RCOOCOR\\) where R = alkyl group)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>The compound has two acyl groups (\\(RCO-\\)) bonded to the same oxygen</li><li>This \\(-CO-O-CO-\\) structure is characteristic of acid anhydrides</li><li>Formed by condensation of two carboxylic acids</li><li>Named by replacing 'acid' with 'anhydride' in the parent acid names</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4",
+  "Question": {
+    "content": "Arrange n-hexane, cyclohexane and 3-methyl pentane in an order of decreasing boiling point",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Cyclohexane > n-hexane > 3-methylpentane"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Cyclohexane</strong> has the highest boiling point due to its rigid cyclic structure allowing closer molecular packing</li><li><strong>n-Hexane</strong> (straight chain) has stronger London dispersion forces than branched 3-methylpentane</li><li><strong>3-Methylpentane</strong> has the lowest boiling point because branching reduces surface area and intermolecular forces</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5",
+  "Question": {
+    "content": "What is the product of the reaction of hydrogen bromide with propene?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "alt": "propene => 2-bromopropane",
+    "content": "https://lh3.googleusercontent.com/d/1c7EHkqXMPE8Nbk2caDWqMU2YZ9Fdt7fL"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Follows <strong>Markovnikov's rule</strong>: H adds to the less substituted carbon</li><li>Br adds to the more substituted carbon (C2) forming <strong>2-bromopropane</strong></li><li>The reaction mechanism involves formation of a more stable secondary carbocation intermediate</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6",
+  "Question": {
+    "content": "Account for the difference in boiling points between methoxymethane and ethanol, although both have the same molecular formula",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Ethanol can form hydrogen bonding whereas methoxymethane cannot."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Ethanol (CH<sub>3</sub>CH<sub>2</sub>OH)</strong>: Forms strong intermolecular hydrogen bonds (O-H⋯O) requiring more energy to break</li><li><strong>Methoxymethane (CH<sub>3</sub>OCH<sub>3</sub>)</strong>: Only has weaker dipole-dipole interactions (no H-bonding)</li><li>Hydrogen bonding increases ethanol's boiling point by ≈20°C compared to methoxymethane</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 7",
+  "Question": {
+    "content": "Draw the structure of the product of reaction of benzene with ethanoyl chloride in the presence of \\(AlCl_3\\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1cA0XNLQVumLY_udXhXkFn3Ejiu1udSFU",
+    "alt": "Phenylethanone (Acetophenone) structure"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>This is a <strong>Friedel-Crafts acylation</strong> reaction</li><li>\\(AlCl_3\\) acts as a Lewis acid catalyst</li><li>The product is <strong>phenylethanone</strong> (acetophenone) - a benzene ring with \\(COCH_3\\) group</li><li>Mechanism involves formation of acylium ion (\\(RCO^+\\)) electrophile</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 8",
+  "Question": {
+    "content": "List any two modern techniques for structural elucidation of organic compounds",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "<ul><li>Nuclear Magnetic Resonance (NMR) Spectroscopy</li><li>Infrared (IR) Spectroscopy</li></ul>"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>NMR</strong>: Provides information about carbon-hydrogen framework (chemical environment of nuclei)</li><li><strong>IR Spectroscopy</strong>: Identifies functional groups through characteristic vibrational frequencies</li><li>Other important techniques include Mass Spectrometry and X-ray Crystallography</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 9",
+  "Question": {
+    "content": "Name any two techniques used for separation of a mixture of organic compounds",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "<ul><li>Chromatography</li><li>Distillation</li></ul>"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Chromatography</strong>: Separates components based on differential partitioning between mobile and stationary phases (HPLC, GC, TLC)</li><li><strong>Distillation</strong>: Separates based on differences in boiling points (simple, fractional, vacuum)</li><li>Other methods include extraction, crystallization, and sublimation</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 10",
+  "Question": {
+    "content": "What type of isomerism exists in 2-chloropentane and 3-chloropentane",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Positional isomerism"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Positional isomers</strong> have the same molecular formula but differ in the position of functional groups</li><li>Both compounds are C<sub>5</sub>H<sub>11</sub>Cl with chlorine at different carbon positions (C-2 vs C-3)</li><li>They have different physical properties and slightly different chemical reactivity</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+    "content": "Provide a structure for the compound ethyl methanoate",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1cB0UnRW--_z3E9JGHOY9DAruIdJqyPg4",
+    "alt": "Ethyl methanoate (HCOOCH2CH3) ester structure"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Ethyl methanoate is an <strong>ester</strong> with formula HCOOCH<sub>2</sub>CH<sub>3</sub></li><li>Formed from methanoic acid (HCOOH) and ethanol (CH<sub>3</sub>CH<sub>2</sub>OH)</li><li>Contains ester functional group (-COO-) between formyl and ethyl groups</li><li>Characteristic fruity smell common to simple esters</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 12",
+  "Question": {
+    "content": "A mixture of hexane and water is said to be",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Immiscible"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Immiscible</strong> liquids don't mix to form a homogeneous solution</li><li>Hexane (nonpolar) and water (polar) have different intermolecular forces</li><li>Water forms hydrogen bonds while hexane only has London dispersion forces</li><li>They separate into distinct layers with hexane floating on water (density 0.66 g/mL vs 1.0 g/mL)</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 13",
+  "Question": {
+    "content": "What is the relationship between bond length and unsaturation?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Bond length decreases with increase in unsaturation (sp³ > sp² > sp)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>sp³ hybridized</strong> (single bonds): Longest bond length (e.g., C-C 1.54Å)</li><li><strong>sp² hybridized</strong> (double bonds): Shorter (e.g., C=C 1.34Å) due to increased s-character</li><li><strong>sp hybridized</strong> (triple bonds): Shortest (e.g., C≡C 1.20Å) with 50% s-character</li><li>Higher s-character means electrons are held closer to nucleus, shortening bond length</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 14",
+  "Question": {
+    "content": "An organic compound has an empirical formula of CH₂O and a molecular weight of 60. Give the molecular formula of the compound",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\(C_2H_4O_2\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Empirical formula weight = 12 (C) + 2×1 (H) + 16 (O) = <strong>30 g/mol</strong></li><li>Molecular weight = <strong>60 g/mol</strong></li><li>Multiplier = 60/30 = <strong>2</strong></li><li>Molecular formula = 2×(CH₂O) = \\(C_2H_4O_2\\) (e.g., acetic acid)</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 15",
+  "Question": {
+    "content": "Which of these are chromatographic techniques in the study of organic compounds? (i) Thin layer (ii) Carbon (iii) Paper (iv) Gas (v) Solid",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "<ul><li>Thin Layer</li><li>Paper</li><li>Gas</li></ul>"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Thin Layer Chromatography (TLC)</strong>: Uses silica gel plate and solvent</li><li><strong>Paper Chromatography</strong>: Uses cellulose paper as stationary phase</li><li><strong>Gas Chromatography (GC)</strong>: Uses inert gas mobile phase</li><li>Carbon and Solid are <em>not</em> chromatographic techniques (they may be stationary phases)</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 16",
+  "Question": {
+    "content": "What does the homolysis of bonds yield?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Homolysis gives <strong>FREE RADICALS</strong>"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Homolytic cleavage</strong>: Bond breaks evenly, with one electron going to each atom</li><li>Forms highly reactive <strong>radicals</strong> (species with unpaired electrons)</li><li>Requires energy input (heat/light)</li><li>Important in radical chain reactions (e.g., halogenation of alkanes)</li><li>Contrast with heterolysis which forms ions</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+    "content": "What types of hybrid orbitals are responsible for the bonds found in propyne?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "sp³ & sp"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Propyne (CH≡C-CH₃)</strong> contains two types of bonds:</li><li><strong>sp hybridized</strong> carbons in C≡C triple bond (linear 180° geometry)</li><li><strong>sp³ hybridized</strong> carbon in terminal CH₃ group (tetrahedral 109.5° geometry)</li><li>The central carbon forms both sp-sp (C≡C) and sp-sp³ (C-CH₃) sigma bonds</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 18",
+  "Question": {
+    "content": "What are the reagents required to produce 1-bromo-1-methylcyclopentane from 1-methylcyclopentene?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "HBr (Hydrogen Bromide)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>This is an <strong>electrophilic addition</strong> reaction following Markovnikov's rule</li><li><strong>HBr</strong> adds across the double bond of 1-methylcyclopentene</li><li>The bromine attaches to the more substituted carbon (position 1)</li><li>Forms 1-bromo-1-methylcyclopentane as the major product</li><li>No peroxide effect needed for this anti-Markovnikov product</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 19",
+  "Question": {
+    "content": "What is the IUPAC nomenclature of the compound \\(CH_3CH_2OCH_3\\)?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Methoxyethane"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>This is an <strong>ether</strong> with formula C₂H₅OCH₃</li><li>IUPAC naming: <strong>alkoxy + alkane</strong></li><li>Identify the shorter alkyl group (methoxy, -OCH₃) as prefix</li><li>Longer carbon chain (ethane, C₂H₅) as parent name</li><li>Common name: Ethyl methyl ether</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+    "content": "What differentiates a class of organic compound from another?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Functional group"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Functional groups</strong> determine chemical properties and reactivity</li><li>Examples: -OH (alcohols), -COOH (carboxylic acids), C=O (carbonyls)</li><li>Same carbon skeleton with different functional groups = different classes</li><li>Functional groups are the basis of organic compound classification</li><li>They dictate physical properties (bp/mp/solubility) and reaction types</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 21",
+  "Question": {
+    "content": "Write an equation that describes the complete combustion of butane",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\(2C_4H_{10} + 13O_2 \\rightarrow 8CO_2 + 10H_2O\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Complete combustion converts hydrocarbons to CO₂ and H₂O</li><li>Butane (\\(C_4H_{10}\\)) reacts with oxygen</li><li>Balanced equation shows 2:13:8:10 mole ratio</li><li>Alternative form: \\(C_4H_{10} + 6.5O_2 \\rightarrow 4CO_2 + 5H_2O\\)</li><li>Exothermic reaction releasing ~2877 kJ/mol</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 22",
+  "Question": {
+    "content": "Give the structures or names of the reagents that will be required to produce ethylbenzene from benzene",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Chloroethane (\\(CH_3CH_2Cl\\)) and Aluminium chloride (\\(AlCl_3\\))"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>This is a <strong>Friedel-Crafts alkylation</strong> reaction</li><li><strong>Chloroethane</strong> (ethyl chloride) provides ethyl group</li><li><strong>AlCl₃</strong> acts as Lewis acid catalyst</li><li>Mechanism forms electrophilic carbocation (\\(CH_3CH_2^+\\))</li><li>Product is ethylbenzene (\\(C_6H_5CH_2CH_3\\))</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 23",
+  "Question": {
+    "content": "Draw the structure of the main product of treating cyclopentene with cold \\(KMnO_4\\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1cK7Ua6yfgGMhUK86sq4YMvcr5F7O11P5",
+    "alt": "cis-1,2-cyclopentanediol structure"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Cold, dilute \\(KMnO_4\\) performs <strong>syn-hydroxylation</strong></li><li>Converts alkene to <strong>vicinal diol</strong> (1,2-diol)</li><li>Forms <em>cis-1,2-cyclopentanediol</em> (OH groups on same side)</li><li>Purple \\(KMnO_4\\) decolorizes during reaction</li><li>Contrast with hot \\(KMnO_4\\) which cleaves the ring</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+    "content": "What is the general formula for cycloalkanes?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\(C_nH_{2n}\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Cycloalkanes have <strong>two fewer hydrogens</strong> than alkanes (\\(C_nH_{2n+2}\\))</li><li>Each ring reduces hydrogen count by 2 (one pair per C-C bond formed)</li><li>Examples: Cyclopropane (\\(C_3H_6\\)), cyclohexane (\\(C_6H_{12}\\))</li><li>Same formula as alkenes but different functional groups</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+    "content": "What is the product of treating 1-butyne with 1 mole of chlorine",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1,2-dichloro-1-butene (\\(CH_3CH_2C(Cl)=CH(Cl)\\))"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>1-butyne (\\(CH≡CCH_2CH_3\\)) undergoes <strong>electrophilic addition</strong> with Cl₂</li><li>First Cl adds to terminal alkyne carbon, forming chloronium ion intermediate</li><li>Second Cl adds anti to first, creating trans-dichloro product</li><li>Product is <strong>1,2-dichloro-1-butene</strong> (not 2-ene as originally stated)</li><li>Markovnikov orientation observed</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+    "content": "In a laboratory set up for paper chromatography, the distance travelled by a substance is 3cm calculate the Rf value if the distance travelled by the solvent is 4.5cm",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\(R_f = 0.67\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Retention factor (Rf)</strong> = Distance traveled by compound ÷ Distance traveled by solvent</li><li>Calculation: \\(R_f = 3cm ÷ 4.5cm = 0.666...\\)</li><li>Rounded to 2 significant figures: <strong>0.67</strong></li><li>Rf values range 0-1 and are characteristic for compounds under specific conditions</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "Question": {
+    "content": "The ability of carbon to form chains with itself is called",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Catenation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Catenation</strong>: Unique property of carbon to form long chains/rings</li><li>Results from carbon's tetravalency and strong C-C bonds (348 kJ/mol)</li><li>Enables formation of complex organic molecules</li><li>Other elements (Si, S) show limited catenation</li><li>Basis for structural diversity in organic chemistry</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "Question": {
+    "content": "State as true or false the statement that all organic compounds contain carbon and hydrogen only.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "FALSE"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Organic compounds <strong>must contain carbon</strong> but may include other elements</li><li>Common examples with other elements: Alcohols (-OH), amines (-NH₂), carboxylic acids (-COOH)</li><li>Some contain halogens (CFCs), oxygen (CO₂), nitrogen (proteins), etc.</li><li>Exception: Carbon oxides, carbides, carbonates are usually considered inorganic</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 29",
+  "Question": {
+    "content": "Give the full meaning of <b>NMR</b>",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Nuclear Magnetic Resonance"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>NMR spectroscopy</strong> analyzes nuclear spin transitions in magnetic fields</li><li>Key structural tool in organic chemistry (¹H NMR, ¹³C NMR)</li><li>Provides information about: <ul><li>Molecular structure</li><li>Atomic environment</li><li>Bond connectivity</li><li>Molecular dynamics</li></ul></li><li>Works by measuring absorption of radio waves by nuclei</li></ul>"
+  }
+},{
+  "type": "Question",
+  "name": "Question 30",
+  "Question": {
+    "content": "The positively charged species in heterolytic cleavage is called",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Carbocation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>Heterolytic cleavage</strong> produces charged fragments</li><li>The <strong>carbocation</strong> is the electron-deficient species (R<sup>+</sup>)</li><li>Stability order: 3° > 2° > 1° > methyl</li><li>Key intermediates in SN1 reactions and electrophilic additions</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "Question": {
+    "content": "An electrophile is a reagent that attacks a substrate at a position of low electron density",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "FALSE"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Electrophiles attack <strong>high electron density</strong> sites (π bonds/lone pairs)</li><li>They are <em>electron-seeking</em> species (Lewis acids)</li><li>Common electrophiles: H<sup>+</sup>, Br<sup>+</sup>, NO<sub>2</sub><sup>+</sup>, carbocations</li><li>The statement describes a <strong>nucleophile's</strong> behavior</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "Question": {
+    "content": "Draw the structure and give the IUPAC name of an alkane with the molecular formula \\(C_5H_{12}\\) that has only primary hydrogens",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "alt": "2,2-dimethylpropane (neopentane)",
+    "content": "https://lh3.googleusercontent.com/d/1cY-lRt0zct_SPQ2P3hwYlI-y9yN1BuJW"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Only <strong>2,2-dimethylpropane</strong> (neopentane) satisfies this condition</li><li>Central quaternary carbon with four methyl groups</li><li>All 12 hydrogens are equivalent and primary</li><li>No secondary or tertiary hydrogens present</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "Question": {
+    "content": "Give the name and structure of the product of hydrobromination of propene",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "alt": "2-bromopropane (Markovnikov product)",
+    "content": "https://lh3.googleusercontent.com/d/1d69R81yWaCy5lQozzGuPgtgqw53exvTk"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Follows <strong>Markovnikov's rule</strong>: H adds to less substituted carbon</li><li>Br adds to C-2 forming <strong>2-bromopropane</strong></li><li>Mechanism proceeds through more stable secondary carbocation</li><li>Anti-Markovnikov product forms only with peroxide (HBr/ROOR)</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "Question": {
+    "content": "In a chromatographic separation technique, <b>Rf</b> means",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Retention Factor"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li><strong>R<sub>f</sub></strong> = Distance traveled by spot ÷ Distance traveled by solvent front</li><li>Dimensionless value between 0-1</li><li>Used to identify compounds by comparison with standards</li><li>Depends on compound's affinity for stationary vs mobile phase</li></ul>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "Question": {
+    "content": "Which of the following is NOT a carboxylic acid derivative? \\((i) CH_3CO_2H\\) \\((ii) CH_3CONH_2\\) \\((iii) CH_3CH_2CH_2Cl\\) \\((iv) CH_3CH_2COCl\\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\((iii) CH_3CH_2CH_2Cl\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<ul><li>Carboxylic acid derivatives contain <strong>acyl group (R-CO-)</strong></li><li>(i) Acetic acid (parent acid)</li><li>(ii) Acetamide (amide derivative)</li><li>(iv) Propanoyl chloride (acid chloride)</li><li>(iii) Propyl chloride is a <em>simple alkyl halide</em>, not acyl derivative</li></ul>"
+  }
+}
 ]
-
-
-
