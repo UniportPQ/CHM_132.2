@@ -10,8 +10,8 @@
   {
     "type": "Instruction",
     "content": "Answer all questions."
-  }
-    , {
+  },
+  {
     "type": "Question",
     "name": "Question 1",
     "Question": {
@@ -20,14 +20,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Zero (0)."
+      "content": "Zero (0)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>2,3-dimethylhexane (C<sub>8</sub>H<sub>18</sub>) is a <strong>saturated hydrocarbon</strong></li><li>Contains only <strong>single bonds</strong> (C-C and C-H)</li><li>π-bonds exist only in double/triple bonds (absent here)</li><li>All carbons are <strong>sp³ hybridized</strong> with tetrahedral geometry</li><li>Molecular structure: CH<sub>3</sub>-CH(CH<sub>3</sub>)-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 2",
     "Question": {
@@ -36,14 +36,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Propane"
+      "content": "Cyclopropane"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>The smallest possible cycloalkane requires <strong>3 carbons</strong></li><li>Cyclopropane (C<sub>3</sub>H<sub>6</sub>) has 60° bond angles (significant angle strain)</li><li>Propane (C<sub>3</sub>H<sub>8</sub>) is the straight-chain form</li><li>Smaller rings than 3 carbons are impossible due to orbital overlap constraints</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 3",
     "Question": {
@@ -56,10 +56,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>sp³ hybridization = 1 s orbital + 3 p orbitals</li><li>p-character percentage = (3 p orbitals)/(total 4 orbitals) × 100 = 75%</li><li>s-character = 25% (1/4)</li><li>This hybridization creates tetrahedral geometry (109.5° bond angles)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 4",
     "Question": {
@@ -68,18 +68,18 @@
     },
     "Answer": {
       "type": "string",
-      "content": "trigenalplanar and 120°"
+      "content": "Trigonal planar and 120°"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>sp² hybridization = 1 s orbital + 2 p orbitals (33% s-character, 67% p-character)</li><li>Forms <strong>3 σ-bonds</strong> in a plane with 120° angles</li><li>Remaining p orbital forms π-bonds (in double bonds)</li><li>Example: All carbons in ethylene (C<sub>2</sub>H<sub>4</sub>)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 5",
     "Question": {
-      "content": "The dehydration of ethanolto give othene is type of ___ reaction",
+      "content": "The dehydration of ethanol to give ethene is type of ___ reaction",
       "type": "subjective"
     },
     "Answer": {
@@ -88,10 +88,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Reaction: CH<sub>3</sub>CH<sub>2</sub>OH → CH<sub>2</sub>=CH<sub>2</sub> + H<sub>2</sub>O</li><li>Acid-catalyzed (typically H<sub>2</sub>SO<sub>4</sub> at 170°C)</li><li>OH group leaves as water (elimination)</li><li>Hydrogen from adjacent carbon is removed (β-elimination)</li><li>Converts sp³ to sp² hybridized carbons (single→double bond)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 6",
     "Question": {
@@ -104,58 +104,58 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Tetrahedral</strong> (sp³ hybridization): 109.5° bond angles (e.g., methane CH<sub>4</sub>)</li><li><strong>Planar</strong> (sp² hybridization): 120° bond angles (e.g., ethylene C<sub>2</sub>H<sub>4</sub>)</li><li>These angles minimize electron pair repulsion (VSEPR theory)</li><li>Tetrahedral has 4 electron domains, planar trigonal has 3</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 7",
     "Question": {
-      "content": "Alkynes form insoluble steetylides with____",
+      "content": "Alkynes form insoluble metal acetylides with____",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "strong base"
+      "content": "ammoniacal silver nitrate or copper(I) salts"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Terminal alkynes (RC≡CH) are weakly acidic (pK<sub>a</sub> ~25)</li><li>React with <strong>AgNO<sub>3</sub>/NH<sub>3</sub></strong> or <strong>Cu<sub>2</sub>Cl<sub>2</sub>/NH<sub>3</sub></strong> solutions</li><li>Forms insoluble <strong>metal acetylides</strong> (RC≡CAg or RC≡CCu)</li><li>Important test for terminal alkynes vs internal alkynes</li><li>Reaction: RC≡CH + [Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> → RC≡CAg↓ + NH<sub>4</sub><sup>+</sup> + NH<sub>3</sub></li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 8",
     "Question": {
-      "content": "Reactions that proceeds through many intermediates (multistep reactions) are called",
+      "content": "Reactions that proceed through many intermediates (multistep reactions) are called",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "chain reaction"
+      "content": "chain reactions"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Chain reactions involve <strong>initiation</strong>, <strong>propagation</strong>, and <strong>termination</strong> steps</li><li>Examples: radical halogenation, polymerization</li><li>Each propagation step generates a new reactive intermediate</li><li>Characterized by chain carriers (radicals, ions, etc.)</li><li>Can have chain lengths of thousands of cycles</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 9",
     "Question": {
-      "content": "Orbitals of equal energy are called,",
+      "content": "Orbitals of equal energy are called",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "Degenerate orbitals (E.g Px, Py, Pz)"
+      "content": "Degenerate orbitals E.g. \\(p_x, p_y, p_z\\)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Degenerate orbitals have <strong>identical energy levels</strong></li><li>Atomic examples: 3p orbitals \\(p_x, p_y, p_z\\)</li><li>Molecular examples: π and π* orbitals in benzene</li><li>External fields (electric/magnetic) can remove degeneracy</li><li>Important in spectroscopy and molecular orbital theory</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 10",
     "Question": {
@@ -168,10 +168,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Homolytic cleavage: <strong>equal splitting</strong> of bond electrons</li><li>Produces two radicals (species with unpaired electrons)</li><li>Requires energy input (heat/light/radical initiators)</li><li>Example: Cl<sub>2</sub> → 2Cl• (ΔH = +242 kJ/mol)</li><li>Fundamental in combustion, polymerization, atmospheric chemistry</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 11",
     "Question": {
@@ -184,26 +184,26 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>IHD Formula</strong>: (2C + 2 - H)/2 where C = #carbons, H = #hydrogens</li><li>For C<sub>7</sub>H<sub>10</sub>: (2×7 + 2 - 10)/2 = (16-10)/2 = <strong>3</strong></li><li>Each IHD unit indicates either: 1 ring, 1 double bond, or 2 double bonds</li><li>Possible structures: Could be 3 rings, 3 double bonds, 1 ring + 2 double bonds, etc.</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 12",
     "Question": {
-      "content": "From the following list, circle the one(s) that is/are not made of organic compounds; dyes, ba pure water, dry wood, shirt, paraceutamol, grass",
+      "content": "From the following list, circle the one(s) that is/are not made of organic compounds; dyes, pure water, dry wood, shirt, paracetamol, grass",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "pure water (H₂O doesn't contain carbon)"
+      "content": "pure water (H<sub>2</sub>O doesn't contain carbon)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Organic compounds</strong> must contain carbon (except few exceptions like CO<sub>2</sub>)</li><li>Water (H<sub>2</sub>O) is inorganic - no carbon present</li><li>Other options contain carbon: dyes (aromatic), wood (cellulose), shirts (cotton/polyester), paracetamol (C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub>), grass (cellulose/chlorophyll)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 13",
     "Question": {
@@ -216,47 +216,47 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Synthesized by <strong>Friedrich Wöhler</strong> in 1828 from ammonium cyanate (NH<sub>4</sub>OCN)</li><li>Disproved vitalism theory (that organic compounds required 'vital force')</li><li>Reaction: NH<sub>4</sub><sup>+</sup> + OCN<sup>-</sup> → (NH<sub>2</sub>)<sub>2</sub>CO</li><li>Marked birth of synthetic organic chemistry</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 14",
     "Question": {
-      "content": "In sodium fudion test, the sodium halide formed was reacted with silver trionitrate (V) to form a yellow precipitate, which is insoluble in excess ammonia. This shows that the analyte contains",
+      "content": "In sodium fusion test, the sodium halide formed was reacted with silver nitrate (V) to form a yellow precipitate, which is insoluble in excess ammonia. This shows that the analyte contains",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "lodide ion"
+      "content": "Iodide ion (I<sup>-</sup>)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Yellow precipitate</strong> = AgI (silver iodide)</li><li>Distinct from: AgCl (white, soluble in NH<sub>3</sub>), AgBr (pale yellow, partially soluble)</li><li>Sodium fusion converts organic halides to NaX (X = Cl, Br, I)</li><li>Confirmatory test: AgNO<sub>3</sub> + NaI → AgI↓ + NaNO<sub>3</sub></li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 15",
     "Question": {
-      "content": "Which of the following is an example of heteroaliphatic compound? ",
+      "content": "Which of the following is an example of heteroaliphatic compound?",
       "type": "OBJ",
-      "options": ["canettol", "cyclopentane" , "methylethyl ether" , "n-pentane"]
+      "options": ["cannitol", "cyclopentane", "methylethyl ether", "n-pentane"]
     },
     "Answer": {
       "type": "string",
-      "content": "methylethyl ethe"
+      "content": "methylethyl ether (CH<sub>3</sub>-O-CH<sub>2</sub>CH<sub>3</sub>)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Heteroaliphatic</strong> = aliphatic compound with heteroatom (O, N, S etc.) in chain</li><li>Methylethyl ether contains oxygen (-O-) in carbon chain</li><li>Others are pure hydrocarbons: cyclopentane (C<sub>5</sub>H<sub>10</sub>), n-pentane (C<sub>5</sub>H<sub>12</sub>)</li><li>'Cannitol' appears to be a misspelling/misnomer</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 16",
     "Question": {
-      "content": "Arrange the structures of butane, methylpropane and cyclobutane an order of decreasing boiling point",
+      "content": "Arrange the structures of butane, methylpropane and cyclobutane in order of decreasing boiling point",
       "type": "subjective"
     },
     "Answer": {
@@ -265,26 +265,26 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Cyclobutane</strong> (C<sub>4</sub>H<sub>8</sub>): Highest BP due to ring strain and more compact structure (49°C)</li><li><strong>Butane</strong> (C<sub>4</sub>H<sub>10</sub>): Straight chain has stronger London forces than branched (-0.5°C)</li><li><strong>Methylpropane</strong> (isobutane, C<sub>4</sub>H<sub>10</sub>): Branching reduces surface area and intermolecular forces (-11.7°C)</li><li>Order reflects molecular surface area and packing efficiency</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 17",
     "Question": {
-      "content": "The average energy required to break a Weak bond in a compound is called",
+      "content": "The average energy required to break a bond in a compound is called",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "Bond Energy"
+      "content": "Bond dissociation energy"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Specifically measures energy to break <strong>one mole</strong> of bonds in gaseous state</li><li>Different from bond enthalpy (which is average value)</li><li>Example: H-H bond = 436 kJ/mol, C-H = 413 kJ/mol</li><li>Important for predicting reaction thermodynamics</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 18",
     "Question": {
@@ -297,10 +297,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Process occurs in <strong>fractionating column</strong> (30-70m tall)</li><li>Separates by boiling point: gases (top), gasoline, kerosene, diesel, lubricants, residue (bottom)</li><li>Temperature gradient: 350°C (bottom) to 20°C (top)</li><li>Later processes: cracking, reforming, treating</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 19",
     "Question": {
@@ -313,10 +313,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Balanced equation shows 1:5:3:4 stoichiometry</li><li>ΔH° = -2220 kJ/mol (highly exothermic)</li><li>Incomplete combustion would produce CO or C (soot)</li><li>Common in LPG (liquefied petroleum gas)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 20",
     "Question": {
@@ -326,14 +326,14 @@
     "Answer": {
       "type": "img",
       "content": "https://lh3.googleusercontent.com/d/1dwlFxM8jEJWwSIyz7zBq3tWzDr0MaZpR",
-      "alt": "2-bromopropane"
+      "alt": "2-bromopropane (Markovnikov addition)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Follows <strong>Markovnikov's rule</strong>: H adds to less substituted carbon</li><li>Forms more stable <strong>secondary carbocation</strong> intermediate</li><li>Product: CH<sub>3</sub>-CHBr-CH<sub>3</sub> (2-bromopropane)</li><li>With peroxides, anti-Markovnikov product (1-bromopropane) forms</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 21",
     "Question": {
@@ -342,15 +342,15 @@
     },
     "Answer": {
       "type": "img",
-      "alt": "Butane-2,3-diol",
+      "alt": "Butane-2,3-diol (vicinal diol)",
       "content": "https://lh3.googleusercontent.com/d/1dwwje9QrRoiwGu84w5WxTINhmS6L8yyP"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Syn dihydroxylation</strong> reaction</li><li>Forms <strong>vicinal diol</strong> (adjacent -OH groups)</li><li>Mechanism involves cyclic manganate ester intermediate</li><li>Cold/dilute KMnO<sub>4</sub> prevents further oxidation</li><li>Product: CH<sub>3</sub>-CH(OH)-CH(OH)-CH<sub>3</sub></li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 22",
     "Question": {
@@ -359,31 +359,30 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Methane is an alkane. <br> Hybridization => sp³ & molecular geometry => tetrahedral"
+      "content": "sp³ and tetrahedral"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Hybridization</strong>: sp³ (1 s orbital + 3 p orbitals combine)</li><li><strong>Geometry</strong>: Tetrahedral (109.5° bond angles)</li><li>CH<sub>4</sub> has 4 identical C-H σ-bonds</li><li>All carbons in alkanes are sp³ hybridized</li><li>Perfect example of VSEPR theory prediction</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 23",
     "Question": {
-      "content": "How many sigma bonds and pi-bonds are present in a molecule of propylene?",
+      "content": "How many sigma bonds and pi-bonds are present in a molecule of propene (propylene)?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "https://lh3.googleusercontent.com/d/1e1oqzfUSjt_7V9YlTSgYjaYRBtA9rPZ2",
-      "alt": "Sigma bonds=8 & Pi-bonds = 1"
+      "content": "8 sigma bonds and 1 pi-bond"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Propene structure</strong>: CH<sub>2</sub>=CH-CH<sub>3</sub></li><li><strong>Sigma bonds</strong>: 3 C-H in CH<sub>2</sub>, 1 C-H in CH, 3 C-H in CH<sub>3</sub>, 1 C-C</li><li><strong>Pi-bond</strong>: 1 in C=C double bond</li><li>Total: 8σ (all single bonds) + 1π (double bond component)</li><li>sp² hybridized carbons in double bond region</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 24",
     "Question": {
@@ -397,26 +396,26 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>2-butene (CH<sub>3</sub>-CH=CH-CH<sub>3</sub>)</strong>: Has restricted rotation around double bond</li><li>Can have <em>cis</em> (methyls same side) and <em>trans</em> (methyls opposite) forms</li><li><strong>2-butyne</strong>: Triple bond (linear, no isomerism)</li><li><strong>2-butanol</strong>: Single bonds (free rotation)</li><li>Requirements: Double bond + different groups on each carbon</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 25",
     "Question": {
-      "content": "The formation of violet colour when sodium nitroprusside is addudatos sodium extract (during Lassigne test) indicates the presence of",
+      "content": "The formation of violet color when sodium nitroprusside is added to sodium extract (during Lassaigne test) indicates the presence of",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "Sulphur (S)"
+      "content": "Sulfur (S)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Test mechanism</strong>: Organic S → Na<sub>2</sub>S during sodium fusion</li><li><strong>Reaction</strong>: Na<sub>2</sub>S + [Fe(CN)<sub>5</sub>NO]<sup>2-</sup> → [Fe(CN)<sub>5</sub>NOS]<sup>4-</sup> (violet)</li><li>Distinct from: N (blue), halogens (different precipitates)</li><li>Confirms thiols, sulfides, thiophenes in organic compounds</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 26",
     "Question": {
@@ -425,14 +424,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "separating funnel"
+      "content": "Separating funnel"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Also called <strong>dropping funnel</strong> or <strong>separatory funnel</strong></li><li>Works via <strong>density difference</strong> (heavy liquid drains first)</li><li>Commonly used for: ether/water, dichloromethane/water separations</li><li>Key features: Stopper, stopcock, conical/pear shape</li><li>Alternative methods: Centrifugation (for emulsions)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 27",
     "Question": {
@@ -441,15 +440,15 @@
     },
     "Answer": {
       "type": "img",
-      "alt": "3-ethyl-2-methylhex-1-ene",
+      "alt": "3-ethyl-2-methylhex-1-ene structure",
       "content": "https://lh3.googleusercontent.com/d/1e6LgLrivh_cZkaqybyK_1nfV3AXaPpan"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Parent chain</strong>: 6-carbon hexene (double bond at C1)</li><li><strong>Substituents</strong>: Ethyl (-CH<sub>2</sub>CH<sub>3</sub>) at C3, methyl (-CH<sub>3</sub>) at C2</li><li><strong>Structure</strong>: CH<sub>2</sub>=C(CH<sub>3</sub>)-CH(C<sub>2</sub>H<sub>5</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li><li>Note: Double bond makes this an <strong>alkene</strong> with restricted rotation</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 28",
     "Question": {
@@ -458,14 +457,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "2-pentyne"
+      "content": "penta-1,3-diene"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Reaction</strong>: CH<sub>3</sub>-CH=C(Br)-CH<sub>2</sub>-CH<sub>3</sub> + base → CH<sub>2</sub>=CH-CH=CH-CH<sub>3</sub> + HBr</li><li><strong>Mechanism</strong>: E2 elimination (strong base removes H from β-carbon)</li><li>Forms conjugated diene (alternating double bonds)</li><li>Not 2-pentyne (would require different starting material)</li><li>Zaitsev's rule applies - forms more substituted double bond</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 29",
     "Question": {
@@ -478,10 +477,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Full hydrogenation</strong>: CH<sub>3</sub>-C≡C-CH<sub>3</sub> + 2H<sub>2</sub> → CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li><li><strong>Catalyst</strong>: Typically Ni/Pt/Pd at high pressure</li><li>Intermediate: cis/trans-2-butene (partial hydrogenation)</li><li>Exothermic (ΔH ≈ -300 kJ/mol)</li><li>Industrial importance in margarine production</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 30",
     "Question": {
@@ -495,10 +494,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Parent chain</strong>: Cyclohexene ring (double bond between C1-C2)</li><li><strong>Substituents</strong>: Ethyl (-CH<sub>2</sub>CH<sub>3</sub>) at C2, methyl (-CH<sub>3</sub>) at C1 and C4</li><li><strong>Note</strong>: Double bond creates potential cis/trans isomerism</li><li>Numbering gives priority to double bond (C1-C2)</li><li>Structure shows all substituents on same side (cis) by default</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 31",
     "Question": {
@@ -507,14 +506,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Bromine water test & The Baeyer test"
+      "content": "Bromine water test and Baeyer's test"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Bromine water</strong>:<br>- Pentene: Decolorizes Br<sub>2</sub>/H<sub>2</sub>O (orange → colorless)<br>- Pentane: No reaction (stays orange)</li><li><strong>Baeyer's test</strong> (KMnO<sub>4</sub>):<br>- Pentene: Purple → brown MnO<sub>2</sub> precipitate<br>- Pentane: No reaction</li><li>Both tests detect C=C double bonds</li><li>Additional test: Pentene burns with more sooty flame</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 32",
     "Question": {
@@ -523,14 +522,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Crude oil"
+      "content": "Crude oil (petroleum)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Crude oil</strong> contains thousands of hydrocarbon compounds (alkanes, cycloalkanes, aromatics)</li><li>Forms from ancient marine organisms under heat/pressure over millions of years</li><li>Other sources: Natural gas (methane), coal (mostly carbon), biomass (renewable but less concentrated)</li><li>Provides >80% of world's energy and raw materials for plastics, pharmaceuticals, etc.</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 33",
     "Question": {
@@ -539,34 +538,34 @@
     },
     "Answer": {
       "type": "string",
-      "content": "3,3-dimethylhexane"
+      "content": "3-methylhexane"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Step 1</strong>: Identify longest carbon chain (6 carbons → hexane)</li><li><strong>Step 2</strong>: Number from end nearest substituent (CH<sub>3</sub> at C3)</li><li><strong>Structure</strong>: CH<sub>3</sub>-CH<sub>2</sub>-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li><li>Not 3,3-dimethylhexane (only one methyl group present)</li><li>Common error: Miscounting chain length or substituent positions</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 34",
     "Question": {
-      "content": "Mention two spectroscopic technique",
+      "content": "Mention two spectroscopic techniques",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "Infrared spectroscopy and Mass spectroscopy"
+      "content": "Infrared (IR) spectroscopy and Nuclear Magnetic Resonance (NMR) spectroscopy"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>IR Spectroscopy</strong>:<br>- Measures bond vibrations<br>- Identifies functional groups (OH, C=O, etc.)<br>- Range: 4000-400 cm<sup>-1</sup></li><li><strong>NMR Spectroscopy</strong>:<br>- <sup>1</sup>H NMR shows hydrogen environments<br>- <sup>13</sup>C NMR shows carbon skeleton<br>- Chemical shifts reveal molecular structure</li><li>Other techniques: Mass spectrometry (molecular weight), UV-Vis (conjugated systems)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 35",
     "Question": {
-      "content": "Calculate the molecular formula of a compound that contains 40% carbon, 6.7% Hydrogen and 53.3% oxygen by mass. Molecular wight of compound is \\(180gmol^{-1}\\)",
+      "content": "Calculate the molecular formula of a compound that contains 40% carbon, 6.7% Hydrogen and 53.3% oxygen by mass. Molecular weight of compound is \\(180gmol^{-1}\\)",
       "type": "subjective"
     },
     "Answer": {
@@ -575,7 +574,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Step 1</strong>: Assume 100g sample → 40g C, 6.7g H, 53.3g O</li><li><strong>Step 2</strong>: Convert to moles:<br>- C: 40/12 = 3.33 mol<br>- H: 6.7/1 = 6.7 mol<br>- O: 53.3/16 = 3.33 mol</li><li><strong>Step 3</strong>: Divide by smallest (3.33):<br>- C: 1, H: 2, O: 1 → Empirical formula CH<sub>2</sub>O (MW=30)</li><li><strong>Step 4</strong>: 180/30 = 6 → Molecular formula = (CH<sub>2</sub>O)<sub>6</sub> = C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></li><li>Common examples: Glucose, fructose</li></ul>"
     }
   }
 ]
