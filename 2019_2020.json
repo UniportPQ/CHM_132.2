@@ -10,8 +10,8 @@
   {
     "type": "Instruction",
     "content": "Answer all questions."
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 1",
     "Question": {
@@ -24,10 +24,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Petroleum is a mix of hydrocarbons (like gasoline, diesel, etc.). <em>Fractional distillation</em> separates them based on <strong>boiling points</strong>.<br><br><strong>How it works:</strong><br>1. Petroleum is heated in a tower.<br>2. Lighter compounds (e.g., propane) rise and condense at the top.<br>3. Heavier compounds (e.g., bitumen) stay at the bottom.<br><br><em>Analogy:</em> Like sorting candies by size!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 2",
     "Question": {
@@ -41,27 +41,27 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Terminal alkynes (e.g., HC≡CH) react with <strong>\\(Ag^+\\)</strong> or <strong>\\(Cu^+\\)</strong> to form <em>insoluble precipitates</em> (a positive test).<br><br><strong>Why not \\(Na^+\\)?</strong><br>\\(Na^+\\) is too weak—it doesn’t react with alkynes. It’s like trying to light a match with wet paper!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 3",
     "Question": {
-      "content": "Draw the structure of bicylco[3.2.1] octane",
+      "content": "Draw the structure of bicyclo[3.2.1] octane",
       "type": "subjective"
     },
     "Answer": {
       "type": "img",
-      "alt": "bicylco[3.2.1] octane",
+      "alt": "bicyclo[3.2.1] octane",
       "content": "https://lh3.googleusercontent.com/d/1fkj2s3bfEw5fuyrpC5SPhS__lP27Dip5"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Bicyclo[3.2.1]octane is like <strong>two rings sharing atoms</strong> (a \"bicycle\" for molecules!).<br><br><strong>Structure Breakdown:</strong><br>1. <strong>8 carbons total</strong> (octane).<br>2. Rings are fused: <strong>3 + 2 + 1</strong> carbons in the bridges.<br><br><em>Tip:</em> Imagine a hexagon with two extra \"arms\" crossing it."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 4",
     "Question": {
@@ -74,10 +74,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br><em>Markovnikov’s Rule</em> says: <strong>\"The rich get richer!\"</strong><br><br>When adding HX to an alkene:<br>1. H<sup>+</sup> attaches to the carbon with <strong>more H’s already</strong>.<br>2. X<sup>–</sup> attaches to the carbon with <strong>fewer H’s</strong>.<br><br><strong>Example:</strong><br>\\(CH_2=CH-CH_3 + HBr \\rightarrow CH_3-CHBr-CH_3\\)"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 5",
     "Question": {
@@ -86,18 +86,18 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Benzene Sulphonic acid"
+      "content": "Benzene Sulphonic Acid"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Benzene + sulphuric acid = <strong>\\(C_6H_5SO_3H\\)</strong> (benzene sulphonic acid).<br><br><strong>What happens?</strong><br>1. Sulphur attacks benzene, replacing one H.<br>2. Adds a <strong>\\(-SO_3H\\)</strong> group (sulphonyl).<br><br><em>Uses:</em> Detergents, dyes!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 6",
     "Question": {
-      "content": "What is the structure of the product formed when benzene is reacted with nitric and sulphuric acid ",
+      "content": "What is the structure of the product formed when benzene is reacted with nitric and sulphuric acid?",
       "type": "subjective"
     },
     "Answer": {
@@ -106,10 +106,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Benzene + HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub> = <strong>\\(C_6H_5NO_2\\)</strong> (nitrobenzene).<br><br><strong>Mechanism:</strong><br>1. HNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> makes <strong>NO<sub>2</sub><sup>+</sup></strong> (nitronium ion).<br>2. NO<sub>2</sub><sup>+</sup> attacks benzene, replacing one H.<br><br><em>Fun fact:</em> Nitrobenzene smells like almonds!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 7",
     "Question": {
@@ -123,10 +123,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>2-butylbenzene is a benzene ring with a butyl group (<code>C<sub>4</sub>H<sub>9</sub></code>) attached at the <strong>second position</strong>.<br><br><strong>Key Features:</strong><br>- Benzene ring (hexagon with alternating double bonds)<br>- Butyl chain (<code>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></code>) on carbon #2"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 8",
     "Question": {
@@ -139,10 +139,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>\"1-methylbutane\" is actually just <strong>pentane</strong>!<br><br><strong>Why?</strong><br>- The longest carbon chain has 5 carbons (pentane)<br>- A methyl group at position 1 is redundant (it's just the start of the chain)<br><br><em>Fun fact:</em> This is why we use IUPAC naming rules!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 9",
     "Question": {
@@ -156,10 +156,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>4-(2-butyl)phenol has:<br>1. A phenol ring (benzene with <strong>-OH</strong>)<br>2. A butyl group (<code>-CH<sub>2</sub>-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH<sub>3</sub></code>) at position 4<br><br><strong>Note:</strong> The \"2-butyl\" means the branch is on the <em>second carbon</em> of the butyl group."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 10",
     "Question": {
@@ -172,10 +172,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>This is the <strong>test for chlorine</strong>!<br><br><strong>Steps:</strong><br>1. White precipitate = <code>AgCl</code> (silver chloride)<br>2. Soluble in NH<sub>4</sub>OH = forms <code>[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup></code><br><br><em>Analogy:</em> Like dissolving salt in water, but fancier!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 11",
     "Question": {
@@ -184,14 +184,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "\\(CH₂CH₂CH=CH_2\\) (But-1-ene)"
+      "content": "\\(CH_2=CH-CH_2-CH_3\\) (But-1-ene)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br><strong>Isomers of C<sub>4</sub>H<sub>8</sub>:</strong><br>1. <strong>But-1-ene</strong> (\\(CH_2=CH-CH_2-CH_3\\))<br>2. <strong>But-2-ene</strong> (\\(CH_3-CH=CH-CH_3\\))<br>3. <strong>Methylpropene</strong> (\\(CH_2=C(CH_3)-CH_3\\))<br>4. <strong>Cyclobutane</strong> (a square ring!)<br><br><em>Note:</em> All have the same atoms but different arrangements."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 12",
     "Question": {
@@ -204,10 +204,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Boiling points depend on <strong>molecular shape</strong>:<br><br>1. <strong>Methylpropane</strong> (most branched) = lowest BP<br>2. <strong>n-Butane</strong> (straight chain) = medium BP<br>3. <strong>Cyclobutane</strong> (rigid ring) = highest BP<br><br><em>Why?</em> Branched molecules pack less tightly → weaker intermolecular forces."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 13",
     "Question": {
@@ -221,10 +221,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>2-butene has <strong>two geometric isomers</strong>:<br><br>1. <strong>cis-2-butene</strong>: Both methyl groups (<code>-CH<sub>3</sub></code>) on the <em>same side</em> of the double bond.<br>2. <strong>trans-2-butene</strong>: Methyl groups on <em>opposite sides</em>.<br><br><em>Analogy:</em> Like holding hands (cis) vs. back-to-back (trans)."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 14",
     "Question": {
@@ -233,14 +233,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Funtional group isomers"
+      "content": "Functional group isomers"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>These compounds are <strong>functional group isomers</strong> because they have:<br>- <strong>Propanal</strong> (\\(CH_3CH_2CHO\\)): An aldehyde group (<code>-CHO</code>)<br>- <strong>Propanone</strong> (\\(CH_3COCH_3\\)): A ketone group (<code>C=O</code>)<br><br><em>Key Point:</em> Same molecular formula (\\(C_3H_6O\\)) but different functional groups!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 15",
     "Question": {
@@ -254,42 +254,42 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>This molecule has:<br>1. A <strong>6-carbon chain</strong> (hexanal) with an aldehyde (<code>-CHO</code>) at carbon 1.<br>2. A <strong>chlorine atom</strong> at carbon 3.<br>3. A <strong>phenyl group</strong> (\\(C_6H_5\\)) at carbon 4.<br><br><em>Tip:</em> The numbering starts from the aldehyde end!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 16",
     "Question": {
-      "content": "What are the colour changes involved when an hydrous copper (II) sulphate is used to confirm the presence of water?",
+      "content": "What are the colour changes involved when anhydrous copper (II) sulphate is used to confirm the presence of water?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "colour changes WHITE to BLUE"
+      "content": "White to Blue"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Anhydrous \\(CuSO_4\\) is <strong>white</strong>. When water is added, it forms hydrated \\(CuSO_4·5H_2O\\), which is <strong>blue</strong>.<br><br><em>Why?</em> Water molecules coordinate with copper ions, changing the crystal field and thus the color."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 17",
     "Question": {
-      "content": "Calculate the index of hydrogen deticiency of \\(C_5H_7N_2Br\\)",
+      "content": "Calculate the index of hydrogen deficiency of \\(C_5H_7N_2Br\\)",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "3"
+      "content": "5"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>The <strong>Index of Hydrogen Deficiency (IHD)</strong> is calculated as:<br>\\[ IHD = \\frac{(2C + 2 - H - X + N)}{2} \\]<br>For \\(C_5H_7N_2Br\\):<br>- \\(C = 5\\), \\(H = 7\\), \\(N = 2\\), \\(X (Br) = 1\\)<br>- \\[ IHD = \\frac{(2×5 + 2 - 7 - 1 + 2)}{2} = \\frac{10}{2} = 5 \\]<br><br><em>Interpretation:</em> 5 degrees of unsaturation (rings/π bonds)."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 18",
     "Question": {
@@ -298,30 +298,30 @@
     },
     "Answer": {
       "type": "string",
-      "content": "<center>Lewis acid \\(AlCl_3\\) or \\(PCl_3\\)</center>"
+      "content": "Lewis acid \\(AlCl_3\\) or \\(FeCl_3\\)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Chlorination of benzene requires a <strong>Lewis acid catalyst</strong> to generate the electrophile \\(Cl^+\\).<br><br><strong>Common catalysts:</strong><br>- \\(AlCl_3\\) (aluminum chloride)<br>- \\(FeCl_3\\) (iron(III) chloride)<br><br><em>Note:</em> These help break \\(Cl_2\\) into \\(Cl^+\\) and \\(Cl^-\\)."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 19",
     "Question": {
-      "content": "How many pie bonds acxist between carbon and nitrogen in cyanomethane?",
+      "content": "How many pi bonds exist between carbon and nitrogen in cyanomethane?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "<center>Pie bond 2 (found in the triple bond)</center> <img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1fyv5SGoNgd4wJ7dV0UuoUlsJ2ISay_d1'> "
+      "content": "2 (triple bond: 1σ + 2π)<br><img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1fyv5SGoNgd4wJ7dV0UuoUlsJ2ISay_d1'>"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Cyanomethane (\\(CH_3CN\\)) has a <strong>triple bond</strong> between C and N:<br>- <strong>1 sigma (σ) bond</strong><br>- <strong>2 pi (π) bonds</strong><br><br><em>Visual:</em> The triple bond is like a stick (σ) with two springs (π) wrapped around it."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 20",
     "Question": {
@@ -334,113 +334,113 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>3-phenylpropanal consists of:<br>1. A <strong>phenyl group</strong> (\\(C_6H_5\\)) attached to carbon 3.<br>2. A <strong>3-carbon chain</strong> ending with an aldehyde (<code>-CHO</code>).<br><br><em>Mnemonic:</em> \"Phenyl-propan-al\" = phenyl + propane + aldehyde."
     }
+  },
+{
+  "type": "Question",
+  "name": "Question 21",
+  "Question": {
+    "content": "Among the following compounds, underline the one that is not a nucleophile:",
+    "type": "OBJ",
+    "options": ["\\(CH_3CH_2NH_2\\)", "\\(CH_3CH_3\\)", "\\(H_2O\\)", "\\(C_2H_5SH\\)"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\(CH_3CH_3\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<strong>Simple Explanation:</strong><br>A nucleophile is an electron-rich species that can donate electrons. <strong>Ethane (\\(CH_3CH_3\\))</strong> has no lone pairs or π electrons to donate, unlike:<br>- <strong>Amines (\\(CH_3CH_2NH_2\\))</strong>: Lone pair on N<br>- <strong>Water (\\(H_2O\\))</strong>: Lone pairs on O<br>- <strong>Thiols (\\(C_2H_5SH\\))</strong>: Lone pair on S"
   }
-  ,{
-    "type": "Question",
-    "name": "Question 21",
-    "Question": {
-      "content": "Among the following compounds, underline the one that is not a nucleophile:",
-      "type": "OBJ",
-      "options": ["\\(CH_3CH_2NH_2\\)","\\(CH_3CH_3\\)","\\(H_2O\\)","\\(C_2H_5SH\\)"]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "\\(CH_3CH_3\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+},
+{
+  "type": "Question",
+  "name": "Question 22",
+  "Question": {
+    "content": "What is the name of the product obtained by the addition of one molecule of chlorine to ethyne?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1,2-Dichloroethene"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<strong>Simple Explanation:</strong><br>Ethyne (\\(C_2H_2\\)) + \\(Cl_2\\) → <strong>1,2-dichloroethene</strong> (\\(ClCH=CHCl\\)).<br><br><strong>Mechanism:</strong><br>1. \\(Cl_2\\) adds across the triple bond.<br>2. Forms a double bond with Cl atoms on adjacent carbons.<br><br><em>Note:</em> Further addition would give 1,1,2,2-tetrachloroethane."
   }
-  ,{
-    "type": "Question",
-    "name": "Question 22",
-    "Question": {
-      "content": "What is the name of the product obtained by the addition of one molecule of chlorine to ethyne?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "(1,2-dichloroethene)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+},
+{
+  "type": "Question",
+  "name": "Question 23",
+  "Question": {
+    "content": "Draw the structure of 3-chloro-4-hydroxy-butanoic acid",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "alt": "3-chloro-4-hydroxy-butanoic acid",
+    "content": "https://lh3.googleusercontent.com/d/1fz6ShBlAwDl5oEJFKUgmG4UYWSWn3WWc"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<strong>Simple Explanation:</strong><br>This molecule has:<br>1. A <strong>4-carbon chain</strong> with a carboxylic acid (<code>-COOH</code>) at carbon 1.<br>2. A <strong>chlorine atom</strong> at carbon 3.<br>3. A <strong>hydroxyl group</strong> (<code>-OH</code>) at carbon 4.<br><br><em>Tip:</em> The numbering starts from the carboxylic acid end!"
   }
-  ,{
-    "type": "Question",
-    "name": "Question 23",
-    "Question": {
-      "content": "Draw the structure of 3-chloro-4-hydroxy-butanoic acid",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "img",
-      "alt": "3-chloro-4-hydroxy-butanoic acid",
-      "content": "https://lh3.googleusercontent.com/d/1fz6ShBlAwDl5oEJFKUgmG4UYWSWn3WWc"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+},
+{
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+    "content": "Which of the following is/are not chromatographic technique(s)?",
+    "type": "OBJ",
+    "options": ["Infrared", "Thin Layer", "Gas Liquid", "Column"]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Infrared"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<strong>Simple Explanation:</strong><br><strong>Infrared (IR) spectroscopy</strong> analyzes molecular vibrations, while:<br>- <strong>Thin Layer Chromatography (TLC)</strong><br>- <strong>Gas-Liquid Chromatography (GLC)</strong><br>- <strong>Column Chromatography</strong><br>are all <em>separation techniques</em> based on differential migration of compounds."
   }
-  ,{
-    "type": "Question",
-    "name": "Question 24",
-    "Question": {
-      "content": "Which of the following is/are not chromatographic technique(s)?",
-      "type": "OBJ",
-      "options":["Infrared", "Thin Layer", "Gas Liquid", "Column"]
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Infrared"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+    "content": "What is the name of the instrumental technique that gives information on the molecular mass of a compound?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Mass Spectrometry"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<strong>Simple Explanation:</strong><br><strong>Mass spectrometry</strong> measures the <em>mass-to-charge ratio (\\(m/z\\))</em> of ions. Key steps:<br>1. Ionization (e.g., electron impact).<br>2. Separation by magnetic/electric fields.<br>3. Detection of fragments.<br><br><em>Output:</em> A spectrum showing the molecular ion peak (\\(M^+\\)) and fragment masses."
   }
-  ,{
-    "type": "Question",
-    "name": "Question 25",
-    "Question": {
-      "content": "What is the name of the instrumental technique that gives information on the molecular mass of a compound?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Mass Spectroscopy"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+    "content": "Give the name of a group of molecules that accept electrons during a chemical reaction",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Electrophiles"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<strong>Simple Explanation:</strong><br><strong>Electrophiles</strong> ('electron - lovers ') are electron-deficient species that accept electrons in reactions. Examples:<br>- \\(H^+\\) (proton)<br>- \\(BF_3\\) (Lewis acid)<br>- \\(CH_3^+\\) (carbocation)<br><br><em>Opposite:</em> Nucleophiles (electron donors)."
   }
-  ,{
-    "type": "Question",
-    "name": "Question 26",
-    "Question": {
-      "content": "Give the name of a group of molecules that accept electrons during a chemical reaction",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Electrophile"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": ""
-    }
-  }
-  ,{
+},
+  {
     "type": "Question",
     "name": "Question 27",
     "Question": {
-      "content": "The acronym, Sx2, represents__",
+      "content": "The acronym, S<sub>N</sub>2, represents__",
       "type": "subjective"
     },
     "Answer": {
@@ -449,16 +449,16 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>S<sub>N</sub>2 stands for:<br>- <strong>Substitution</strong>: Replacing a leaving group (e.g., Cl<sup>–</sup>)<br>- <strong>Nucleophilic</strong>: Attack by an electron-rich species (e.g., OH<sup>–</sup>)<br>- <strong>Bimolecular</strong>: Rate depends on both nucleophile and substrate concentrations<br><br><em>Key Feature:</em> The reaction happens in <strong>one step</strong> with inversion of configuration!"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 28",
     "Question": {
-      "content": "Circle the ketone among in the following compounds",
+      "content": "Circle the ketone among the following compounds",
       "type": "OBJ",
-      "options": ["\\(CH_3COCl\\)","\\(CH_3CO_2C_2H_5\\)",  "\\(CH_3COCH_2CH_3\\)","\\(CH_3OCH_3\\)"]
+      "options": ["\\(CH_3COCl\\)","\\(CH_3CO_2C_2H_5\\)","\\(CH_3COCH_2CH_3\\)","\\(CH_3OCH_3\\)"]
     },
     "Answer": {
       "type": "string",
@@ -466,16 +466,16 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>A <strong>ketone</strong> has a carbonyl group (<code>C=O</code>) bonded to <strong>two carbon atoms</strong>. Only <strong>butanone (\\(CH_3COCH_2CH_3\\))</strong> fits!<br><br><strong>Others:</strong><br>- \\(CH_3COCl\\): Acid chloride<br>- \\(CH_3CO_2C_2H_5\\): Ester<br>- \\(CH_3OCH_3\\): Ether"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 29",
     "Question": {
       "content": "Which of the following is not a derivative of carboxylic acid:",
       "type": "OBJ",
-      "options": ["\\(CH_3COCl\\)","\\(CH_3CO_2C_2H_5\\)",  "\\(C_6H_5COCH_3\\)","\\(CH_3CONH_2\\)"]
+      "options": ["\\(CH_3COCl\\)","\\(CH_3CO_2C_2H_5\\)","\\(C_6H_5COCH_3\\)","\\(CH_3CONH_2\\)"]
     },
     "Answer": {
       "type": "string",
@@ -483,43 +483,43 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br><strong>Acetophenone (\\(C_6H_5COCH_3\\))</strong> is a <em>ketone</em>, not a carboxylic acid derivative. The others are:<br>- \\(CH_3COCl\\): Acid chloride<br>- \\(CH_3CO_2C_2H_5\\): Ester<br>- \\(CH_3CONH_2\\): Amide<br><br><em>Note:</em> Carboxylic acid derivatives must have <code>-COOH</code> or its variants (e.g., <code>-COCl</code>, <code>-CONH_2</code>)."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 30",
     "Question": {
       "content": "Pick the secondary amide in the following",
       "type": "OBJ",
-      "options": ["\\(CH_3CONH_3\\)","\\(CH_3CON(CH_3)_2\\)",  "\\(C_6H_5CH_2CONH_2\\)","\\(CH_3CONH_2\\)"]
+      "options": ["\\(CH_3CONH_3\\)","\\(CH_3CON(CH_3)_2\\)","\\(C_6H_5CH_2CONH_2\\)","\\(CH_3CONH_2\\)"]
     },
     "Answer": {
       "type": "string",
-      "content": "\\(CH_3CONH_3\\)"
+      "content": "\\(CH_3CONHCH_3\\)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>A <strong>secondary amide</strong> has <strong>one alkyl group</strong> attached to the nitrogen. The correct answer should be <strong>\\(CH_3CONHCH_3\\)</strong> (N-methylacetamide).<br><br><strong>Others:</strong><br>- \\(CH_3CONH_3\\): Not a valid structure<br>- \\(CH_3CON(CH_3)_2\\): Tertiary amide<br>- \\(C_6H_5CH_2CONH_2\\): Primary amide<br>- \\(CH_3CONH_2\\): Primary amide"
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 31",
     "Question": {
-      "content": "What type of spectroscopic technique is employed in identifying the nature of a conjugated pi electron system",
+      "content": "What type of spectroscopic technique is employed in identifying the nature of a conjugated pi electron system?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "Ultraviolet Spectroscopy"
+      "content": "Ultraviolet-Visible (UV-Vis) Spectroscopy"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br><strong>UV-Vis spectroscopy</strong> measures absorption of light by conjugated π systems (e.g., benzene, carotenoids).<br><br><strong>How it works:</strong><br>1. Electrons in π bonds jump to higher energy levels (<code>π→π*</code>).<br>2. The absorption wavelength indicates the extent of conjugation.<br><br><em>Example:</em> Longer conjugation → lower energy (red shift)."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 32",
     "Question": {
@@ -532,14 +532,14 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>Propyne (\\(CH_3C≡CH\\)) has two types of hybrid orbitals:<br>1. <strong>sp</strong>: The triple-bonded carbons (C≡C) use linear sp orbitals (180° bond angle).<br>2. <strong>sp³</strong>: The terminal methyl group (\\(CH_3\\)) uses tetrahedral sp³ orbitals (109.5° bond angle).<br><br><em>Visual:</em> Imagine a pencil (sp) stuck to a pyramid (sp³)."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 33",
     "Question": {
-      "content": "What particular types of isommers are 1-butene and 2-butene?",
+      "content": "What particular types of isomers are 1-butene and 2-butene?",
       "type": "subjective"
     },
     "Answer": {
@@ -548,10 +548,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>1-butene (\\(CH_2=CH-CH_2-CH_3\\)) and 2-butene (\\(CH_3-CH=CH-CH_3\\)) are <strong>positional isomers</strong> because:<br>- They have the <em>same molecular formula</em> (\\(C_4H_8\\)).<br>- The double bond is in different positions (carbon 1 vs. carbon 2).<br><br><em>Note:</em> They can also show <strong>geometric isomerism</strong> (cis/trans) in 2-butene."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 34",
     "Question": {
@@ -560,14 +560,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "INFRARED SPECTROSCOPY"
+      "content": "Infrared Spectroscopy (IR)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br><strong>IR spectroscopy</strong> detects functional groups:<br>1. <strong>Secondary alcohol</strong>: Shows a broad O-H stretch (~3200-3500 cm⁻¹) and C-O stretch (~1000-1200 cm⁻¹).<br>2. <strong>Ketone</strong>: Shows a sharp C=O stretch (~1700 cm⁻¹).<br><br><em>Key Point:</em> Disappearance of O-H peak and appearance of C=O peak confirms oxidation."
     }
-  }
-  ,{
+  },
+  {
     "type": "Question",
     "name": "Question 35",
     "Question": {
@@ -576,13 +576,11 @@
     },
     "Answer": {
       "type": "string",
-      "content": "\\(\\text{molecular formula of } C_4H_{10} \\text{ and Empirical formula of }C₂H_5\\)"
+      "content": "Molecular formula: \\(C_4H_{10}\\)<br>Empirical formula: \\(C_2H_5\\)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>1. <strong>Molecular formula</strong> (\\(C_4H_{10}\\)): Actual atom count in butane.<br>2. <strong>Empirical formula</strong> (\\(C_2H_5\\)): Simplified ratio (divide by 2).<br><br><em>Mnemonic:</em> \"Molecular = Multiple; Empirical = Simplified\"."
     }
   }
 ]
-
-
