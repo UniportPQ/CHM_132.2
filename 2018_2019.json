@@ -25,26 +25,26 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Parent chain</strong>: Heptane (7 carbons)</li><li><strong>Substituents</strong>: Ethyl (-CH<sub>2</sub>CH<sub>3</sub>) at C4, methyl (-CH<sub>3</sub>) at C2</li><li><strong>Structure</strong>: CH<sub>3</sub>-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH(C<sub>2</sub>H<sub>5</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li><li>Note: All single bonds (saturated hydrocarbon)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 2",
     "Question": {
-      "content": "What are the products of ozonolysis of -2-methyl-2-butene and subsequent treatment with zinc metal in an acid medium?",
+      "content": "What are the products of ozonolysis of 2-methyl-2-butene and subsequent treatment with zinc metal in an acid medium?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "propanono and Ethanal"
+      "content": "Propanone (acetone) and Ethanal (acetaldehyde)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Ozonolysis</strong> cleaves double bonds to form carbonyl compounds</li><li><strong>Reaction</strong>: (CH<sub>3</sub>)<sub>2</sub>C=CH-CH<sub>3</sub> → (CH<sub>3</sub>)<sub>2</sub>C=O + CH<sub>3</sub>CHO</li><li>Zinc prevents further oxidation of aldehydes to carboxylic acids</li><li>Mechanism involves formation of ozonide intermediate</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 3",
     "Question": {
@@ -53,14 +53,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Trans but-2-ene"
+      "content": "trans-But-2-ene"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Dissolving metal reduction</strong> produces trans-alkenes</li><li><strong>Mechanism</strong>: Electron transfer from Na creates radical anion, then protonation</li><li>Anti-addition of hydrogen due to steric factors</li><li>Contrast with catalytic hydrogenation (cis product)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 4",
     "Question": {
@@ -69,33 +69,34 @@
     },
     "Answer": {
       "type": "string",
-      "content": "\\(Nitronium ion (NO_2^+)\\)"
+      "content": "Nitronium ion \\(NO_2^+\\)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Formed by reaction: HNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> → NO<sub>2</sub><sup>+</sup> + HSO<sub>4</sub><sup>-</sup> + H<sub>2</sub>O</li><li>Strong electrophile attacks benzene π-electrons</li><li>Key intermediate in electrophilic aromatic substitution</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 5",
     "Question": {
-      "content": "In qualitative elemental analysislaris used to oxidize carbon to carbon IV oxide?",
+      "content": "In qualitative elemental analysis, what is used to oxidize carbon to carbon(IV) oxide?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "\\(Copper (II) oxide (CuO_2)\\)"    },
+      "content": "Copper(II) oxide (CuO)"
+    },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>CuO oxidizes organic carbon to CO<sub>2</sub> during combustion</li><li>Test: CO<sub>2</sub> turns limewater milky</li><li>Alternative oxidizers: Pb<sub>3</sub>O<sub>4</sub>, KMnO<sub>4</sub>/H<sub>2</sub>SO<sub>4</sub></li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 6",
     "Question": {
-      "content": "In the Lassaigne test, the sodium halide formed was reacted with silver trioxonitrate (V) to form a pale yellow precipitate which is soluble in excess ammonia. This shows that the analyte contains?",
+      "content": "In the Lassaigne test, the sodium halide formed was reacted with silver trioxonitrate(V) to form a pale yellow precipitate which is soluble in excess ammonia. This shows that the analyte contains?",
       "type": "subjective"
     },
     "Answer": {
@@ -104,14 +105,14 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Observation sequence</strong>:<br>1. Pale yellow ppt = AgBr<br>2. Soluble in NH<sub>3</sub> (distinguishes from AgI)</li><li>Different from:<br>- AgCl (white, very soluble)<br>- AgI (yellow, insoluble)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 7",
     "Question": {
-      "content": "Calculate the index of hydrogen deficiency of \\(C_7H_6FNO_2\\)",
+      "content": "Calculate the index of hydrogen deficiency of C<sub>7</sub>H<sub>6</sub>FNO<sub>2</sub>",
       "type": "subjective"
     },
     "Answer": {
@@ -120,14 +121,14 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Formula</strong>: IHD = (2C + 2 - H + N - X)/2 = (2×7 + 2 - 6 + 1 - 1)/2 = 5</li><li>Each unit indicates 1 ring or π-bond</li><li>Possible structures: Could include benzene ring (IHD=4) + 1 other unsaturation</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 8",
     "Question": {
-      "content": "Pick the compound with the lowest intramolecular attractive forces.",
+      "content": "Pick the compound with the lowest intramolecular attractive forces",
       "type": "OBJ",
       "options": ["Octane", "Ethane", "Cyclopropane"]
     },
@@ -137,27 +138,27 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>London forces increase with molecular size</li><li><strong>Order</strong>: Octane > Cyclopropane > Ethane</li><li>Ethane (C<sub>2</sub>H<sub>6</sub>) has weakest van der Waals forces</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 9",
     "Question": {
-      "content": "Pick the compound with the highest boiling point among the following:",
+      "content": "Pick the compound with the highest boiling point among the following",
       "type": "OBJ",
-      "options":["Butane", "butanol", "butanone", "cyclobutene"]
+      "options": ["Butane", "Butanol", "Butanone", "Cyclobutene"]
     },
     "Answer": {
       "type": "string",
-      "content": "butanol"
+      "content": "Butanol"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Hydrogen bonding</strong> in butanol (OH group) dominates</li><li><strong>Order</strong>: Butanol (118°C) > Butanone (80°C) > Cyclobutene (2°C) > Butane (-1°C)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 10",
     "Question": {
@@ -171,30 +172,31 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Solubility decreases with increasing hydrocarbon chain length</li><li><strong>Order</strong>: Ethanol (miscible) > Butanol (8g/100mL) > 2,3-dimethylbutane (insoluble)</li><li>OH group enables H-bonding with water</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 11",
     "Question": {
-      "content": "Write the structure of the aromatic compound formed when a solution concentrated sulphuric acid and trioxinitrate (V) acid react with benzene",
+      "content": "Write the structure of the aromatic compound formed when concentrated sulphuric acid and trioxonitrate(V) acid react with benzene",
       "type": "subjective"
     },
     "Answer": {
       "type": "img",
-      "content": "https://lh3.googleusercontent.com/d/1eTQAjTib9hSl7IvPCWAMzGxBCt0NzzBc"
+      "content": "https://lh3.googleusercontent.com/d/1eTQAjTib9hSl7IvPCWAMzGxBCt0NzzBc",
+      "alt": "Nitrobenzene"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Electrophilic aromatic substitution</strong> produces nitrobenzene</li><li><strong>Reaction</strong>: C<sub>6</sub>H<sub>6</sub> + HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub> → C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + H<sub>2</sub>O</li><li>NO<sub>2</sub> group is meta-directing for further substitutions</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 12",
     "Question": {
-      "content": "What type of isomerism exists between ethanol and methylether?",
+      "content": "What type of isomerism exists between ethanol and methoxymethane?",
       "type": "subjective"
     },
     "Answer": {
@@ -203,16 +205,16 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Same molecular formula (C<sub>2</sub>H<sub>6</sub>O)</li><li>Different functional groups: alcohol (-OH) vs ether (-O-)</li><li>Physical properties differ significantly</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 13",
     "Question": {
-      "content": "Pick the compound that exhibits geometrical isometric among the following.",
+      "content": "Pick the compound that exhibits geometrical isomerism among the following",
       "type": "OBJ",
-      "options": ["2-butene","2-butyne","2-butanol"]
+      "options": ["2-butene", "2-butyne", "2-butanol"]
     },
     "Answer": {
       "type": "string",
@@ -220,10 +222,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Requires restricted rotation (double bond) + different substituents</li><li>2-butene: CH<sub>3</sub>-CH=CH-CH<sub>3</sub> has cis/trans forms</li><li>Others: 2-butyne (linear), 2-butanol (free rotation)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 14",
     "Question": {
@@ -232,14 +234,15 @@
     },
     "Answer": {
       "type": "img",
-      "content": ""
+      "alt": "2-chloropentanoic acid",
+      "content": "https://example.com/2-chloropentanoic-acid"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Structural</strong>: CH<sub>3</sub>-CH<sub>2</sub>-CH(Cl)-CH<sub>2</sub>-COOH</li><li><strong>Empirical</strong>: C<sub>5</sub>H<sub>9</sub>ClO<sub>2</sub></li><li>Contains carboxylic acid (-COOH) and chloro (-Cl) groups</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 15",
     "Question": {
@@ -248,15 +251,16 @@
     },
     "Answer": {
       "type": "img",
-      "alt": "Urea",
-      "content": ""
+      "alt": "Urea \\((NH_2)_2CO\\)",
+      "content": "https://example.com/urea-structure"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Wöhler's synthesis</strong> (1828): NH<sub>4</sub>OCN → (NH<sub>2</sub>)<sub>2</sub>CO</li><li>Disproved vital force theory</li><li>Molecular formula: CH<sub>4</sub>N<sub>2</sub>O</li></ul>"
     }
-  }
-  , {
+  },
+  
+  {
     "type": "Question",
     "name": "Question 16",
     "Question": {
@@ -269,10 +273,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Hybridization combines atomic orbitals (s, p, d) to form new hybrid orbitals with different shapes and energies</li><li>Common types: sp³ (tetrahedral), sp² (trigonal planar), sp (linear)</li><li>Explains molecular geometry and bonding angles (e.g., methane's 109.5°)</li><li>First proposed by Linus Pauling in 1931</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 17",
     "Question": {
@@ -281,14 +285,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "<ul> <li>Boiling point elevation (Ebulioscopy) </li>  <li>Freezing point depression (cryoscopy)</li></ul>"
+      "content": "<ul><li>Boiling point elevation (Ebullioscopy)</li><li>Freezing point depression (Cryoscopy)</li></ul>"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Ebullioscopy</strong>:<br>- Measures ΔT<sub>b</sub> using Beckmann thermometer<br>- Formula: M<sub>2</sub> = (K<sub>b</sub> × w<sub>2</sub> × 1000)/(ΔT<sub>b</sub> × w<sub>1</sub>)<br>- Solvent constants: Water (K<sub>b</sub>=0.512), Benzene (K<sub>b</sub>=2.53)</li><li><strong>Cryoscopy</strong>:<br>- Measures ΔT<sub>f</sub> <br>- Formula: M<sub>2</sub> = (K<sub>f</sub> × w<sub>2</sub> × 1000)/(ΔT<sub>f</sub> × w<sub>1</sub>)<br>- Solvent constants: Water (K<sub>f</sub>=1.86), Camphor (K<sub>f</sub>=40)</li><li>Both are colligative properties depending on particle number</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 18",
     "Question": {
@@ -297,15 +301,15 @@
     },
     "Answer": {
       "type": "img",
-      "alt": "benzenesulphonic acid",
+      "alt": "Benzenesulphonic acid \\(C_6H_5SO_3H\\)",
       "content": "https://lh3.googleusercontent.com/d/1ekxUNdMHjldhhDvgjYOqCI1ygahtZ2eO"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Structure</strong>: Benzene ring with -SO<sub>3</sub>H substituent</li><li>Sulphonic acid group (-SO<sub>3</sub>H) is strongly acidic (pK<sub>a</sub> ≈ -6)</li><li>Formed by sulfonation of benzene with fuming H<sub>2</sub>SO<sub>4</sub></li><li>Important in detergents and dye synthesis</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 19",
     "Question": {
@@ -313,16 +317,15 @@
       "type": "subjective"
     },
     "Answer": {
-      "type": "img",
-      "content": "https://lh3.googleusercontent.com/d/1f0o7YLo98PcNIMlj25a7FvSEyasU0zqj",
-      "alt": "Sigma bonds = 5"
+      "type": "string",
+      "content": "5 sigma bonds"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Structure</strong>: CH<sub>3</sub>-C≡N</li><li><strong>Sigma bonds</strong>:<br>1. Three C-H bonds in CH<sub>3</sub><br>2. One C-C bond<br>3. One C-N bond</li><li><strong>Pi bonds</strong>: 2 in C≡N triple bond</li><li>Total bonds: 5σ + 2π</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 20",
     "Question": {
@@ -331,18 +334,18 @@
     },
     "Answer": {
       "type": "string",
-      "content": "\\(CH_3CH_2-C≡C-CH-CH_2\\)"
+      "content": "\\(CH_3CH_2-C\\equiv C-CH=CH_2\\)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Structure</strong>: Contains both double (ene) and triple (yne) bonds</li><li>IUPAC numbering gives priority to the double bond (position 1)</li><li>Triple bond at position 3: \\(C\\equiv C\\)</li><li>Note: The structure should show proper bond angles (120° for sp², 180° for sp)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 21",
     "Question": {
-      "content": "suggest a more accurate name for 4-hexanone",
+      "content": "Suggest a more accurate name for 4-hexanone",
       "type": "subjective"
     },
     "Answer": {
@@ -351,10 +354,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Carbonyl group should have the lowest possible number</li><li>Correct numbering: \\(CH_3CH_2COCH_2CH_2CH_3\\) (C=O at position 3)</li><li>4-hexanone would imply \\(CH_3CH_2CH_2COCH_2CH_3\\), which is incorrect</li><li>IUPAC Rule C-14.3: Number from end nearest the functional group</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 22",
     "Question": {
@@ -363,14 +366,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "1,2-dibromoethene"
+      "content": "(E)-1,2-dibromoethene (trans form)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Reaction</strong>: \\(HC\\equiv CH + Br_2 \\rightarrow BrCH=CHBr\\)</li><li>Forms trans product due to anti-addition mechanism</li><li>Further addition produces \\(CHBr_2CHBr_2\\) (tetrabromoethane)</li><li>Markovnikov's rule doesn't apply to symmetrical alkynes</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 23",
     "Question": {
@@ -383,10 +386,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Balanced equation</strong>: 1:8:5:6 stoichiometry</li><li>Heat of combustion: \\(\\Delta H^\\circ \\approx -3509\\ kJ/mol\\)</li><li>Incomplete combustion would produce CO or C (soot)</li><li>Important in internal combustion engines</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 24",
     "Question": {
@@ -396,46 +399,46 @@
     "Answer": {
       "type": "img",
       "content": "https://lh3.googleusercontent.com/d/1f0zbilpQATewAK4D_v3TTqQ6wdqUQMJN",
-      "alt": "propanone"
+      "alt": "2,3-dimethyl-2,3-butanediol and acetone"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Oxidative cleavage</strong> of double bond by \\(KMnO_4\\)</li><li>Products: \\( (CH_3)_2C=O \\) (acetone) + \\( (CH_3)_2C(OH)C(OH)(CH_3)_2 \\) (pinacol)</li><li>Mechanism involves cyclic manganate ester intermediate</li><li>Hot \\(KMnO_4\\) is stronger oxidant than cold solution</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 25",
     "Question": {
-      "content": "Name two physical properties of alkanes that increase in chain length",
+      "content": "Name two physical properties of alkanes that increase with chain length",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "Boiling point & Melting point"
+      "content": "Boiling point and Melting point"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li><strong>Boiling point</strong>: Increases due to stronger London dispersion forces (\\(\\propto\\) molecular surface area)</li><li><strong>Melting point</strong>: Increases as longer chains pack more efficiently in solid state</li><li>Example trend: Methane (\\(-162\\degree C\\)) → Hexane (\\(69\\degree C\\)) → Decane (\\(174\\degree C\\))</li><li>Branching decreases these values by reducing molecular contact</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 26",
     "Question": {
-      "content": "What is the product of the anti-Markonikov addition of hydrogen bromide to propene?",
+      "content": "What is the product of the anti-Markovnikov addition of hydrogen bromide to propene?",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "1-bromopropane"
+      "content": "1-bromopropane (\\(CH_3CH_2CH_2Br\\))"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Requires peroxide initiator (\\(ROOR\\))</li><li>Mechanism: Radical chain reaction where \\(Br\\cdot\\) adds first to less substituted carbon</li><li>Contrasts with Markovnikov addition (2-bromopropane)</li><li>Important in polymer industry</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 27",
     "Question": {
@@ -444,14 +447,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "terminal alkyne"
+      "content": "Terminal alkyne (\\(RC\\equiv CH\\))"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Forms acetylides with \\(Ag^+\\) or \\(Cu^+\\) salts (e.g., \\(RC\\equiv CAg\\))</li><li>Acidic hydrogen (\\(pK_a \\approx 25\\)) reacts with strong bases</li><li>Example: \\(HC\\equiv CH + 2[Ag(NH_3)_2]^+ \\rightarrow AgC\\equiv CAg\\downarrow\\)</li><li>Used to distinguish terminal vs internal alkynes</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 28",
     "Question": {
@@ -464,10 +467,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Bond breaks symmetrically: \\(X:Y \\rightarrow X\\cdot + Y\\cdot\\)</li><li>Requires energy input (heat/light)</li><li>Bond dissociation energy: \\(Cl-Cl = 242\\ kJ/mol\\)</li><li>Key step in radical chain reactions (initiation)</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 29",
     "Question": {
@@ -476,14 +479,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Infrared spectroscopy"
+      "content": "Infrared (IR) spectroscopy"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<ul><li>Measures vibrational frequencies (4000-400 \\(cm^{-1}\\))</li><li>Characteristic peaks: \\(C=O\\ (1700\\ cm^{-1})\\), \\(O-H\\ (3300\\ cm^{-1})\\), etc.</li><li>FTIR can distinguish even similar functional groups</li><li>Complementary to NMR for structure elucidation</li></ul>"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 30",
     "Question": {
@@ -496,10 +499,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>A <em>quaternary carbon</em> is like the <em>central hub</em> in a molecule where <strong>four other carbons</strong> are directly attached to it. <br><br><strong>Example:</strong><br>In <code>(CH<sub>3</sub>)<sub>4</sub>C</code> (neopentane), the <strong>central carbon</strong> is quaternary because it’s bonded to <strong>four CH<sub>3</sub> groups</strong>."
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 31",
     "Question": {
@@ -513,10 +516,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>An <em>anhydride</em> is formed when <strong>two carboxylic acids</strong> join by losing a water molecule. <br><br><strong>Benzoic ethanoic anhydride</strong> is a mix of:<br>1. <strong>Benzoic acid</strong> (C<sub>6</sub>H<sub>5</sub>COOH)<br>2. <strong>Ethanoic acid</strong> (CH<sub>3</sub>COOH)<br><br>Its structure: <code>C<sub>6</sub>H<sub>5</sub>CO-O-COCH<sub>3</sub></code> (benzoyl group + acetyl group)."
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 32",
     "Question": {
@@ -525,14 +528,14 @@
     },
     "Answer": {
       "type": "string",
-      "content": "elimination unimolecular (E-1 mechanism)"
+      "content": "Elimination unimolecular (E-1 mechanism)"
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br>The <strong>E-1 mechanism</strong> is like a <em>slow breakup</em> followed by a <em>fast departure</em>:<br><br>1. <strong>Step 1 (Slow):</strong> The leaving group (e.g., Br<sup>–</sup>) leaves, forming a carbocation.<br>   \\[ R-Br \\rightarrow R^+ + Br^- \\]<br>2. <strong>Step 2 (Fast):</strong> A base (e.g., OH<sup>–</sup>) removes a proton, creating a double bond.<br>   \\[ R^+ + OH^- \\rightarrow R=CH_2 + H_2O \\]<br><br><em>Note:</em> E-1 happens in <strong>two steps</strong>, unlike E-2 (one step)."
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 33",
     "Question": {
@@ -545,10 +548,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br><em>Fractional distillation</em> is like a <strong>super-precise boiling</strong> method for liquids that mix well (e.g., ethanol + water).<br><br><strong>How it works:</strong><br>1. The mixture is heated.<br>2. Vapors rise through a <strong>fractionating column</strong> (filled with glass beads).<br>3. The liquid with the <em>lower boiling point</em> condenses first and is collected.<br><br><em>Why use it?</em> Because simple distillation fails for <strong>close boiling points</strong> (e.g., 78°C vs. 100°C)."
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 34",
     "Question": {
@@ -561,10 +564,10 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br><em>Vacuum distillation</em> is like <strong>boiling liquids gently</strong> by reducing pressure.<br><br><strong>Why use it?</strong><br>Some liquids <em>decompose</em> at high temps (e.g., glycerol). Lowering pressure lets them boil at <strong>lower temperatures</strong>.<br><br><strong>Example:</strong><br>\\[ P_{\\text{low}} \\rightarrow T_{\\text{boiling}} \\downarrow \\]"
     }
-  }
-  , {
+  },
+  {
     "type": "Question",
     "name": "Question 35",
     "Question": {
@@ -577,8 +580,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": ""
+      "content": "<strong>Simple Explanation:</strong><br><em>Heterolytic fission</em> is like a <strong>unequal divorce</strong> where one atom takes both electrons:<br><br>1. <strong>Carbocation</strong> forms if the <em>more electronegative</em> atom leaves with the electrons.<br>   \\[ R-X \\rightarrow R^+ + X^- \\]<br>2. <strong>Carbanion</strong> forms if the <em>less electronegative</em> atom leaves with the electrons.<br>   \\[ R-X \\rightarrow R^- + X^+ \\]<br><br><em>Note:</em> Happens in polar solvents or with unstable bonds."
     }
   }
-
 ]
