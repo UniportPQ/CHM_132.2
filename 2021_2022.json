@@ -298,7 +298,7 @@
   },
   "Explanation": {
     "type": "string",
-    "content": "Structure breakdown:<br/>1. <b>Heptane</b>: 7-carbon main chain<br/>2. <b>2-methyl</b>: CH₃ group on carbon 2<br/>3. <b>4-ethyl</b>: C₂H₅ group on carbon 4<br/><br/>Visual representation <br> <img class='imgAns thumbnail' alt='4-ethyl-2-methylheptane' src='https://lh3.googleusercontent.com/d/1pIafmPM3on3N4cDAeHoUfDGRExg2JEyU'>"
+    "content": "Structure breakdown:<br/>1. <b>Heptane</b>: 7-carbon main chain<br/>2. <b>2-methyl</b>: CH₃ group on carbon 2<br/>3. <b>4-ethyl</b>: C₂H₅ group on carbon 4<br/><br/>Visual representation <br> <img class='explainImg thumbnail' alt='4-ethyl-2-methylheptane' src='https://lh3.googleusercontent.com/d/1pIafmPM3on3N4cDAeHoUfDGRExg2JEyU'>"
   }
 },
 {
@@ -331,7 +331,7 @@
   },
   "Explanation": {
     "type": "string",
-    "content": "This is an <b>electrophilic aromatic substitution</b> reaction:<br/>1. Lewis acid catalyst (like AlCl₃) polarizes Cl₂ to create Cl⁺ electrophile<br/>2. Benzene's π-electrons attack Cl⁺<br/>3. Forms chlorobenzene + HCl<br/><br/>Structure:<br> <img class='imgAns thumbnail' alt='Chlorobenzene (C₆H₅Cl)' src='https://lh3.googleusercontent.com/d/1pCCcc5d_wJo4YVVUs_gsNAmOu7v9FS0-'>(hexagon with alternating double bonds and one Cl attached)"
+    "content": "This is an <b>electrophilic aromatic substitution</b> reaction:<br/>1. Lewis acid catalyst (like AlCl₃) polarizes Cl₂ to create Cl⁺ electrophile<br/>2. Benzene's π-electrons attack Cl⁺<br/>3. Forms chlorobenzene + HCl<br/><br/>Structure:<br> <img class='explainImg thumbnail' alt='Chlorobenzene (C₆H₅Cl)' src='https://lh3.googleusercontent.com/d/1pCCcc5d_wJo4YVVUs_gsNAmOu7v9FS0-'>(hexagon with alternating double bonds and one Cl attached)"
   }
 },
 {
@@ -491,7 +491,7 @@
   },
   "Explanation": {
     "type": "string",
-    "content": "Hot acidic \\( KMnO_4 \\) cleaves alkenes at the double bond:<br/>1. 2-methyl-2-butene: \\( (CH_3)_2C=CHCH_3 \\)<br/>2. Breaks into:<br/>- \\( (CH_3)_2C=O \\) (acetone) from more substituted side<br/>- \\( CH_3COOH \\) (acetic acid) from less substituted side<br/><br/>Structures:<br/><img class='imgAns thumbnail' alt='Acetone and Acetic acid' src='https://lh3.googleusercontent.com/d/1pmMHO96hiYMY3CFknN_F_c3009fSbSpE'>"
+    "content": "Hot acidic \\( KMnO_4 \\) cleaves alkenes at the double bond:<br/>1. 2-methyl-2-butene: \\( (CH_3)_2C=CHCH_3 \\)<br/>2. Breaks into:<br/>- \\( (CH_3)_2C=O \\) (acetone) from more substituted side<br/>- \\( CH_3COOH \\) (acetic acid) from less substituted side<br/><br/>Structures:<br/><img class='explainImg thumbnail' alt='Acetone and Acetic acid' src='https://lh3.googleusercontent.com/d/1pmMHO96hiYMY3CFknN_F_c3009fSbSpE'>"
   }
 },
 {
@@ -507,7 +507,7 @@
   },
   "Explanation": {
     "type": "string",
-    "content": "This is <b>anti-Markovnikov addition</b> (peroxide effect):<br/>1. \\( H_2O_2 \\) causes Br to attach to less substituted carbon<br/>2. 2-methyl-but-2-ene: \\( (CH_3)_2C=CHCH_3 \\)<br/>3. Product: \\( (CH_3)_2CHCHBrCH_3 \\)<br/><br/>Structure:<br/> <img class='imgAns thumbnail' alt='2-bromo-3-methylbutane ' src='https://lh3.googleusercontent.com/d/1q2kG1GBkdpUCfL61HLy9eXhHCV6arIos'>"
+    "content": "This is <b>anti-Markovnikov addition</b> (peroxide effect):<br/>1. \\( H_2O_2 \\) causes Br to attach to less substituted carbon<br/>2. 2-methyl-but-2-ene: \\( (CH_3)_2C=CHCH_3 \\)<br/>3. Product: \\( (CH_3)_2CHCHBrCH_3 \\)<br/><br/>Structure:<br/> <img class='explainImg thumbnail' alt='2-bromo-3-methylbutane ' src='https://lh3.googleusercontent.com/d/1q2kG1GBkdpUCfL61HLy9eXhHCV6arIos'>"
   }
 },
 {
