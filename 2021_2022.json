@@ -1,0 +1,576 @@
+[
+{
+  "type": "pageInfo",
+  "kind": "SUBJECTIVE",
+  "course_title": "Introduction To Organic Chemistry",
+  "code": "CHM 132.2",
+  "session": "2021/2022",
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+},
+{
+  "type": "Question",
+  "name": "Question 1",
+  "Question": {
+    "content": "In what spectroscopic technique are the molecules of the compound bombarded by high energy electrons?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Mass spectrometry (Electron Impact Mass Spectrometry)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "In <b>mass spectrometry</b>, molecules are bombarded with high-energy electrons (typically 70 eV) which knock out electrons from the molecules, creating positively charged ions.<br/><br/>These ions are then separated based on their mass-to-charge ratio (m/z) and detected to give a mass spectrum."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2",
+  "Question": {
+    "content": "Underline the compound that bears the shortest carbon-carbon bond length among the following cyclopentane, methane, heptyne, 2,2-dimethylpentane",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "heptyne"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Bond length depends on bond order:<br/>- Single bonds (C-C) are longest (~1.54 Å)<br/>- Double bonds (C=C) are shorter (~1.34 Å)<br/>- Triple bonds (C≡C) are shortest (~1.20 Å)<br/><br/>Heptyne contains a <b>carbon-carbon triple bond</b>, while the others have only single bonds."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3",
+  "Question": {
+    "content": "When numbered accordingly, what is the hybridization of the fourth carbon in 1-butene?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "sp³"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "1-butene structure: CH₂=CH-CH₂-CH₃<br/><br/>Numbering the carbons:<br/>1 (sp², double bond)<br/>2 (sp², double bond)<br/>3 (sp³, single bonds)<br/>4 (sp³, single bonds)<br/><br/>The fourth carbon (CH₃ group) forms 4 single bonds → <b>sp³ hybridized</b> (tetrahedral geometry)."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4",
+  "Question": {
+    "content": "Calculate the index of hydrogen deficiency of \\( C_7H_8FNO_2 \\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "5"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Formula for IHD (Index of Hydrogen Deficiency):<br/>\\[IHD = \\frac{(2C + 2 - H - X + N)}{2}\\]<br/>Where C=carbons, H=hydrogens, X=halogens, N=nitrogens.<br/><br/>For \\( C_7H_8FNO_2 \\):<br/>\\[IHD = \\frac{(2×7 + 2 - 8 - 1 + 1)}{2} = \\frac{14 + 2 - 8}{2} = 5\\]<br/>This indicates 5 degrees of unsaturation (could be rings, double/triple bonds)."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5",
+  "Question": {
+    "content": "Draw the structure of 2-methylcyclopent-1,3-diene",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "alt": "2-methylcyclopent-1,3-diene",
+    "content": "https://lh3.googleusercontent.com/d/1p7XXLb6t6p-12zMg6JCd_kNG9NRar6jc"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Breakdown of the name:<br/>- <b>Cyclopent</b>: 5-carbon ring<br/>- <b>1,3-diene</b>: Double bonds at positions 1 and 3<br/>- <b>2-methyl</b>: CH₃ group attached to carbon 2<br/><br/>Structure:<br> <i>A cyclopentene ring with double bonds at positions 1 and 3, and a methyl group at position 2</i>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6",
+  "Question": {
+    "content": "What is the IUPAC name for \\( CH_3CH_2CONH_2 \\)?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Propanamide"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Step-by-step naming:<br/>1. Count carbons in main chain: CH₃-CH₂-CO → 3 carbons = <i>prop</i><br/>2. Functional group: -CONH₂ = <i>amide</i><br/>3. Combine: <b>propanamide</b><br/><br/>Note: The 'e' in propane is dropped when adding '-amide'."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 7",
+  "Question": {
+    "content": "What type of isomerism is exhibited between 1,4-butadiene and 2-butyne?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Functional group isomerism"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Both compounds have the same molecular formula (\\( C_4H_6 \\)) but different functional groups:<br/>- <b>1,4-butadiene</b>: CH₂=CH-CH=CH₂ (two double bonds)<br/>- <b>2-butyne</b>: CH₃-C≡C-CH₃ (one triple bond)<br/><br/>This is called <b>functional group isomerism</b> - same atoms arranged into different functional groups."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 8",
+  "Question": {
+    "content": "Provide the correct name for 2-ethylpentane",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "3-methylhexane"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "The name '2-ethylpentane' is incorrect because:<br/>1. The parent chain should be the <b>longest continuous carbon chain</b> (here it's actually 6 carbons, not 5)<br/>2. The correct structure:<br/>&nbsp;&nbsp;&nbsp;CH₃-CH₂-CH-CH₂-CH₂-CH₃<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH₃<br/>This is <b>3-methylhexane</b> (methyl at position 3 of a hexane chain)."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 9",
+  "Question": {
+    "content": "What is the empirical formula of pentene?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\( CH_2 \\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Pentene's molecular formula: \\( C_5H_{10} \\)<br/>To find empirical formula:<br/>1. Divide both subscripts by their greatest common divisor (here, 5)<br/>2. \\( C_{5/5}H_{10/5} = CH_2 \\)<br/><br/>The empirical formula shows the <b>simplest whole number ratio</b> of atoms."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 10",
+  "Question": {
+    "content": "Draw the structure of a saturated compound with molecular formula \\( C_4H_8 \\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Cyclobutane (a square ring with 4 carbons)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "For \\( C_4H_8 \\) to be saturated (no double/triple bonds), it must be <b>cyclic</b>:<br/>1. Open-chain \\( C_4H_{10} \\) is butane (needs 10 H's)<br/>2. \\( C_4H_8 \\) has 2 fewer H's → must form a ring<br/>3. Structure:<br/>&nbsp;&nbsp;CH₂-CH₂<br/>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|<br/>&nbsp;&nbsp;CH₂-CH₂<br/>This is <b>cyclobutane</b>."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+    "content": "Name the instrumental technique used in identifying two compounds with different functional groups",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Infrared Spectroscopy (IR)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Infrared spectroscopy works by measuring how molecules absorb infrared light at specific frequencies that correspond to different functional groups.<br/><br/>Each functional group (like -OH, C=O, etc.) has a unique 'fingerprint' absorption pattern in the IR spectrum."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 12",
+  "Question": {
+    "content": "Name two methods used for determining the purity of organic compounds",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Melting point analysis and Thin Layer Chromatography (TLC)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "1. <b>Melting Point Analysis</b>: Pure compounds melt at a sharp, specific temperature range. Impurities lower and broaden the melting range.<br/>2. <b>TLC</b>: A pure compound will show only one spot when run on a TLC plate with a suitable solvent system."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 13",
+  "Question": {
+    "content": "A group of molecules that donate electrons during a chemical reaction is called ______",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Nucleophiles"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Nucleophiles ('nucleus-loving') are electron-rich species that donate electron pairs to form new bonds.<br/><br/>Examples: OH⁻ (hydroxide), NH₃ (ammonia), and H₂O (water). They are attracted to positive charges or electron-deficient atoms."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 14",
+  "Question": {
+    "content": "All hydrocarbons are insoluble in water. True or False",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "True"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Hydrocarbons are nonpolar molecules, while water is polar. The general rule is 'like dissolves like'.<br/><br/>Even small hydrocarbons like methane (CH₄) have negligible solubility in water because they cannot form hydrogen bonds with water molecules."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 15",
+  "Question": {
+    "content": "Draw the structure of bicyclo(4,1,1)octane",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "alt": "bicyclo(4,1,1)octane",
+    "content": "https://lh3.googleusercontent.com/d/1pApfZEhMJArle8bHs97IKtv8YBE1f89S"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Bicyclo[4.1.1]octane consists of:<br/>1. An 8-carbon main structure (octane)<br/>2. Three bridges between two bridgehead carbons: 4 carbons, 1 carbon, and 1 carbon<br/><br/>Visualization:<br/>A structure with two fused rings: one 4-carbon and two 1-carbon bridges on an 8-carbon framework"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 16",
+  "Question": {
+    "content": "What are the products formed when propane burns completely in oxygen?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Carbon dioxide (CO₂) and water (H₂O)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Complete combustion of hydrocarbons follows this general equation:<br/>\\[ C_xH_y + O_2 \\rightarrow CO_2 + H_2O \\]<br/>For propane (\\( C_3H_8 \\)):<br/>\\[ C_3H_8 + 5O_2 \\rightarrow 3CO_2 + 4H_2O \\]<br/>This occurs with sufficient oxygen and produces only CO₂ and H₂O as products."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+    "content": "Give the name and structure of the product formed when propanol is dehydrated",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Propene (CH₃-CH=CH₂)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Dehydration removes a water molecule (-H from one carbon, -OH from adjacent carbon):<br/><br/>Propanol (\\( CH_3CH_2CH_2OH \\)) → Propene (\\( CH_3CH=CH_2 \\)) + H₂O<br/><br/>This is an elimination reaction typically catalyzed by acids like H₂SO₄ at high temperatures."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 18",
+  "Question": {
+    "content": "Draw the molecular structure of 4-ethyl-2-methylheptane",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "CH₃-CH(CH₃)-CH₂-CH(C₂H₅)-CH₂-CH₂-CH₃"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Structure breakdown:<br/>1. <b>Heptane</b>: 7-carbon main chain<br/>2. <b>2-methyl</b>: CH₃ group on carbon 2<br/>3. <b>4-ethyl</b>: C₂H₅ group on carbon 4<br/><br/>Visual representation <br> <img class='imgAns thumbnail' alt='4-ethyl-2-methylheptane' src='https://lh3.googleusercontent.com/d/1pIafmPM3on3N4cDAeHoUfDGRExg2JEyU'>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 19",
+  "Question": {
+    "content": "Underline the element(s) among the following that cannot be identified with the sodium fusion test. Sulphur, oxygen, bromine, nitrogen",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "oxygen"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "The sodium fusion test detects <b>halogens</b> (Br), <b>nitrogen</b> (N), and <b>sulfur</b> (S) by converting them to soluble ions (CN⁻ for N, S²⁻ for S, X⁻ for halogens).<br/><br/><b>Oxygen</b> doesn't form a characteristic testable ion in this process, making it undetectable by this method."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+    "content": "Give the structure of the major product formed when benzene reacts with chlorine in the presence of a Lewis catalyst",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "img",
+    "content": "https://lh3.googleusercontent.com/d/1pCCcc5d_wJo4YVVUs_gsNAmOu7v9FS0-",
+    "alt": "Chlorobenzene (C₆H₅Cl)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "This is an <b>electrophilic aromatic substitution</b> reaction:<br/>1. Lewis acid catalyst (like AlCl₃) polarizes Cl₂ to create Cl⁺ electrophile<br/>2. Benzene's π-electrons attack Cl⁺<br/>3. Forms chlorobenzene + HCl<br/><br/>Structure:<br> <img class='imgAns thumbnail' alt='Chlorobenzene (C₆H₅Cl)' src='https://lh3.googleusercontent.com/d/1pCCcc5d_wJo4YVVUs_gsNAmOu7v9FS0-'>(hexagon with alternating double bonds and one Cl attached)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 21",
+  "Question": {
+    "content": "Name the products formed when 2-butene reacts with cold alkaline \\( KMnO_4 \\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "meso-2,3-butanediol"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Cold alkaline \\( KMnO_4 \\) performs <b>syn dihydroxylation</b> on alkenes:<br/>1. Converts C=C to two -OH groups on same side (cis addition)<br/>2. For 2-butene (\\( CH_3CH=CHCH_3 \\)):<br/>\\[ CH_3CH=CHCH_3 + KMnO_4 \\rightarrow CH_3CH(OH)CH(OH)CH_3 \\]<br/>Forms <b>meso-2,3-butanediol</b> (a diol with two chiral centers but optically inactive)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 22",
+  "Question": {
+    "content": "Draw the structures of the compounds formed by ozonolysis of 2-methyl-2-butene and subsequent treatment with zinc metal in the presence of an acid",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Acetone (\\( CH_3COCH_3 \\)) and Acetaldehyde (\\( CH_3CHO \\))"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Ozonolysis cleaves double bonds:<br/>1. 2-methyl-2-butene structure: \\( (CH_3)_2C=CHCH_3 \\)<br/>2. Ozone adds to form ozonide<br/>3. Zn/acid treatment yields carbonyl compounds:<br/>- \\( (CH_3)_2C=O \\) (acetone)<br/>- \\( CH_3CHO \\) (acetaldehyde)<br/>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 23",
+  "Question": {
+    "content": "Give the IUPAC nomenclature of the compound \\( CH_3CH(CH_3)CH_2CH_2COOH \\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "4-methylpentanoic acid"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Step-by-step naming:<br/>1. Identify longest carbon chain containing -COOH: 5 carbons → <i>pentane</i><br/>2. -COOH changes suffix to <i>-oic acid</i><br/>3. Methyl group at position 4<br/>4. Combine: <b>4-methylpentanoic acid</b><br/><br/>Structure:<br/>&nbsp;&nbsp;CH₃<br/>&nbsp;&nbsp;|<br/>CH₃-CH-CH₂-CH₂-COOH"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+    "content": "Mention 2 types of chromatographic techniques",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Gas Chromatography (GC) and High Performance Liquid Chromatography (HPLC)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Chromatography</b> separates mixtures based on how components interact with mobile and stationary phases:<br/>1. <b>GC</b>: Uses gas mobile phase for volatile compounds<br/>2. <b>HPLC</b>: Uses liquid mobile phase under high pressure for non-volatile compounds<br/><br/>Both techniques measure how fast compounds travel through the system (retention time)."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+    "content": "The mathematical representation of retardation factor is ______",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\( R_f = \\frac{\\text{Distance traveled by spot}}{\\text{Distance traveled by solvent front}} \\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "The <b>retardation factor (R<sub>f</sub>)</b> in chromatography is calculated as:<br/>\\[ R_f = \\frac{\\text{Distance from origin to spot center}}{\\text{Distance from origin to solvent front}} \\]<br/>Key points:<br/>- Always between 0 (no movement) and 1 (moves with solvent)<br/>- Unique for each compound under specific conditions"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+    "content": "Circle the specie(s) that is/are not electrophile(s) among the following: \\( NH_3 \\), \\( CH_3 \\), RO, BF",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "\\( NH_3 \\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Electrophiles</b> are electron-deficient species that accept electrons:<br/>- \\( CH_3^+ \\) (carbocation) - electrophile<br/>- RO⁻ (alkoxide ion) - nucleophile<br/>- BF₃ (boron trifluoride) - electrophile<br/>- <b>\\( NH_3 \\)</b> has a lone pair → nucleophile (not electrophile)"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "Question": {
+    "content": "Circle the compound that does not have a carbonyl function: Propanal, propylamine, propanoic acid, propanone",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "propylamine"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Carbonyl group</b> is C=O present in:<br/>- Propanal (\\( CH_3CH_2CHO \\)) - aldehyde<br/>- Propanoic acid (\\( CH_3CH_2COOH \\)) - carboxyl<br/>- Propanone (\\( CH_3COCH_3 \\)) - ketone<br/><br/><b>Propylamine (\\( CH_3CH_2CH_2NH_2 \\))</b> has no C=O → correct answer"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "Question": {
+    "content": "What is the value of the \\( H - C - H \\) bond angle as found in methane?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "109.5°"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Methane (\\( CH_4 \\)) has <b>tetrahedral geometry</b>:<br/>- Carbon is sp³ hybridized<br/>- Four identical C-H bonds<br/>- Perfect tetrahedral angle = 109.5°<br/><br/>This angle minimizes repulsion between bonding electron pairs (VSEPR theory)."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 29",
+  "Question": {
+    "content": "Mention one method that could be used to determine the molecular mass of a compound",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Mass Spectrometry"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Mass spectrometry</b> measures molecular mass by:<br/>1. Ionizing the molecule (e.g., removing an electron to form M⁺)<br/>2. Measuring mass-to-charge ratio (m/z) of ions<br/>3. The peak with highest m/z (<i>molecular ion peak</i>) gives the molecular mass<br/><br/>Example: Ethanol (\\( C_2H_5OH \\)) shows M⁺ peak at m/z = 46."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 30",
+  "Question": {
+    "content": "Draw the structures (only) of the major products of oxidation of 2-methyl-2-butene with hot acidic \\( KMnO_4 \\)",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Acetone (\\( CH_3COCH_3 \\)) and Acetic acid (\\( CH_3COOH \\))"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Hot acidic \\( KMnO_4 \\) cleaves alkenes at the double bond:<br/>1. 2-methyl-2-butene: \\( (CH_3)_2C=CHCH_3 \\)<br/>2. Breaks into:<br/>- \\( (CH_3)_2C=O \\) (acetone) from more substituted side<br/>- \\( CH_3COOH \\) (acetic acid) from less substituted side<br/><br/>Structures:<br/><img class='imgAns thumbnail' alt='Acetone and Acetic acid' src='https://lh3.googleusercontent.com/d/1pmMHO96hiYMY3CFknN_F_c3009fSbSpE'>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "Question": {
+    "content": "Draw the structure of the product of the reaction between 2-methyl-but-2-ene and hydrogen bromide in the presence of hydrogen peroxide",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "2-bromo-3-methylbutane (\\( (CH_3)_2CHCHBrCH_3 \\))"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "This is <b>anti-Markovnikov addition</b> (peroxide effect):<br/>1. \\( H_2O_2 \\) causes Br to attach to less substituted carbon<br/>2. 2-methyl-but-2-ene: \\( (CH_3)_2C=CHCH_3 \\)<br/>3. Product: \\( (CH_3)_2CHCHBrCH_3 \\)<br/><br/>Structure:<br/> <img class='imgAns thumbnail' alt='2-bromo-3-methylbutane ' src='https://lh3.googleusercontent.com/d/1q2kG1GBkdpUCfL61HLy9eXhHCV6arIos'>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "Question": {
+    "content": "What is the name given to the first step in a chain reaction?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Initiation step"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Chain reactions involve three stages:<br/>1. <b>Initiation</b>: Breaking bonds to form reactive species (e.g., free radicals)<br/>2. Propagation: Reactive species react with stable molecules<br/>3. Termination: Reactive species combine to form stable products<br/><br/>Example: In chlorine radical formation:<br/>\\[ Cl_2 \\xrightarrow{UV} 2Cl^• \\]"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "Question": {
+    "content": "Arrange n-butane, cyclobutene and methylpropane in an increasing order of boiling points",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "methylpropane < n-butane < cyclobutene"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Boiling points depend on:<br/>1. <b>Molecular shape</b>: Branched chains (methylpropane) have weaker London forces than straight chains (n-butane)<br/>2. <b>Polarity</b>: Cyclobutene's double bond creates slight polarity → higher bp<br/><br/>Boiling points:<br/>- methylpropane (isobutane): -11.7°C<br/>- n-butane: -0.5°C<br/>- cyclobutene: 2-4°C"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "Question": {
+    "content": "How many secondary hydrogens are there in 2,2-dimethylpropane?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Hydrogen classification:<br/>- <b>Primary (1°)</b>: Attached to carbon bonded to one other carbon<br/>- <b>Secondary (2°)</b>: Attached to carbon bonded to two carbons<br/><br/>2,2-dimethylpropane (neopentane) structure:<br/>&nbsp;&nbsp;&nbsp;&nbsp;CH₃<br/>&nbsp;&nbsp;&nbsp;&nbsp;|<br/>CH₃-C-CH₃<br/>&nbsp;&nbsp;&nbsp;&nbsp;|<br/>&nbsp;&nbsp;&nbsp;&nbsp;CH₃<br/>All hydrogens are <b>primary</b> (attached to terminal -CH₃ groups)."
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 35",
+  "Question": {
+    "content": "What is the method used to separate liquids that have close boiling points?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Fractional distillation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<b>Fractional distillation</b> separates liquids by:<br/>1. Using a fractionating column with many vaporization-condensation cycles<br/>2. More volatile component enriches in vapor phase<br/>3. Less volatile component remains in liquid phase<br/><br/>Effective for boiling point differences <25°C (e.g., petroleum refining)."
+  }
+}]
