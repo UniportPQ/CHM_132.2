@@ -1,0 +1,593 @@
+[{
+    "type": "pageInfo",
+    "kind": "SUBJECTIVE",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM 132.2",
+    "session": "2022/2023",
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "In what spectroscopic technique are the molecules of the compound bombarded by high energy electrons?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mass spectrometry (Electron Impact Mass Spectrometry)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In <b>mass spectrometry</b>, molecules are bombarded with high-energy electrons (typically 70 eV) which knock out electrons from the molecules, creating positively charged ions.<br/><br/>These ions are then separated based on their mass-to-charge ratio (m/z) and detected to give a mass spectrum."
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Mention the two reagents used for the nitration of benzene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Concentrated nitric acid (HNO<sub>3</sub>) and concentrated sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>The nitration of benzene requires:</p><ol><li><b>Nitric acid (HNO<sub>3</sub>)</b> as the source of nitro (-NO<sub>2</sub>) group</li><li><b>Sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)</b> as catalyst to generate the nitronium ion (NO<sub>2</sub><sup>+</sup>)</li></ol><p>Reaction: C<sub>6</sub>H<sub>6</sub> + HNO<sub>3</sub> → C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + H<sub>2</sub>O</p>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Mention two derivatives of carboxylic acid",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Esters and amides"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>Carboxylic acid (-COOH) derivatives include:</p><ul><li><b>Esters</b> (RCOOR') - Formed by reaction with alcohols</li><li><b>Amides</b> (RCONH<sub>2</sub>) - Formed by reaction with ammonia/amines</li></ul><p>Other derivatives: acid chlorides (COCl), anhydrides (CO-O-CO)</p>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Optical isomers that are mirror images of each other are called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enantiomers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:20px; align-items:center;'><div><p><b>Enantiomers</b> are:</p><ul><li>Non-superimposable mirror images</li><li>Have identical physical properties except for optical rotation</li><li>Rotate plane-polarized light equally but in opposite directions</li></ul></div><div style='border-left:1px solid #ccc; padding-left:15px;'><p>Example: L- and D-alanine</p><p style='text-align:center'>🔄 Mirror relationship</p></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Provide the correct name for 2-methylpropane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Isobutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<table style='border-collapse:collapse; width:100%;'><tr><th style='border:1px solid #ddd; padding:8px;'>Common Name</th><th style='border:1px solid #ddd; padding:8px;'>IUPAC Name</th><th style='border:1px solid #ddd; padding:8px;'>Structure</th></tr><tr><td style='border:1px solid #ddd; padding:8px;'>Isobutane</td><td style='border:1px solid #ddd; padding:8px;'>2-methylpropane</td><td style='border:1px solid #ddd; padding:8px;'>CH<sub>3</sub>-CH(CH<sub>3</sub>)-CH<sub>3</sub></td></tr></table>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "Provide the structure of the product formed when chloromethane reacts with benzene in the presence of AlCl<sub>3</sub>",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Toluene (C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f5f5f5; padding:15px; border-radius:5px;'><p>This is a <b>Friedel-Crafts alkylation</b> reaction:</p><ol><li>AlCl<sub>3</sub> polarizes C-Cl bond → CH<sub>3</sub><sup>+</sup> forms</li><li>CH<sub>3</sub><sup>+</sup> attacks benzene ring</li><li>Forms toluene + HCl</li></ol><p style='text-align:center; margin-top:10px;'>C<sub>6</sub>H<sub>6</sub> + CH<sub>3</sub>Cl → C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub> + HCl</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The bond length between carbon 1 and carbon 2 of but-2-ene is longer than that between carbon 3 and carbon 4. True or False?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p>But-2-ene structure: CH<sub>3</sub>-CH=CH-CH<sub>3</sub></p><ul><li>All C=C bonds are <b>identical</b> (1.34 Å)</li><li>C-C single bonds (1.54 Å) are longer than double bonds</li><li>This is a symmetrical molecule → both double bond carbons are equivalent</li></ul>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "The hydrohalogenation of propene will not follow Markovnikov's rule if carried out in the presence of ____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peroxides (e.g., H<sub>2</sub>O<sub>2</sub>)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; justify-content:space-between;'><div style='width:48%;'><p><b>Normal Markovnikov addition</b> (without peroxides):</p><p>CH<sub>3</sub>CH=CH<sub>2</sub> + HBr → CH<sub>3</sub>CH(Br)CH<sub>3</sub></p><p>H adds to less substituted carbon</p></div><div style='width:48%; background:#fff3cd; padding:10px; border-radius:5px;'><p><b>Anti-Markovnikov</b> (with peroxides):</p><p>CH<sub>3</sub>CH=CH<sub>2</sub> + HBr → CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br</p><p>Br adds to less substituted carbon</p></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "The name of the product of the reaction between 2-butyne and 2 molecules of hydrogen is?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p style='border-left:4px solid #4CAF50; padding-left:15px;'>Complete hydrogenation of alkynes:</p><p>CH<sub>3</sub>-C≡C-CH<sub>3</sub> + 2H<sub>2</sub> → CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></p><p>Requires:<br>1. Nickel/Palladium catalyst<br>2. Excess hydrogen gas</p>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "The process of determining the molar mass of a compound using boiling point measurements is known as ____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ebullioscopy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#e7f3fe; padding:15px; border-left:6px solid #2196F3;'><p><b>Ebullioscopy</b> measures:</p><ul><li>Boiling point elevation (ΔT<sub>b</sub>) when solute is added to solvent</li><li>Uses the formula: ΔT<sub>b</sub> = K<sub>b</sub> × m × i</li><li>Where K<sub>b</sub> = ebullioscopic constant, m = molality</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "The specific group of atoms or bonds responsible for the characteristics and chemical properties of an organic compound is known as _____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functional group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-top:10px;'><div style='background:#ffebee; padding:10px;'>-OH<br><b>Alcohol</b></div><div style='background:#e8f5e9; padding:10px;'>C=O<br><b>Carbonyl</b></div><div style='background:#e3f2fd; padding:10px;'>COOH<br><b>Carboxylic acid</b></div></div><p style='margin-top:15px;'>Functional groups determine reactivity patterns and physical properties</p>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Underline the compound(s) among the following that can exhibit geometrical isomerism: 1-butene, 2-butyne, 2-pentene, 2-methylpentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-pentene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #e0e0e0; padding:15px; border-radius:5px;'>\n  <p><b>Geometrical isomerism (cis/trans)</b> requires:</p>\n  <ul>\n    <li>A double bond (C=C) <span style='color:#4CAF50;'>✓ Present in 1-butene and 2-pentene</span></li>\n    <li>Different groups on each double bond carbon <span style='color:#4CAF50;'>✓ Only 2-pentene meets this</span></li>\n  </ul>\n  <div style='margin-top:15px; background:#f9f9f9; padding:10px;'>\n    <p><b>2-pentene examples:</b></p>\n    <p style='text-align:center'>\n      cis: CH<sub>3</sub>-CH=CH-CH<sub>2</sub>-CH<sub>3</sub> (same side)<br>\n      trans: CH<sub>3</sub>...CH<sub>3</sub> (opposite sides)\n    </p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "What is the empirical formula of 2-heptene?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C<sub>7</sub>H<sub>14</sub>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; align-items:center; gap:20px;'>\n  <div>\n    <p><b>Molecular formula</b> of 2-heptene:</p>\n    <p style='font-size:1.2em; text-align:center;'>C<sub>7</sub>H<sub>14</sub></p>\n  </div>\n  <div style='border-left:2px dashed #999; height:60px;'></div>\n  <div>\n    <p><b>Empirical formula</b> (simplest ratio):</p>\n    <p style='font-size:1.2em; text-align:center;'>C<sub>7</sub>H<sub>14</sub></p>\n    <p style='font-size:0.8em; color:#666;'>No further simplification possible</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "What is the IUPAC name for the following compound: HCON(CH<sub>3</sub>)<sub>2</sub>?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "N,N-dimethylmethanamide"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#fff8e1; padding:15px; border-left:4px solid #FFA000;'>\n  <p><b>Naming amides:</b></p>\n  <ol>\n    <li>Identify the <span style='color:#D32F2F;'>carbonyl (C=O)</span> as the main functional group</li>\n    <li>Two methyl groups attached to nitrogen → <span style='color:#D32F2F;'>N,N-dimethyl</span></li>\n    <li>Parent chain: 1 carbon → <span style='color:#D32F2F;'>methan</span></li>\n    <li>Suffix: <span style='color:#D32F2F;'>-amide</span></li>\n  </ol>\n  <p style='margin-top:10px; text-align:center;'>\n    <b>Structure:</b> O=CH-N(CH<sub>3</sub>)<sub>2</sub>\n  </p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "What is the structure of the product(s) of the reaction between hot concentrated potassium tetraoxomanganate (VII) with 2-butene?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2 molecules of acetic acid (CH<sub>3</sub>COOH)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #ddd; padding:15px; border-radius:5px; background:#f5f5f5;'>\n  <p><b>Oxidative cleavage</b> with hot KMnO<sub>4</sub>:</p>\n  <div style='text-align:center; margin:15px 0;'>\n    CH<sub>3</sub>-CH=CH-CH<sub>3</sub> + [O] → 2 CH<sub>3</sub>-COOH\n  </div>\n  <ul>\n    <li>Breaks C=C and forms carboxyl groups at cleavage sites</li>\n    <li>Symmetric alkene → identical products</li>\n    <li>Other name for KMnO<sub>4</sub>: Potassium permanganate</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "What kind of chemical species result from the symmetrical cleavage of covalent bonds?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Free radicals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px;'>\n  <div style='flex:1; background:#e8f5e9; padding:15px; border-radius:5px;'>\n    <p><b>Symmetrical cleavage</b> (Homolytic):</p>\n    <p style='text-align:center;'>A:B → A• + B•</p>\n    <p>Produces <span style='color:#D32F2F;'>free radicals</span> with unpaired electrons</p>\n  </div>\n  <div style='flex:1; background:#ffebee; padding:15px; border-radius:5px;'>\n    <p><b>Asymmetrical cleavage</b> (Heterolytic):</p>\n    <p style='text-align:center;'>A:B → A<sup>+</sup> + B<sup>-</sup></p>\n    <p>Produces ions</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "What property is required in determining the purity of solids?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Melting point"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f3e5f5; padding:15px; border-radius:5px;'>\n  <p><b>Melting point analysis</b> reveals purity because:</p>\n  <ul>\n    <li>Pure compounds have <span style='color:#7B1FA2;'>sharp melting ranges</span> (≤2°C)</li>\n    <li>Impurities <span style='color:#7B1FA2;'>lower and broaden</span> the melting range</li>\n  </ul>\n  <div style='margin-top:10px; padding:10px; background:white;'>\n    <p style='text-align:center;'>\n      <b>Example:</b> Pure benzoic acid melts at 122°C<br>\n      Impure sample melts at 115-120°C\n    </p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Which of methane, chloromethane, ethane, methanol and aminoethane would have the highest dipole moments?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Methanol (CH<sub>3</sub>OH)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #ddd; padding:15px;'>\n  <p><b>Dipole moment comparison</b>:</p>\n  <table style='width:100%; border-collapse:collapse; margin-top:10px;'>\n    <tr style='background:#f5f5f5;'>\n      <th style='padding:8px; border:1px solid #ddd;'>Compound</th>\n      <th style='padding:8px; border:1px solid #ddd;'>Dipole Moment (D)</th>\n      <th style='padding:8px; border:1px solid #ddd;'>Reason</th>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #ddd;'>CH<sub>4</sub></td>\n      <td style='padding:8px; border:1px solid #ddd;'>0</td>\n      <td style='padding:8px; border:1px solid #ddd;'>Symmetrical</td>\n    </tr>\n    <tr style='background:#f9f9f9;'>\n      <td style='padding:8px; border:1px solid #ddd;'>CH<sub>3</sub>Cl</td>\n      <td style='padding:8px; border:1px solid #ddd;'>1.87</td>\n      <td style='padding:8px; border:1px solid #ddd;'>C-Cl polarity</td>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #ddd;'>CH<sub>3</sub>OH</td>\n      <td style='padding:8px; border:1px solid #ddd;'><b>1.70</b></td>\n      <td style='padding:8px; border:1px solid #ddd;'><b>C-O and O-H polarity</b></td>\n    </tr>\n  </table>\n  <p style='margin-top:10px;'>Methanol wins due to combined effect of two polar bonds (C-O and O-H)</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "What is another name for the Lassaigne method for determining the presence of Sulphur, nitrogen and halogen in organic compounds?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sodium fusion test"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#e8f5e9; padding:15px; border-radius:5px;'>\n  <p>The <b>Lassaigne's test</b> involves:</p>\n  <ol>\n    <li>Fusing organic compound with sodium metal</li>\n    <li>Converting elements to water-soluble ions:\n      <ul>\n        <li>Nitrogen → NaCN</li>\n        <li>Sulfur → Na<sub>2</sub>S</li>\n        <li>Halogens → NaX</li>\n      </ul>\n    </li>\n  </ol>\n  <p style='margin-top:10px;'>This is a <span style='color:#2E7D32;'>qualitative test</span> for elements in organic compounds</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "The actual number of each kind of atom in a molecule of an organic compound is?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Molecular formula"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px; align-items:center;'>\n  <div style='flex:1;'>\n    <p><b>Formula types</b>:</p>\n    <ul>\n      <li>Molecular: Actual atom count (e.g., C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)</li>\n      <li>Empirical: Simplest ratio (e.g., CH<sub>2</sub>O)</li>\n    </ul>\n  </div>\n  <div style='flex:1; background:#f5f5f5; padding:10px; border-radius:5px;'>\n    <p><b>Example</b>: Glucose</p>\n    <p>Molecular: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub><br>\n    Empirical: CH<sub>2</sub>O</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "All organic compounds are carbon containing and all carbon containing compounds are organic compounds. True or False?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border-left:4px solid #D32F2F; padding-left:15px;'>\n  <p><b>Exceptions</b> to organic compounds:</p>\n  <ul>\n    <li>Carbonates (e.g., CaCO<sub>3</sub>)</li>\n    <li>Cyanides (e.g., NaCN)</li>\n    <li>Allotropes of carbon (graphite, diamond)</li>\n    <li>Oxides (CO<sub>2</sub>, CO)</li>\n  </ul>\n  <p style='margin-top:10px;'>These contain carbon but are considered <span style='color:#D32F2F;'>inorganic</span></p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Arrange the following compounds in increasing order of boiling point: butane, 2-methyl propane, cyclobutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-methyl propane < butane < cyclobutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#e3f2fd; padding:15px; border-radius:5px;'>\n  <p><b>Boiling point factors</b>:</p>\n  <table style='width:100%; border-collapse:collapse; margin-top:10px;'>\n    <tr style='background:#bbdefb;'>\n      <th style='padding:8px; border:1px solid #90caf9;'>Compound</th>\n      <th style='padding:8px; border:1px solid #90caf9;'>BP (°C)</th>\n      <th style='padding:8px; border:1px solid #90caf9;'>Reason</th>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #90caf9;'>2-methyl propane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>-11.7</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Branched → weak London forces</td>\n    </tr>\n    <tr style='background:#e3f2fd;'>\n      <td style='padding:8px; border:1px solid #90caf9;'>butane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>-0.5</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Linear → stronger London forces</td>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #90caf9;'>cyclobutane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>12.5</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Ring strain → more rigid structure</td>\n    </tr>\n  </table>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Arrange the following functional groups in decreasing order of priority: ketone, alcohol, thiol, aldehyde",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "aldehyde > ketone > alcohol > thiol"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #dce775; padding:15px; background:#f9fbe7; border-radius:5px;'>\n  <p><b>IUPAC priority rules</b> (higher oxidation state = higher priority):</p>\n  <ol>\n    <li><span style='color:#827717;'>Aldehyde</span> (-CHO) - Highest oxidation</li>\n    <li><span style='color:#827717;'>Ketone</span> (-CO-) </li>\n    <li><span style='color:#827717;'>Alcohol</span> (-OH)</li>\n    <li><span style='color:#827717;'>Thiol</span> (-SH) - Lowest priority</li>\n  </ol>\n  <p style='margin-top:10px;'>Mnemonic: <b>A King Orders Special Tea</b></p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Calculate the index of hydrogen deficiency of \\( C_{11}H_{15}NO \\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f3e5f5; padding:15px; border-radius:5px;'>\n  <p><b>IHD formula</b> for C<sub>c</sub>H<sub>h</sub>N<sub>n</sub>X<sub>x</sub>:</p>\n  <p style='text-align:center; font-size:1.1em;'>\n    \\[ IHD = \\frac{(2c + 2 - h + n)}{2} \\]\n  </p>\n  <p>For C<sub>11</sub>H<sub>15</sub>NO:</p>\n  <p style='text-align:center;'>\n    \\[ \\frac{(2×11 + 2 - 15 + 1)}{2} = \\frac{10}{2} = 5 \\]\n  </p>\n  <p>Then add 1 for the N=O bond → <b>Total IHD = 6</b></p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "Circle the specie or species that is/are nucleophiles: \\( BF_3 \\), \\( AlCl_3 \\), \\( Br_2 \\), \\( NH_3 \\) and \\( CH_3^+ \\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "NH<sub>3</sub>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:grid; grid-template-columns:repeat(2,1fr); gap:10px;'>\n  <div style='background:#ffebee; padding:10px; border-radius:5px;'>\n    <p><b>Nucleophiles</b> (electron donors):</p>\n    <p>NH<sub>3</sub> - Lone pair on N</p>\n  </div>\n  <div style='background:#e8eaf6; padding:10px; border-radius:5px;'>\n    <p><b>Electrophiles</b> (electron acceptors):</p>\n    <p>BF<sub>3</sub>, AlCl<sub>3</sub>, Br<sub>2</sub>, CH<sub>3</sub><sup>+</sup></p>\n  </div>\n</div>\n<p style='margin-top:10px;'>NH<sub>3</sub> is the only Lewis base in the list</p>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Draw the structure of 3-ethyl-2-methylhex-1-ene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CH<sub>2</sub>=C(CH<sub>3</sub>)-CH(C<sub>2</sub>H<sub>5</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#fff3e0; padding:15px; border-radius:5px;'>\n  <p><b>Structure breakdown</b>:</p>\n  <ol>\n    <li><b>Hex-1-ene</b>: 6-carbon chain with C=C at position 1</li>\n    <li><b>2-methyl</b>: CH<sub>3</sub> on carbon 2</li>\n    <li><b>3-ethyl</b>: C<sub>2</sub>H<sub>5</sub> on carbon 3</li>\n  </ol>\n  <p style='text-align:center; margin-top:15px; font-family:monospace;'>\n    CH<sub>2</sub>=C-CH-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub><br>\n    &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|<br>\n    &nbsp;&nbsp;CH<sub>3</sub> C<sub>2</sub>H<sub>5</sub>\n  </p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Draw the structure of bicyclo[3.1.0]heptane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A fused three-ring system with 5 carbons in the main bridge and a cyclopropane ring"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#e8f5e9; padding:15px; border-radius:5px;'>\n  <p><b>Bicyclo[n.m.p] naming</b>:</p>\n  <ul>\n    <li><b>[3.1.0]</b> indicates:\n      <ul>\n        <li>3 carbons between bridgeheads on longest path</li>\n        <li>1 carbon on middle bridge</li>\n        <li>0 carbons on shortest bridge (direct bond)</li>\n      </ul>\n    </li>\n  </ul>\n  <div style='text-align:center; margin:15px 0; font-family:monospace;'>\n    <p>Structure:</p>\n    <p>\n      &nbsp;&nbsp;CH₂-CH₂<br>\n      &nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\<br>\n    CH₂&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH-CH₂<br>\n    &nbsp;\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/<br>\n      &nbsp;&nbsp;CH₂\n    </p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "Draw the structure of the functional group isomer of ethanol",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dimethyl ether (CH<sub>3</sub>-O-CH<sub>3</sub>)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:20px; align-items:center;'>\n  <div style='flex:1;'>\n    <p><b>Functional group isomers</b> have:</p>\n    <ul>\n      <li>Same molecular formula (C<sub>2</sub>H<sub>6</sub>O)</li>\n      <li>Different functional groups</li>\n    </ul>\n  </div>\n  <div style='flex:1; background:#f5f5f5; padding:10px; border-radius:5px;'>\n    <p><b>Ethanol</b>: CH<sub>3</sub>-CH<sub>2</sub>-OH (alcohol)</p>\n    <p><b>Isomer</b>: CH<sub>3</sub>-O-CH<sub>3</sub> (ether)</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Give the structure of 1,3-butadiyne",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HC≡C-C≡CH"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#e3f2fd; padding:15px; border-radius:5px;'>\n  <p><b>Nomenclature breakdown</b>:</p>\n  <ul>\n    <li><b>Buta-</b>: 4-carbon chain</li>\n    <li><b>di-</b>: Two triple bonds</li>\n    <li><b>-yne</b>: Triple bond functional group</li>\n    <li><b>1,3-</b>: Positions of triple bonds</li>\n  </ul>\n  <div style='text-align:center; margin-top:15px; font-size:1.2em;'>\n    <p>Structure:</p>\n    <p>HC≡C-C≡CH</p>\n    <p style='font-size:0.9em; color:#666;'>Linear molecule with sp hybridization</p>\n  </div>\n</div>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "Give the structure of propanoic pentanoic anhydride",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CH<sub>3</sub>CH<sub>2</sub>CO-O-CO(CH<sub>2</sub>)<sub>3</sub>CH<sub>3</sub>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#fff3e0; padding:15px; border-radius:5px;'>\n  <p><b>Mixed anhydride formation</b>:</p>\n  <ol>\n    <li>Propanoic acid: CH<sub>3</sub>CH<sub>2</sub>COOH</li>\n    <li>Pentanoic acid: CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>COOH</li>\n    <li>Anhydride linkage: -CO-O-CO-</li>\n  </ol>\n  <div style='text-align:center; margin-top:15px; font-family:monospace;'>\n    <p>Structure:</p>\n    <p>\n      CH<sub>3</sub>-CH<sub>2</sub>-C=O<br>\n      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>\n      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O<br>\n      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>\n      CH<sub>3</sub>-(CH<sub>2</sub>)<sub>3</sub>-C=O\n    </p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "Give the structure of the product of dehydrohalogenation of 2-bromopropane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Propene (CH<sub>3</sub>-CH=CH<sub>2</sub>)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border-left:4px solid #7CB342; padding-left:15px; background:#f1f8e9;'>\n  <p><b>Elimination reaction</b> (Zaitsev's rule):</p>\n  <p style='text-align:center;'>\n    CH<sub>3</sub>-CH(Br)-CH<sub>3</sub> + KOH<sub>(alc)</sub> → CH<sub>3</sub>-CH=CH<sub>2</sub> + KBr + H<sub>2</sub>O\n  </p>\n  <ul>\n    <li>Removal of H and Br from adjacent carbons</li>\n    <li>Forms the more substituted alkene (propene)</li>\n    <li>Requires alcoholic KOH and heat</li>\n  </ul>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "If a component on a TLC plate travelled 2.5cm and the solvent travelled 3.9cm, calculate the R<sub>f</sub> value",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.64"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px; align-items:center; background:#e3f2fd; padding:15px; border-radius:5px;'>\n  <div style='flex:1;'>\n    <p><b>Retardation factor formula</b>:</p>\n    <p style='text-align:center; font-size:1.2em;'>\n      R<sub>f</sub> = Distance traveled by spot / Distance traveled by solvent\n    </p>\n  </div>\n  <div style='flex:1; background:white; padding:10px; border-radius:5px;'>\n    <p><b>Calculation</b>:</p>\n    <p style='text-align:center;'>\n      2.5 cm ÷ 3.9 cm = 0.641<br>\n      <span style='color:#1976D2;'>Rounded to 2 decimal places: 0.64</span>\n    </p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "In terms of hybridization, what is the percentage of p-character in carbon number one of hex-1-ene?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "66.67%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f3e5f5; padding:15px; border-radius:5px;'>\n  <p><b>Hybridization analysis</b>:</p>\n  <ul>\n    <li>Carbon 1 in hex-1-ene (CH<sub>2</sub>=CH-) is <b>sp<sup>2</sup> hybridized</b></li>\n    <li>sp<sup>2</sup> = 1 part s + 2 parts p</li>\n    <li>p-character % = (2/3) × 100 = 66.67%</li>\n  </ul>\n  <div style='margin-top:10px; padding:10px; background:white;'>\n    <p style='text-align:center;'>\n      sp<sup>2</sup> = 33% s-character + 67% p-character\n    </p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "In what spectroscopic technique are the molecules of the compound bombarded by high energy electrons?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mass spectrometry (Electron Impact MS)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #d1c4e9; padding:15px; border-radius:5px;'>\n  <p><b>Mass spectrometry process</b>:</p>\n  <ol>\n    <li>70eV electrons bombard sample</li>\n    <li>Molecules lose electrons → form M<sup>+•</sup> ions</li>\n    <li>Ions are separated by mass-to-charge ratio (m/z)</li>\n  </ol>\n  <div style='margin-top:10px; padding:10px; background:#ede7f6;'>\n    <p>Produces a <b>mass spectrum</b> showing molecular ion peak and fragment peaks</p>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Mention any two spectroscopic methods of identification you have studied",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Infrared Spectroscopy (IR) and Nuclear Magnetic Resonance (NMR)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:grid; grid-template-columns:repeat(2,1fr); gap:10px;'>\n  <div style='background:#e8f5e9; padding:10px; border-radius:5px;'>\n    <p><b>IR Spectroscopy</b>:</p>\n    <ul>\n      <li>Measures bond vibrations</li>\n      <li>Identifies functional groups</li>\n      <li>Range: 4000-400 cm<sup>-1</sup></li>\n    </ul>\n  </div>\n  <div style='background:#e1f5fe; padding:10px; border-radius:5px;'>\n    <p><b>NMR Spectroscopy</b>:</p>\n    <ul>\n      <li>Measures nuclear spin transitions</li>\n      <li>Reveals carbon/hydrogen framework</li>\n      <li>¹H NMR and ¹³C NMR variants</li>\n    </ul>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Draw the structures of the main products ozonolysis of 2-methyl-2-butene and subsequent treatment with Zn/H⁺",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acetone (CH<sub>3</sub>COCH<sub>3</sub>) and acetaldehyde (CH<sub>3</sub>CHO)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#ffebee; padding:15px; border-radius:5px;'>\n  <p><b>Ozonolysis mechanism</b>:</p>\n  <ol>\n    <li>O<sub>3</sub> adds to C=C forming ozonide</li>\n    <li>Zn/H<sup>+</sup> cleaves ozonide to carbonyls</li>\n  </ol>\n  <div style='text-align:center; margin:15px 0; font-family:monospace;'>\n    <p>(CH<sub>3</sub>)<sub>2</sub>C=CHCH<sub>3</sub> → (CH<sub>3</sub>)<sub>2</sub>C=O + CH<sub>3</sub>CHO</p>\n    <p>2-methyl-2-butene → acetone + acetaldehyde</p>\n  </div>\n  <p style='color:#c62828;'>Note: The double bond is completely cleaved</p>\n</div>"
+    }
+  }
+  ]
+  
