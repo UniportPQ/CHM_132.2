@@ -1,0 +1,600 @@
+[
+    {
+    "type": "pageInfo",
+    "kind": "SUBJECTIVE",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM 132.2",
+    "session": "2023/2024",
+    "time": "90"
+  },
+  {
+    "prop": "<img class='explainImg thumbnail' alt='' src='https://lh3.googleusercontent.com/d/1dCgz8BKtks0ym1KBSIGQMX_kdtb_Wtai'>",
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  {
+    "type": "img",
+    "alt": "Name",
+    "content": "https://lh3.googleusercontent.com/d/"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "If a component on a TLC plate travelled 3.2cm and the solvent travelled 4.0cm. Calculate the \\( R_f \\) value",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.8"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The retardation factor \\(R_f)\\ is calculated as: \\[ R_f = \\frac{\\text{Distance traveled by compound}}{\\text{Distance traveled by solvent}} = \\frac{3.2}{4.0} = 0.8 \\]"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "Which of the following is not an electrophile: \\( BF_3 \\), \\( AlCl_3 \\), \\( CH_3^+ \\), \\( NH_3 \\) and \\( NO_2^+ \\)?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(NH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Electrophiles are electron-deficient species that accept electrons. \\(NH_3\\) is a nucleophile (electron donor) due to its lone pair, while all others (\\(BF_3\\), \\(AlCl_3\\) - Lewis acids; \\(CH_3^+\\), \\(NO_2^+\\) - carbocation and nitronium ion) are electrophiles."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Draw the structure of the alkene that will yield propanone and propanal on ozonolysis followed by treatment with zinc in acidic medium",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CH_3-CH=CH-CH_2-CH_3 (3-pentene)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Ozonolysis cleaves double bonds to form carbonyl compounds. The products propanone \\(CH_3-CO-CH_3)\\ and propanal \\(CH_3-CH_2-CHO)\\ suggest the original alkene was 3-pentene: \\[ CH_3-CH=CH-CH_2-CH_3 + O_3 \\rightarrow CH_3-CO-CH_3 + CH_3-CH_2-CHO \\]"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Which spectroscopy gives information on the type of functional groups present in an organic compound?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Infrared (IR) spectroscopy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "IR spectroscopy measures the absorption of infrared light by molecular vibrations, with each functional group having characteristic absorption frequencies.<div> <br> <b>    Example :</b> <br>O-H stretch at \\(3200-3600 cm^{-1}\\), <br>C=O at \\(1700 cm^{-1}\\)</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "What is the shape of the methanol molecule?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tetrahedral at carbon, bent at oxygen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Methanol \\(CH_3OH\\) has</b>:<br> <div>(1) \\(sp^3\\) hybridized carbon with tetrahedral geometry (109.5°), and <br>(2) \\(sp^3\\) hybridized oxygen with bent geometry (104.5°) due to two lone pairs.</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "Classify the type of reaction between 2-butene and hydrogen bromide.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electrophilic addition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This is an electrophilic addition reaction following Markovnikov's rule: \\[ CH_3-CH=CH-CH_3 + HBr \\rightarrow CH_3-CH_2-CH(Br)-CH_3 \\] The π electrons of the alkene attack the electrophilic \\(H^+\\) from HBr."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Which of the following is/are acyclic compound (underline)? Butane, cyclobutene, 2-methylbutane , methylcyclobutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane, 2-methylbutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acyclic compounds have open-chain structures without rings.\\(  \\text{Butane} (CH_3-CH_2-CH_2-CH_3)\\) and 2-methylbutane (branched chain) are acyclic, while cyclobutene and methylcyclobutane contain ring structures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "What is the product of dehydrohalogenation of 2-chlorobutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-butene (major) and 1-butene (minor)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Base-induced elimination (e.g., KOH/ethanol) follows Zaitsev's rule: \\[ CH_3-CH_2-CH(Cl)-CH_3 \\rightarrow CH_3-CH=CH-CH_3 (major) + CH_2=CH-CH_2-CH_3 (minor) \\] The more substituted alkene (2-butene) is the major product."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "A bond which cleaves in an electronically unsymmetrical pattern produces fragments called...",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ions (cation and anion)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Heterolytic cleavage produces charged fragments: \\[ A-B \\rightarrow A^+ + B^- \\] This occurs in polar bonds where one atom retains both bonding electrons."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "What is the nitrating agent in the nitration of benzene?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nitronium ion \\(NO_2^+\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The electrophile \\(NO_2^+\\) is generated from \\( \\frac{HNO_3}{H_2SO_4}\\): \\[ HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^- \\] It attacks benzene's π electrons in electrophilic aromatic substitution."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "The specific group of atoms or bonds within a compound responsible for its characteristic chemical properties is known as ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functional group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Functional groups (e.g., -OH, -COOH, C=O) determine reactivity patterns. For example, all alcohols (-OH) undergo similar reactions (oxidation, esterification) regardless of the rest of the molecule."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "The specific group of atoms or bonds within a compound responsible for its characteristic chemical properties is known as ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functional group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f5f5f5; padding:15px; border-radius:5px;'><p><b>Functional groups</b> are molecular subunits that determine reactivity:</p><ul><li>Hydroxyl (-OH) → Alcohol properties</li><li>Carbonyl (C=O) → Aldehyde/ketone reactions</li><li>Carboxyl (-COOH) → Acid behavior</li></ul><p>Example: All alcohols undergo similar oxidation reactions regardless of molecular size.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "What type of gas is used as the mobile phase in gas-liquid chromatography?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inert gas (usually nitrogen or helium)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border-left:4px solid #2196F3; padding-left:15px; background:#E3F2FD;'><p><b>Gas Chromatography Requirements</b>:</p><ul><li>Mobile phase must be chemically inert</li><li>Common choices: <span style='color:#0D47A1;'>He</span> (best resolution), <span style='color:#0D47A1;'>N<sub>2</sub></span> (cost-effective), or <span style='color:#0D47A1;'>H<sub>2</sub></span> (fast analysis)</li><li>Flows through column at controlled rates (1-5 mL/min)</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "Which of the following is not a carboxylic acid derivative (underline)? Propanoic acid, propanoyl bromide, propyl ethanoate, propyl amide",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Propanoic acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFEBEE; padding:15px; border-radius:5px;'><p><b>Carboxylic Acid Derivatives</b> are compounds where the -OH group is replaced:</p><table style='width:100%; border-collapse:collapse; margin-top:10px;'><tr><th style='border:1px solid #ddd; padding:8px;'>Compound</th><th style='border:1px solid #ddd; padding:8px;'>Type</th></tr><tr><td style='border:1px solid #ddd; padding:8px;'>Propanoyl bromide</td><td style='border:1px solid #ddd; padding:8px;'>Acid halide (-COBr)</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>Propyl ethanoate</td><td style='border:1px solid #ddd; padding:8px;'>Ester (-COOR)</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>Propyl amide</td><td style='border:1px solid #ddd; padding:8px;'>Amide (-CONH<sub>2</sub>)</td></tr><tr style='background:#EF9A9A;'><td style='border:1px solid #ddd; padding:8px;'>Propanoic acid</td><td style='border:1px solid #ddd; padding:8px;'><b>Parent acid (-COOH), not a derivative</b></td></tr></table></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "Arrange butane, methylpropane and cyclobutene in order of increasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "methylpropane < butane < cyclobutene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFF8E1; padding:15px; border-radius:5px;'><p><b>Boiling Point Trends</b>:</p><ol><li><span style='color:#FF8F00;'>Methylpropane (isobutane)</span>: -11.7°C<br>• Branched → weak London dispersion forces</li><li><span style='color:#FF8F00;'>Butane</span>: -0.5°C<br>• Linear → stronger intermolecular forces</li><li><span style='color:#FF8F00;'>Cyclobutene</span>: 2-4°C<br>• Ring strain + slight polarity from C=C</li></ol><p>Key factor: Surface area of contact between molecules</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "In propyne, the bond angle between carbon number 3 and the attached hydrogen atom is ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "180°"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px; align-items:center; background:#E8F5E9; padding:15px; border-radius:5px;'><div style='flex:1;'><p><b>Propyne Structure</b>:<br>CH≡C-CH<sub>3</sub></p><ul><li>Carbon 3 (terminal CH<sub>3</sub>) is sp<sup>3</sup> hybridized</li><li>But the H-C≡C bond angle is 180° due to sp hybridization at C1</li></ul></div><div style='flex:1; text-align:center; font-family:monospace;'>H-C≡C-CH<sub>3</sub><br>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;180°</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Draw the structure of 2-ethyl-1, 4-pentadiene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_2=C(CH_2CH_3)-CH=CH-CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#F3E5F5; padding:15px; border-radius:5px;'><p><b>Structure Breakdown</b>:</p><ol><li>Parent chain: pentadiene (5 carbons with double bonds at 1 & 4)</li><li>Ethyl group at position 2</li></ol><div style='text-align:center; margin-top:15px; font-family:monospace;'>CH<sub>2</sub>=C-CH=CH-CH<sub>3</sub><br>&nbsp;&nbsp;&nbsp;&nbsp;|<br>&nbsp;&nbsp;C<sub>2</sub>H<sub>5</sub></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Draw the structure of bicyclo [3.2.1] octane",
+      "type": "subjective"
+    },
+    "Answer": {
+
+    "type": "img",
+    "alt": "bicyclo [3.2.1] octane",
+    "content": "https://lh3.googleusercontent.com/d/1sBuo90TmAFrLF3l7qmPtqgf30B1Clu-W"
+
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #D1C4E9; padding:15px; border-radius:5px;'><p><b>Bicyclo[n.m.p] Nomenclature</b>:</p><ul><li>[3.2.1] indicates:<br>• 3 carbons on longest bridge<br>• 2 carbons on middle bridge<br>• 1 carbon on shortest bridge</li></ul><div style='text-align:center; margin:15px 0; font-family:monospace;'>&nbsp;&nbsp;CH<sub>2</sub>-CH<sub>2</sub><br>&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\<br>CH<sub>2</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH-CH<sub>2</sub><br>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>CH<sub>2</sub>-CH-CH<sub>2</sub></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Which of the following is an example of a heterocyclic compound (underline)? Ethyl benzene, Cyclepentanol, Furan, Benzene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Furan"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#E0F7FA; padding:15px; border-radius:5px;'><p><b>Heterocyclic Compounds</b> contain:</p><ul><li>Ring structures with at least one non-carbon atom (O, N, S)</li><li><span style='color:#00838F;'>Furan</span> (C<sub>4</sub>H<sub>4</sub>O) has oxygen in a 5-membered ring</li><li>Others are purely carbocyclic (only C atoms in rings)</li></ul><div style='text-align:center; margin-top:10px;'>Furan structure:<br>O<br>/&nbsp;&nbsp;&nbsp;\\<brC=C<br>\\&nbsp;&nbsp;&nbsp;/<br>C-C</div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "In organic compounds the Carius method is used to quantitatively estimate the amount of ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Halogens (Cl, Br, I), Sulfur, or Phosphorus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFF3E0; padding:15px; border-radius:5px;'><p>The <b>Carius method</b> involves:</p><ol><li>Heating compound with fuming HNO<sub>3</sub> in sealed tube</li><li>Converts elements to:<ul><li>Halogens → AgX (weighable precipitate)</li><li>Sulfur → BaSO<sub>4</sub></li><li>Phosphorus → Mg<sub>2</sub>P<sub>2</sub>O<sub>7</sub></li></ul></li></ol><p>Used for <span style='color:#E65100;'>quantitative elemental analysis</span> in organic compounds.</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Give the structure of the product of reaction between 1-butyne and 2 molecules of hydrogen ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane \\(CH_3-CH_2-CH_2-CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border-left:4px solid #388E3C; padding-left:15px; background:#E8F5E9;'><p><b>Complete hydrogenation</b> of alkynes:</p><p style='text-align:center;'>CH≡C-CH<sub>2</sub>-CH<sub>3</sub> + 2H<sub>2</sub> → CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></p><ul><li>Requires Ni/Pd/Pt catalyst</li><li>First forms 1-butene (CH<sub>2</sub>=CH-CH<sub>2</sub>-CH<sub>3</sub>)</li><li>Then fully saturates to butane</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Mention two types of centrifugation methods",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differential centrifugation and Density gradient centrifugation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:grid; grid-template-columns:1fr 1fr; gap:10px;'><div style='background:#E1F5FE; padding:10px; border-radius:5px;'><p><b>Differential</b>:</p><ul><li>Separates by particle size/mass</li><li>Increasing speeds pellet different components</li><li>Used for organelle separation</li></ul></div><div style='background:#E8F5E9; padding:10px; border-radius:5px;'><p><b>Density Gradient</b>:</p><ul><li>Uses medium (e.g., sucrose gradient)</li><li>Particles migrate to equilibrium density</li><li>Higher resolution separation</li></ul></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "Hydrogenation of alkenes under suitable conditions produces ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alkanes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#F3E5F5; padding:15px; border-radius:5px;'><p><b>Catalytic hydrogenation</b>:</p><p style='text-align:center;'>R-CH=CH-R' + H<sub>2</sub> → R-CH<sub>2</sub>-CH<sub>2</sub>-R'</p><ul><li>Catalysts: Ni, Pd, Pt at 25-150°C</li><li>Syn addition of H<sub>2</sub> across double bond</li><li>Industrial application: Vegetable oil hardening</li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Draw and name any geometric isomer of a compound with the molecular formula \\( \\text{C}_4\\text{H}_8 \\):",
+      "type": "subjective"
+    },
+    "Answer": {
+    "type": "img",
+"alt": "cis-2-butene or trans-2-butene",
+    "content": "https://lh3.googleusercontent.com/d/1re1Q1x1r19Vb4kJFAvI_NzAL4asEyytc"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px;'><div style='flex:1; background:#FFF8E1; padding:10px; border-radius:5px;'><p><b>cis-2-butene</b>:</p><p style='text-align:center; font-family:monospace;'>CH<sub>3</sub><br>\\<br>C=C<br>/<br>H&nbsp;&nbsp;CH<sub>3</sub></p><p>BP: 3.7°C</p></div><div style='flex:1; background:#FFF8E1; padding:10px; border-radius:5px;'><p><b>trans-2-butene</b>:</p><p style='text-align:center; font-family:monospace;'>H<br>\\<br>C=C<br>/<br>CH<sub>3</sub>&nbsp;H</p><p>BP: 0.9°C</p></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "How many 2°hydrogen atoms are found in 2,2-dimethylpropane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#EFEBE9; padding:15px; border-radius:5px;'><p><b>Structure analysis</b> of (CH<sub>3</sub>)<sub>4</sub>C:</p><ul><li>All hydrogens are <span style='color:#D32F2F;'>primary (1°)</span> attached to -CH<sub>3</sub></li><li>No CH<sub>2</sub> groups present → no 2° hydrogens</li></ul><p style='text-align:center; font-family:monospace;'>&nbsp;&nbsp;CH<sub>3</sub><br>&nbsp;&nbsp;|<br>CH<sub>3</sub>-C-CH<sub>3</sub><br>&nbsp;&nbsp;|<br>&nbsp;&nbsp;CH<sub>3</sub></p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Calculate the index of hydrogen deficiency of \\( \\text{C}_7\\text{H}_6\\text{FNO}_2 \\):",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#E8EAF6; padding:15px; border-radius:5px;'><p><b>IHD Formula</b>:</p><p style='text-align:center;'>\\[ \\frac{(2C + 2 - H - X + N)}{2} \\]</p><p>For C<sub>7</sub>H<sub>6</sub>FNO<sub>2</sub>:</p><p style='text-align:center;'>\\[ \\frac{(14 + 2 - 6 - 1 + 1)}{2} = \\frac{10}{2} = 5 \\]</p><p>+1 for N=O bond → <span style='color:#303F9F;'>Total IHD = 6</span> (likely aromatic ring + other unsaturation)</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Arrange the following in an order of increasing bond energies; \\( \\text{CH}_3=\\text{O} \\), \\( \\text{CH}_2=\\text{CH}_2 \\), \\( \\text{CH}_3-\\text{CH}_3 \\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_3-CH_3 < CH_2=CH_2 < CH_3=O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FCE4EC; padding:15px; border-radius:5px;'><p><b>Bond Energy Comparison</b> (kJ/mol):</p><table style='width:100%; border-collapse:collapse;'><tr><th style='border:1px solid #F8BBD0; padding:8px;'>Bond</th><th style='border:1px solid #F8BBD0; padding:8px;'>Type</th><th style='border:1px solid #F8BBD0; padding:8px;'>Energy</th></tr><tr><td style='border:1px solid #F8BBD0; padding:8px;'>C-C</td><td style='border:1px solid #F8BBD0; padding:8px;'>σ</td><td style='border:1px solid #F8BBD0; padding:8px;'>~348</td></tr><tr><td style='border:1px solid #F8BBD0; padding:8px;'>C=C</td><td style='border:1px solid #F8BBD0; padding:8px;'>π</td><td style='border:1px solid #F8BBD0; padding:8px;'>~614</td></tr><tr><td style='border:1px solid #F8BBD0; padding:8px;'>C=O</td><td style='border:1px solid #F8BBD0; padding:8px;'>π</td><td style='border:1px solid #F8BBD0; padding:8px;'>~745</td></tr></table></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "An atom or group of atoms with odd number of electrons is called ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Free radical"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#E0F2F1; padding:15px; border-radius:5px;'><p><b>Free radicals</b>:</p><ul><li>Contain unpaired electrons (e.g., CH<sub>3</sub>•)</li><li>Highly reactive intermediates</li><li>Formed by:<ul><li>Homolytic bond cleavage</li><li>Radical initiation (UV light, peroxides)</li></ul></li></ul><p style='color:#00897B;'>Example: Cl• in chlorination reactions</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "From the following items, underline the one(s) that is/are not likely to contain organic compound nail, cellphone, pencil, paracetamol",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "nail, pencil"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#ECEFF1; padding:15px; border-radius:5px;'><p><b>Organic compounds</b> contain carbon-hydrogen bonds:</p><table style='width:100%; border-collapse:collapse;'><tr><th style='border:1px solid #CFD8DC; padding:8px;'>Item</th><th style='border:1px solid #CFD8DC; padding:8px;'>Composition</th></tr><tr><td style='border:1px solid #CFD8DC; padding:8px;'>Nail</td><td style='border:1px solid #CFD8DC; padding:8px;'>Inorganic metal (Fe)</td></tr><tr><td style='border:1px solid #CFD8DC; padding:8px;'>Pencil</td><td style='border:1px solid #CFD8DC; padding:8px;'>Graphite (C) + clay (inorganic)</td></tr><tr style='background:#E8EAF6;'><td style='border:1px solid #CFD8DC; padding:8px;'>Cellphone</td><td style='border:1px solid #CFD8DC; padding:8px;'>Contains plastics (organic polymers)</td></tr><tr style='background:#E8EAF6;'><td style='border:1px solid #CFD8DC; padding:8px;'>Paracetamol</td><td style='border:1px solid #CFD8DC; padding:8px;'>C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub> (organic drug)</td></tr></table></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "In Lassaigne's test, the element that forms white precipitate that is soluble in ammonium hydrate addition of silver nitrate is ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chlorine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#EDE7F6; padding:15px; border-radius:5px;'><p><b>Lassaigne's test observations</b>:</p><ul><li><span style='color:#5E35B1;'>Chlorine</span>: White AgCl soluble in NH<sub>4</sub>OH</li><li>Bromine: Pale yellow AgBr partially soluble</li><li>Iodine: Yellow AgI insoluble</li></ul><p>Reaction: NaX + AgNO<sub>3</sub> → AgX↓ + NaNO<sub>3</sub></p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "The type of hybrid orbital in carbon number three of butyne is ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(sp^3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#E3F2FD; padding:15px; border-radius:5px;'><p><b>Butyne Structure Analysis</b> (CH≡C-CH<sub>2</sub>-CH<sub>3</sub>):</p><ul><li>Carbon 3 is the terminal methyl group (-CH<sub>3</sub>)</li><li>Forms 4 σ-bonds → requires <span style='color:#0D47A1;'>sp<sup>3</sup> hybridization</span></li><li>Bond angles: ~109.5° (tetrahedral geometry)</li></ul><p>Contrast with C1 (sp hybridized, 180° bond angle)</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Provide the structure of a functional group isomer of propanol.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Methoxyethane \\(CH_3-O-CH_2-CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px;'><div style='flex:1; background:#FFF8E1; padding:10px; border-radius:5px;'><p><b>Propanol</b> (C<sub>3</sub>H<sub>8</sub>O):</p><p>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH<br>Alcohol functional group</p></div><div style='flex:1; background:#E8F5E9; padding:10px; border-radius:5px;'><p><b>Isomer</b> (C<sub>3</sub>H<sub>8</sub>O):</p><p>CH<sub>3</sub>-O-CH<sub>2</sub>-CH<sub>3</sub><br>Ether functional group</p></div></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "The presence of water in organic compounds is usually confirmed by using ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anhydrous copper(II) sulfate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFEBEE; padding:15px; border-radius:5px;'><p><b>Water Detection Test</b>:</p><ul><li>White anhydrous CuSO<sub>4</sub> turns <span style='color:#C62828;'>blue</span> with H<sub>2</sub>O</li><li>Forms hydrated CuSO<sub>4</sub>·5H<sub>2</sub>O</li><li>Other methods:<ul><li>Cobalt chloride paper (blue→pink)</li><li>Karl Fischer titration (quantitative)</li></ul></li></ul></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "Arrange pentane, 2-methylbutane and 2,2-dimethylpropane in an increasing order of boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2,2-dimethylpropane < 2-methylbutane < pentane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#F3E5F5; padding:15px; border-radius:5px;'><p><b>Boiling Point Trends</b> (C<sub>5</sub>H<sub>12</sub> isomers):</p><table style='width:100%; border-collapse:collapse;'><tr><th style='border:1px solid #D1C4E9; padding:8px;'>Compound</th><th style='border:1px solid #D1C4E9; padding:8px;'>BP (°C)</th><th style='border:1px solid #D1C4E9; padding:8px;'>Branching</th></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>Pentane</td><td style='border:1px solid #D1C4E9; padding:8px;'>36.1</td><td style='border:1px solid #D1C4E9; padding:8px;'>Linear</td></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>2-methylbutane</td><td style='border:1px solid #D1C4E9; padding:8px;'>27.8</td><td style='border:1px solid #D1C4E9; padding:8px;'>1 branch</td></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>2,2-dimethylpropane</td><td style='border:1px solid #D1C4E9; padding:8px;'>9.5</td><td style='border:1px solid #D1C4E9; padding:8px;'>2 branches</td></tr></table><p>More branching → weaker London forces → lower BP</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Give the structure of the major product of the reaction between benzene and chlorine in the presence of aluminium chloride",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chlorobenzene \\(C_6H_5Cl\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border-left:4px solid #7B1FA2; padding-left:15px; background:#EDE7F6;'><p><b>Electrophilic Aromatic Substitution</b>:</p><ol><li>AlCl<sub>3</sub> generates Cl<sup>+</sup> electrophile</li><li>Benzene attacks Cl<sup>+</sup></li><li>Forms chlorobenzene + HCl</li></ol><p style='text-align:center;'>C<sub>6</sub>H<sub>6</sub> + Cl<sub>2</sub> → C<sub>6</sub>H<sub>5</sub>Cl + HCl</p><p>AlCl<sub>3</sub> is regenerated in the reaction</p></div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Draw the structure of 2,4-pentanedione",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_3-CO-CH_2-CO-CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#E8F5E9; padding:15px; border-radius:5px;'><p><b>β-Diketone Structure</b>:</p><ul><li>IUPAC name: Pentane-2,4-dione</li><li>Exists as keto-enol tautomers</li><li>Strong hydrogen bonding in enol form</li></ul><div style='text-align:center; font-family:monospace; margin-top:10px;'>O&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O<br>‖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‖<br>CH<sub>3</sub>-C-CH<sub>2</sub>-C-CH<sub>3</sub></div></div>"
+    }
+  }
+]

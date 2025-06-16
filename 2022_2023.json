@@ -1,9 +1,10 @@
-[{
+[
+  {
     "type": "pageInfo",
     "kind": "SUBJECTIVE",
     "course_title": "Introduction To Organic Chemistry",
     "code": "CHM 132.2",
-    "session": "2022/2023",
+    "session": "2021/2022",
     "time": "90"
   },
   {
@@ -14,29 +15,12 @@
     "type": "Question",
     "name": "Question 1",
     "Question": {
-      "content": "In what spectroscopic technique are the molecules of the compound bombarded by high energy electrons?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Mass spectrometry (Electron Impact Mass Spectrometry)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "In <b>mass spectrometry</b>, molecules are bombarded with high-energy electrons (typically 70 eV) which knock out electrons from the molecules, creating positively charged ions.<br/><br/>These ions are then separated based on their mass-to-charge ratio (m/z) and detected to give a mass spectrum."
-    }
-  },
-  
-  {
-    "type": "Question",
-    "name": "Question 1",
-    "Question": {
       "content": "Mention the two reagents used for the nitration of benzene",
       "type": "subjective"
     },
     "Answer": {
       "type": "string",
-      "content": "Concentrated nitric acid (HNO<sub>3</sub>) and concentrated sulfuric acid (H<sub>2</sub>SO<sub>4</sub>)"
+      "content": "Concentrated nitric acid \\(HNO_3\\) and concentrated sulfuric acid \\(H_2SO4\\)"
     },
     "Explanation": {
       "type": "string",
@@ -100,7 +84,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Toluene (C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>)"
+      "content": "Toluene \\(C_6H_5CH_3\\)"
     },
     "Explanation": {
       "type": "string",
@@ -132,7 +116,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Peroxides (e.g., H<sub>2</sub>O<sub>2</sub>)"
+      "content": "Peroxides (e.g., \\(H_2O_2\\)"
     },
     "Explanation": {
       "type": "string",
@@ -213,7 +197,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "C<sub>7</sub>H<sub>14</sub>"
+      "content": "\\(C_7H_{14}\\)"
     },
     "Explanation": {
       "type": "string",
@@ -245,7 +229,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "2 molecules of acetic acid (CH<sub>3</sub>COOH)"
+      "content": "2 molecules of acetic acid \\(CH_3COOH\\)"
     },
     "Explanation": {
       "type": "string",
@@ -293,7 +277,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Methanol (CH<sub>3</sub>OH)"
+      "content": "Methanol \\(CH_3OH\\)"
     },
     "Explanation": {
       "type": "string",
@@ -400,12 +384,13 @@
     "type": "Question",
     "name": "Question 24",
     "Question": {
-      "content": "Circle the specie or species that is/are nucleophiles: \\( BF_3 \\), \\( AlCl_3 \\), \\( Br_2 \\), \\( NH_3 \\) and \\( CH_3^+ \\)",
-      "type": "subjective"
+      "content": "Circle the specie or species that is/are nucleophiles:",
+      "type": "OBJ",
+      "options": ["\\( BF_3 \\)","\\( AlCl_3 \\)","\\( Br_2 \\)","\\( NH_3 \\)","\\( CH_3^+ \\)"]
     },
     "Answer": {
       "type": "string",
-      "content": "NH<sub>3</sub>"
+      "content": "\\(NH_3\\)"
     },
     "Explanation": {
       "type": "string",
@@ -421,7 +406,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "CH<sub>2</sub>=C(CH<sub>3</sub>)-CH(C<sub>2</sub>H<sub>5</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub>"
+      "content": "\\(CH_2=C(CH_3)-CH(C_2H_5)-CH_2-CH_2-CH_3\\)"
     },
     "Explanation": {
       "type": "string",
@@ -453,7 +438,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Dimethyl ether (CH<sub>3</sub>-O-CH<sub>3</sub>)"
+      "content": "Dimethyl ether \\(CH_3-O-CH_3\\)"
     },
     "Explanation": {
       "type": "string",
@@ -486,7 +471,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "CH<sub>3</sub>CH<sub>2</sub>CO-O-CO(CH<sub>2</sub>)<sub>3</sub>CH<sub>3</sub>"
+      "content": "\\(CH_3CH_2CO-O-CO(CH_2)_3CH_3\\)"
     },
     "Explanation": {
       "type": "string",
@@ -502,7 +487,7 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Propene (CH<sub>3</sub>-CH=CH<sub>2</sub>)"
+      "content": "Propene \\(CH_3-CH=CH_2\\)"
     },
     "Explanation": {
       "type": "string",
@@ -582,12 +567,11 @@
     },
     "Answer": {
       "type": "string",
-      "content": "Acetone (CH<sub>3</sub>COCH<sub>3</sub>) and acetaldehyde (CH<sub>3</sub>CHO)"
+      "content": "Acetone \\(CH_3COCH_3\\) and acetaldehyde \\(CH_3CHO\\)"
     },
     "Explanation": {
       "type": "string",
       "content": "<div style='background:#ffebee; padding:15px; border-radius:5px;'>\n  <p><b>Ozonolysis mechanism</b>:</p>\n  <ol>\n    <li>O<sub>3</sub> adds to C=C forming ozonide</li>\n    <li>Zn/H<sup>+</sup> cleaves ozonide to carbonyls</li>\n  </ol>\n  <div style='text-align:center; margin:15px 0; font-family:monospace;'>\n    <p>(CH<sub>3</sub>)<sub>2</sub>C=CHCH<sub>3</sub> → (CH<sub>3</sub>)<sub>2</sub>C=O + CH<sub>3</sub>CHO</p>\n    <p>2-methyl-2-butene → acetone + acetaldehyde</p>\n  </div>\n  <p style='color:#c62828;'>Note: The double bond is completely cleaved</p>\n</div>"
     }
   }
-  ]
-  
+]
