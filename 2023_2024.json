@@ -184,22 +184,6 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "Functional groups (e.g., -OH, -COOH, C=O) determine reactivity patterns. For example, all alcohols (-OH) undergo similar reactions (oxidation, esterification) regardless of the rest of the molecule."
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 11",
-    "Question": {
-      "content": "The specific group of atoms or bonds within a compound responsible for its characteristic chemical properties is known as ______.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Functional group"
-    },
-    "Explanation": {
-      "type": "string",
       "content": "<div style='background:#f5f5f5; padding:15px; border-radius:5px;'><p><b>Functional groups</b> are molecular subunits that determine reactivity:</p><ul><li>Hydroxyl (-OH) → Alcohol properties</li><li>Carbonyl (C=O) → Aldehyde/ketone reactions</li><li>Carboxyl (-COOH) → Acid behavior</li></ul><p>Example: All alcohols undergo similar oxidation reactions regardless of molecular size.</p></div>"
     }
   },
