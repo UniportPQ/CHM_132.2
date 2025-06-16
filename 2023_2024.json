@@ -24,7 +24,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "The retardation factor \\(R_f)\\ is calculated as: \\[ R_f = \\frac{\\text{Distance traveled by compound}}{\\text{Distance traveled by solvent}} = \\frac{3.2}{4.0} = 0.8 \\]"
+      "content": "The retardation factor \\(R_f\\) is calculated as: \\[ R_f = \\frac{\\text{Distance traveled by compound}}{\\text{Distance traveled by solvent}} = \\frac{3.2}{4.0} = 0.8 \\]"
     }
   },
   {
