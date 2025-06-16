@@ -8,14 +8,8 @@
     "time": "90"
   },
   {
-    "prop": "<img class='explainImg thumbnail' alt='' src='https://lh3.googleusercontent.com/d/1dCgz8BKtks0ym1KBSIGQMX_kdtb_Wtai'>",
     "type": "Instruction",
     "content": "Attempt All Questions"
-  },
-  {
-    "type": "img",
-    "alt": "Name",
-    "content": "https://lh3.googleusercontent.com/d/"
   },
   {
     "type": "Question",
