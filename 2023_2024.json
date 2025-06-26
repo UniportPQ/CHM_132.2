@@ -56,7 +56,7 @@
     },
     "Explanation": {
       "type": "string",
-      "content": "Ozonolysis cleaves double bonds to form carbonyl compounds. The products propanone \\(CH_3-CO-CH_3)\\ and propanal \\(CH_3-CH_2-CHO)\\ suggest the original alkene was 3-pentene: \\[ CH_3-CH=CH-CH_2-CH_3 + O_3 \\rightarrow CH_3-CO-CH_3 + CH_3-CH_2-CHO \\]"
+      "content": "Ozonolysis cleaves double bonds to form carbonyl compounds. The products propanone \\(CH_3-CO-CH_3\\) and propanal \\(CH_3-CH_2-CHO\\) suggest the original alkene was 3-pentene: \\[ CH_3-CH=CH-CH_2-CH_3 + O_3 \\rightarrow CH_3-CO-CH_3 + CH_3-CH_2-CHO \\]"
     }
   },
   {
