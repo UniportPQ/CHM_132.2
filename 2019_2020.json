@@ -273,22 +273,22 @@
       "content": "<strong>Simple Explanation:</strong><br>Anhydrous \\(CuSO_4\\) is <strong>white</strong>. When water is added, it forms hydrated \\(CuSO_4·5H_2O\\), which is <strong>blue</strong>.<br><br><em>Why?</em> Water molecules coordinate with copper ions, changing the crystal field and thus the color."
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 17",
-    "Question": {
-      "content": "Calculate the index of hydrogen deficiency of \\(C_5H_7N_2Br\\)",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "5"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<strong>Simple Explanation:</strong><br>The <strong>Index of Hydrogen Deficiency (IHD)</strong> is calculated as:<br>\\[ IHD = \\frac{(2C + 2 - H - X + N)}{2} \\]<br>For \\(C_5H_7N_2Br\\):<br>- \\(C = 5\\), \\(H = 7\\), \\(N = 2\\), \\(X (Br) = 1\\)<br>- \\[ IHD = \\frac{(2×5 + 2 - 7 - 1 + 2)}{2} = \\frac{10}{2} = 5 \\]<br><br><em>Interpretation:</em> 5 degrees of unsaturation (rings/π bonds)."
-    }
+{
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+    "content": "Calculate the index of hydrogen deficiency of \\(C_5H_7N_2Br\\)",
+    "type": "subjective"
   },
+  "Answer": {
+    "type": "string",
+    "content": "3"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Step-by-Step Solution:</h3><ol><li><strong>Formula for IHD:</strong><br>The Index of Hydrogen Deficiency (IHD) is calculated using:<br>\\[ IHD = \\frac{2C + 2 - H - X + N}{2} \\]<br>where:<ul><li>\\(C\\) = number of carbon atoms</li><li>\\(H\\) = number of hydrogen atoms</li><li>\\(X\\) = number of halogens (Br, Cl, F, I)</li><li>\\(N\\) = number of nitrogen atoms</li></ul></li><li><strong>Substitute values for \\(C_5H_7N_2Br\\):</strong><br>\\[ C = 5, \\; H = 7, \\; N = 2, \\; X (Br) = 1 \\]<br>\\[ IHD = \\frac{2(5) + 2 - 7 - 1 + 2}{2} \\]</li><li><strong>Simplify the calculation:</strong><br>\\[ IHD = \\frac{10 + 2 - 7 - 1 + 2}{2} = \\frac{6}{2} = 3 \\]</li></ol><h3 style='color: #2c3e50;'>Final Answer:</h3><p>The Index of Hydrogen Deficiency for \\(C_5H_7N_2Br\\) is <strong>3</strong>.</p><p><em>Note:</em> This indicates 3 degrees of unsaturation (e.g., rings, π bonds, or a combination).</p></div>"
+  }
+},
   {
     "type": "Question",
     "name": "Question 18",
