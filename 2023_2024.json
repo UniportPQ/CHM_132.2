@@ -52,13 +52,14 @@
   },
   "Answer": {
     "type": "string",
-    "content": "(CH_3)_2C=CHCH_2CH_3 \\;\\text{(2-methyl-2-pentene)}"
+    "content": "(CH₃)₂C=CHCH₂CH₃ (2-methyl-2-pentene)"
   },
   "Explanation": {
     "type": "string",
-    "content": "Ozonolysis cleaves the C=C bond into two carbonyl compounds. Propanone $\\left((CH_3)_2C=O\\right)$ indicates one carbon of the double bond was bonded to two methyl groups, while propanal $(CH_3CH_2CHO)$ indicates the other carbon was bonded to one hydrogen and an ethyl group. The alkene fitting this description is 2-methyl-2-pentene: \n\n$$ (CH_3)_2C=CHCH_2CH_3 + O_3 \\xrightarrow[\\text{Zn/H}^+ ]{} (CH_3)_2C=O + CH_3CH_2CHO $$"
+    "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333;'>\n  <h3 style='color: #2c3e50;'>Step-by-Step Solution:</h3>\n  \n  <div style='margin-bottom: 15px;'>\n    <h4 style='color: #2c3e50; margin-bottom: 5px;'>Step 1: Understand Ozonolysis Products</h4>\n    <p>Ozonolysis cleaves the C=C bond of an alkene to form two carbonyl compounds (aldehydes or ketones). The products given are:</p>\n    <ul>\n      <li>Propanone (CH₃-CO-CH₃) - a ketone</li>\n      <li>Propanal (CH₃CH₂-CHO) - an aldehyde</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 15px;'>\n    <h4 style='color: #2c3e50; margin-bottom: 5px;'>Step 2: Analyze Carbonyl Structures</h4>\n    <p>From the products:</p>\n    <ul>\n      <li>Propanone indicates one side of the original double bond was connected to two methyl groups: (CH₃)₂C=</li>\n      <li>Propanal indicates the other side was connected to an ethyl group and hydrogen: =CHCH₂CH₃</li>\n    </ul>\n  </div>\n\n  <div style='margin-bottom: 15px;'>\n    <h4 style='color: #2c3e50; margin-bottom: 5px;'>Step 3: Reconstruct the Alkene</h4>\n    <p>Combine these fragments to form the original alkene:</p>\n    <div style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'>\n      (CH₃)₂C=CHCH₂CH₃ (2-methyl-2-pentene)\n    </div>\n  </div>\n\n  <div style='margin-bottom: 15px;'>\n    <h4 style='color: #2c3e50; margin-bottom: 5px;'>Step 4: Verify with Reaction</h4>\n    <p>The complete ozonolysis reaction would be:</p>\n    <div style='background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db;'>\n      (CH₃)₂C=CHCH₂CH₃ + O₃ → (CH₃)₂C=O + CH₃CH₂CHO\n    </div>\n    <p>This matches the given products.</p>\n  </div>\n\n  <div>\n    <h4 style='color: #2c3e50; margin-bottom: 5px;'>Conclusion</h4>\n    <p>The alkene that produces propanone and propanal upon ozonolysis is <strong>2-methyl-2-pentene</strong>.</p>\n  </div>\n</div>"
   }
-},  {
+},
+{
     "type": "Question",
     "name": "Question 4",
     "Question": {
