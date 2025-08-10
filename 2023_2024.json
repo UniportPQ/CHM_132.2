@@ -43,23 +43,22 @@
       "content": "Electrophiles are electron-deficient species that accept electrons. \\(NH_3\\) is a nucleophile (electron donor) due to its lone pair, while all others (\\(BF_3\\), \\(AlCl_3\\) - Lewis acids; \\(CH_3^+\\), \\(NO_2^+\\) - carbocation and nitronium ion) are electrophiles."
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 3",
-    "Question": {
-      "content": "Draw the structure of the alkene that will yield propanone and propanal on ozonolysis followed by treatment with zinc in acidic medium",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "CH_3-CH=CH-CH_2-CH_3 (3-pentene)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "Ozonolysis cleaves double bonds to form carbonyl compounds. The products propanone \\(CH_3-CO-CH_3\\) and propanal \\(CH_3-CH_2-CHO\\) suggest the original alkene was 3-pentene: \\[ CH_3-CH=CH-CH_2-CH_3 + O_3 \\rightarrow CH_3-CO-CH_3 + CH_3-CH_2-CHO \\]"
-    }
+{
+  "type": "Question",
+  "name": "Question 3",
+  "Question": {
+    "content": "Draw the structure of the alkene that will yield propanone and propanal on ozonolysis followed by treatment with zinc in acidic medium",
+    "type": "subjective"
   },
-  {
+  "Answer": {
+    "type": "string",
+    "content": "(CH_3)_2C=CHCH_2CH_3 \\;\\text{(2-methyl-2-pentene)}"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "Ozonolysis cleaves the C=C bond into two carbonyl compounds. Propanone $\\left((CH_3)_2C=O\\right)$ indicates one carbon of the double bond was bonded to two methyl groups, while propanal $(CH_3CH_2CHO)$ indicates the other carbon was bonded to one hydrogen and an ethyl group. The alkene fitting this description is 2-methyl-2-pentene: \n\n$$ (CH_3)_2C=CHCH_2CH_3 + O_3 \\xrightarrow[\\text{Zn/H}^+ ]{} (CH_3)_2C=O + CH_3CH_2CHO $$"
+  }
+},  {
     "type": "Question",
     "name": "Question 4",
     "Question": {
