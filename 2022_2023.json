@@ -197,11 +197,11 @@
     },
     "Answer": {
       "type": "string",
-      "content": "\\(C_7H_{14}\\)"
+      "content": "\\(CH_2\\)"
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='display:flex; align-items:center; gap:20px;'>\n  <div>\n    <p><b>Molecular formula</b> of 2-heptene:</p>\n    <p style='font-size:1.2em; text-align:center;'>C<sub>7</sub>H<sub>14</sub></p>\n  </div>\n  <div style='border-left:2px dashed #999; height:60px;'></div>\n  <div>\n    <p><b>Empirical formula</b> (simplest ratio):</p>\n    <p style='font-size:1.2em; text-align:center;'>C<sub>7</sub>H<sub>14</sub></p>\n    <p style='font-size:0.8em; color:#666;'>No further simplification possible</p>\n  </div>\n</div>"
+      "content": "<div style='display:flex; align-items:center; gap:20px;'>\n  <div>\n    <p><b>Molecular formula</b> of 2-heptene:</p>\n    <p style='font-size:1.2em; text-align:center;'>C<sub>7</sub>H<sub>14</sub></p>\n  </div>\n  <div style='border-left:2px dashed #999; height:60px;'></div>\n  <div>\n    <p><b>Empirical formula</b> (simplest ratio):</p>\n    <p style='font-size:1.2em; text-align:center;'>CH<sub>2</sub></p>\n    <p style='font-size:0.8em; color:#666;'>No further simplification possible</p>\n  </div>\n</div>"
     }
   },
   {
@@ -268,23 +268,22 @@
       "content": "<div style='background:#f3e5f5; padding:15px; border-radius:5px;'>\n  <p><b>Melting point analysis</b> reveals purity because:</p>\n  <ul>\n    <li>Pure compounds have <span style='color:#7B1FA2;'>sharp melting ranges</span> (≤2°C)</li>\n    <li>Impurities <span style='color:#7B1FA2;'>lower and broaden</span> the melting range</li>\n  </ul>\n  <div style='margin-top:10px; padding:10px; background:white;'>\n    <p style='text-align:center;'>\n      <b>Example:</b> Pure benzoic acid melts at 122°C<br>\n      Impure sample melts at 115-120°C\n    </p>\n  </div>\n</div>"
     }
   },
-  {
-    "type": "Question",
-    "name": "Question 17",
-    "Question": {
-      "content": "Which of methane, chloromethane, ethane, methanol and aminoethane would have the highest dipole moments?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Methanol \\(CH_3OH\\)"
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='border:1px solid #ddd; padding:15px;'>\n  <p><b>Dipole moment comparison</b>:</p>\n  <table style='width:100%; border-collapse:collapse; margin-top:10px;'>\n    <tr style='background:#f5f5f5;'>\n      <th style='padding:8px; border:1px solid #ddd;'>Compound</th>\n      <th style='padding:8px; border:1px solid #ddd;'>Dipole Moment (D)</th>\n      <th style='padding:8px; border:1px solid #ddd;'>Reason</th>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #ddd;'>CH<sub>4</sub></td>\n      <td style='padding:8px; border:1px solid #ddd;'>0</td>\n      <td style='padding:8px; border:1px solid #ddd;'>Symmetrical</td>\n    </tr>\n    <tr style='background:#f9f9f9;'>\n      <td style='padding:8px; border:1px solid #ddd;'>CH<sub>3</sub>Cl</td>\n      <td style='padding:8px; border:1px solid #ddd;'>1.87</td>\n      <td style='padding:8px; border:1px solid #ddd;'>C-Cl polarity</td>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #ddd;'>CH<sub>3</sub>OH</td>\n      <td style='padding:8px; border:1px solid #ddd;'><b>1.70</b></td>\n      <td style='padding:8px; border:1px solid #ddd;'><b>C-O and O-H polarity</b></td>\n    </tr>\n  </table>\n  <p style='margin-top:10px;'>Methanol wins due to combined effect of two polar bonds (C-O and O-H)</p>\n</div>"
-    }
+{
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+    "content": "Which of methane, chloromethane, ethane, methanol and aminoethane would have the highest dipole moments?",
+    "type": "subjective"
   },
-  {
+  "Answer": {
+    "type": "string",
+    "content": "Chloromethane \\(CH_3Cl\\)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='border:1px solid #ddd; padding:15px; border-radius:5px;'>\n  <h3 style='margin-top:0; color:#333;'>Dipole Moment Analysis</h3>\n  \n  <p>The dipole moment (\\(\\mu\\)) depends on:</p>\n  <ul>\n    <li>Electronegativity difference (\\(\\Delta EN\\)) between bonded atoms.</li>\n    <li>Molecular geometry (vector addition of bond dipoles).</li>\n  </ul>\n  \n  <table style='width:100%; border-collapse:collapse; margin:15px 0;'>\n    <tr style='background:#f5f5f5;'>\n      <th style='padding:10px; border:1px solid #ddd;'>Compound</th>\n      <th style='padding:10px; border:1px solid #ddd;'>Dipole Moment (D)</th>\n      <th style='padding:10px; border:1px solid #ddd;'>Key Polarity</th>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #ddd;'>Methane (\\(CH_4\\))</td>\n      <td style='padding:8px; border:1px solid #ddd; text-align:center;'>0</td>\n      <td style='padding:8px; border:1px solid #ddd;'>Symmetrical (nonpolar)</td>\n    </tr>\n    <tr style='background:#f9f9f9;'>\n      <td style='padding:8px; border:1px solid #ddd;'><strong>Chloromethane (\\(CH_3Cl\\))</strong></td>\n      <td style='padding:8px; border:1px solid #ddd; text-align:center;'><strong>1.87</strong></td>\n      <td style='padding:8px; border:1px solid #ddd;'><strong>C-Cl (\\(\\Delta EN = 0.61\\)) dominates</strong></td>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #ddd;'>Methanol (\\(CH_3OH\\))</td>\n      <td style='padding:8px; border:1px solid #ddd; text-align:center;'>1.70</td>\n      <td style='padding:8px; border:1px solid #ddd;'>C-O and O-H (\\(\\Delta EN = 0.89\\) and 1.24)</td>\n    </tr>\n    <tr style='background:#f9f9f9;'>\n      <td style='padding:8px; border:1px solid #ddd;'>Ethane (\\(C_2H_6\\))</td>\n      <td style='padding:8px; border:1px solid #ddd; text-align:center;'>0</td>\n      <td style='padding:8px; border:1px solid #ddd;'>Symmetrical (nonpolar)</td>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #ddd;'>Aminoethane (\\(CH_3CH_2NH_2\\))</td>\n      <td style='padding:8px; border:1px solid #ddd; text-align:center;'>1.20</td>\n      <td style='padding:8px; border:1px solid #ddd;'>N-H (\\(\\Delta EN = 0.84\\))</td>\n    </tr>\n  </table>\n  \n  <div style='background:#e8f4f8; padding:10px; border-left:4px solid #3498db; margin-top:10px;'>\n    <p><strong>Why \\(CH_3Cl\\) wins:</strong></p>\n    <p>The C-Cl bond has a large dipole moment due to the high electronegativity of chlorine (\\(EN_{Cl} = 3.16\\) vs. \\(EN_{C} = 2.55\\)). Unlike methanol, where the C-O and O-H dipoles partially oppose each other, \\(CH_3Cl\\)'s asymmetry ensures the C-Cl dipole isn't cancelled.</p>\n  </div>\n</div>"
+  }
+},  {
     "type": "Question",
     "name": "Question 18",
     "Question": {
