@@ -385,8 +385,22 @@
   }
  },
  
- { "type": "Question", "name": "Question 24", "Question": { "content": "How many 2°hydrogen atoms are found in 2,2-dimethylpropane", "type": "subjective" }, "Answer": { "type": "string", "content": "0" }, "Explanation": { "type": "string", "content": "<div style='background:#EFEBE9; padding:15px; border-radius:5px;'><p><b>Structure analysis</b> of (CH<sub>3</sub>)<sub>4</sub>C:</p><ul><li>All hydrogens are <span style='color:#D32F2F;'>primary (1°)</span> attached to -CH<sub>3</sub></li><li>No CH<sub>2</sub> groups present → no 2° hydrogens</li></ul><p style='text-align:center; font-family:monospace;'>&nbsp;&nbsp;CH<sub>3</sub>&nbsp;&nbsp;|CH<sub>3</sub>-C-CH<sub>3</sub>&nbsp;&nbsp;|&nbsp;&nbsp;CH<sub>3</sub></p></div>" } },
- 
+{
+ "type": "Question",
+ "name": "Question 24",
+ "Question": {
+  "content": "How many 2° hydrogen atoms are found in 2,2-dimethylpropane",
+  "type": "subjective"
+ },
+ "Answer": {
+  "type": "string",
+  "content": "0"
+ },
+ "Explanation": {
+  "type": "string",
+  "content": "<div style='background:#f8f9fa; padding:20px; border-radius:8px; border-left:4px solid #4285f4; margin:15px 0;'>\n  <h3 style='color:#1a73e8; margin-top:0;'>Understanding Hydrocarbon Classification</h3>\n  \n  <p>In organic chemistry, hydrogen atoms are classified based on the carbon atom they're attached to:</p>\n  \n  <ul style='background:#fff; padding:15px; border-radius:5px;'>\n    <li><b>1° (Primary) hydrogen</b>: Attached to a carbon that's connected to <b>one</b> other carbon</li>\n    <li><b>2° (Secondary) hydrogen</b>: Attached to a carbon that's connected to <b>two</b> other carbons</li>\n    <li><b>3° (Tertiary) hydrogen</b>: Attached to a carbon that's connected to <b>three</b> other carbons</li>\n  </ul>\n  \n  <h4 style='color:#1a73e8;'>Step 1: Draw the Structure of 2,2-Dimethylpropane</h4>\n  \n  <div style='text-align:center; background:#fff; padding:15px; border-radius:5px; margin:15px 0; font-family:monospace; line-height:1.8;'>\n    &nbsp;&nbsp;&nbsp;CH<sub>3</sub><br>\n    &nbsp;&nbsp;&nbsp;|<br>\n    CH<sub>3</sub> - C - CH<sub>3</sub><br>\n    &nbsp;&nbsp;&nbsp;|<br>\n    &nbsp;&nbsp;&nbsp;CH<sub>3</sub>\n  </div>\n  \n  <p><b>Molecular formula:</b> C<sub>5</sub>H<sub>12</sub></p>\n  \n  <h4 style='color:#1a73e8;'>Step 2: Analyze Each Carbon Position</h4>\n  \n  <table style='width:100%; border-collapse:collapse; background:#fff; margin:15px 0;'>\n    <tr style='background:#e8f0fe;'>\n      <th style='padding:10px; border:1px solid #ddd;'>Carbon Type</th>\n      <th style='padding:10px; border:1px solid #ddd;'>Count</th>\n      <th style='padding:10px; border:1px solid #ddd;'>Hydrogen Classification</th>\n    </tr>\n    <tr>\n      <td style='padding:10px; border:1px solid #ddd;'>Central carbon (C)</td>\n      <td style='padding:10px; border:1px solid #ddd;'>1</td>\n      <td style='padding:10px; border:1px solid #ddd;'>No hydrogens (quaternary carbon)</td>\n    </tr>\n    <tr>\n      <td style='padding:10px; border:1px solid #ddd;'>Methyl groups (CH<sub>3</sub>)</td>\n      <td style='padding:10px; border:1px solid #ddd;'>4</td>\n      <td style='padding:10px; border:1px solid #ddd;'>All hydrogens are <span style='color:#ea4335;'>primary (1°)</span></td>\n    </tr>\n  </table>\n  \n  <h4 style='color:#1a73e8;'>Step 3: Count 2° Hydrogens</h4>\n  \n  <p>Each methyl group (CH<sub>3</sub>) has:</p>\n  <ul>\n    <li>Carbon connected to <b>one</b> other carbon (the central carbon)</li>\n    <li>All hydrogens are therefore <b>primary (1°)</b></li>\n    <li>No CH<sub>2</sub> groups are present in the molecule</li>\n  </ul>\n  \n  <div style='background:#e6f4ea; padding:15px; border-radius:5px; margin:15px 0;'>\n    <h4 style='color:#137333; margin-top:0;'>Conclusion</h4>\n    <p>Since 2,2-dimethylpropane contains only <b>primary (1°) hydrogens</b> and <b>no secondary carbons</b>, the number of 2° hydrogen atoms is:</p>\n    <p style='text-align:center; font-size:24px; color:#137333; font-weight:bold;'>0</p>\n  </div>\n</div>"
+ }
+},
  
  {
   "type": "Question",
