@@ -1,0 +1,2927 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM_132.2",
+    "session": "Organic Chemistry Fundamentals",
+    "time": 90,
+    "topics": [
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Alkyl Halides: Substitution and Elimination Reactions",
+      "Aromatic Compounds and Electrophilic Aromatic Substitution",
+      "Chemical Bonding and Molecular Structure",
+      "Functional Groups",
+      "Introduction to Organic Spectroscopy (IR, NMR, MS)",
+      "Isomerism and Stereochemistry",
+      "Organic Acids and Bases",
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Organic Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2023/2024",
+    "Question": {
+      "content": "If a component on a TLC plate travelled 3.2cm and the solvent travelled 4.0cm. Calculate the \\( R_f \\) value",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.8"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The retardation factor \\(R_f\\) is calculated as: \\[ R_f = \\frac{\\text{Distance traveled by compound}}{\\text{Distance traveled by solvent}} = \\frac{3.2}{4.0} = 0.8 \\]"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Thin-Layer Chromatography"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2023/2024",
+    "Question": {
+      "content": "Which of the following is not an electrophile: \\( BF_3 \\), \\( AlCl_3 \\), \\( CH_3^+ \\), \\( NH_3 \\) and \\( NO_2^+ \\)?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(NH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Electrophiles are electron-deficient species that accept electrons. \\(NH_3\\) is a nucleophile (electron donor) due to its lone pair, while all others (\\(BF_3\\), \\(AlCl_3\\) - Lewis acids; \\(CH_3^+\\), \\(NO_2^+\\) - carbocation and nitronium ion) are electrophiles."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Introduction to Reaction Mechanisms",
+      "Organic Acids and Bases",
+      "Electrophiles"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2023/2024",
+    "Question": {
+      "content": "What is the shape of the methanol molecule?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tetrahedral at carbon, bent at oxygen"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Methanol \\(CH_3OH\\) has</b>:<br> <div>(1) \\(sp^3\\) hybridized carbon with tetrahedral geometry (109.5°), and <br>(2) \\(sp^3\\) hybridized oxygen with bent geometry (104.5°) due to two lone pairs.</div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure",
+      "Molecular Geometry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2023/2024",
+    "Question": {
+      "content": "Which of the following is/are acyclic compound (underline)? Butane, cyclobutene, 2-methylbutane , methylcyclobutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane, 2-methylbutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acyclic compounds have open-chain structures without rings.\\(  \\text{Butane} (CH_3-CH_2-CH_2-CH_3)\\) and 2-methylbutane (branched chain) are acyclic, while cyclobutene and methylcyclobutane contain ring structures."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure",
+      "Alkanes and Cycloalkanes",
+      "IUPAC Nomenclature"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2023/2024",
+    "Question": {
+      "content": "What is the product of dehydrohalogenation of 2-chlorobutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-butene (major) and 1-butene (minor)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Base-induced elimination (e.g., KOH/ethanol) follows Zaitsev's rule: \\[ CH_3-CH_2-CH(Cl)-CH_3 \\rightarrow CH_3-CH=CH-CH_3 (major) + CH_2=CH-CH_2-CH_3 (minor) \\] The more substituted alkene (2-butene) is the major product."
+    },
+    "topic": [
+      "Dehydrohalogenation",
+      "Alkyl Halides and Substitution-Elimination Reactions",
+      "Alkenes and Alkynes Reactions",
+      "Introduction to Reaction Mechanisms",
+      "Organic Chemistry Fundamentals",
+      "Functional Groups"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2023/2024",
+    "Question": {
+      "content": "A bond which cleaves in an electronically unsymmetrical pattern produces fragments called...",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ions (cation and anion)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Heterolytic cleavage produces charged fragments: \\[ A-B \\rightarrow A^+ + B^- \\] This occurs in polar bonds where one atom retains both bonding electrons."
+    },
+    "topic": [
+      "Chemical Bonding and Structure",
+      "Introduction to Reaction Mechanisms",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2023/2024",
+    "Question": {
+      "content": "The specific group of atoms or bonds within a compound responsible for its characteristic chemical properties is known as ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functional group"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f5f5f5; padding:15px; border-radius:5px;'><p><b>Functional groups</b> are molecular subunits that determine reactivity:</p><ul><li>Hydroxyl (-OH) → Alcohol properties</li><li>Carbonyl (C=O) → Aldehyde/ketone reactions</li><li>Carboxyl (-COOH) → Acid behavior</li></ul><p>Example: All alcohols undergo similar oxidation reactions regardless of molecular size.</p></div>"
+    },
+    "topic": [
+      "Functional Groups",
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 13 @ 2023/2024",
+    "Question": {
+      "content": "Which of the following is not a carboxylic acid derivative (underline)? Propanoic acid, propanoyl bromide, propyl ethanoate, propyl amide",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Propanoic acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFEBEE; padding:15px; border-radius:5px;'><p><b>Carboxylic Acid Derivatives</b> are compounds where the -OH group is replaced:</p><table style='width:100%; border-collapse:collapse; margin-top:10px;'><tr><th style='border:1px solid #ddd; padding:8px;'>Compound</th><th style='border:1px solid #ddd; padding:8px;'>Type</th></tr><tr><td style='border:1px solid #ddd; padding:8px;'>Propanoyl bromide</td><td style='border:1px solid #ddd; padding:8px;'>Acid halide (-COBr)</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>Propyl ethanoate</td><td style='border:1px solid #ddd; padding:8px;'>Ester (-COOR)</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>Propyl amide</td><td style='border:1px solid #ddd; padding:8px;'>Amide (-CONH<sub>2</sub>)</td></tr><tr style='background:#EF9A9A;'><td style='border:1px solid #ddd; padding:8px;'>Propanoic acid</td><td style='border:1px solid #ddd; padding:8px;'><b>Parent acid (-COOH), not a derivative</b></td></tr></table></div>"
+    },
+    "topic": [
+      "Functional Groups",
+      "Carboxylic Acid Derivatives",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2023/2024",
+    "Question": {
+      "content": "Arrange butane, methylpropane and cyclobutene in order of increasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "methylpropane < butane < cyclobutene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFF8E1; padding:15px; border-radius:5px;'><p><b>Boiling Point Trends</b>:</p><ol><li><span style='color:#FF8F00;'>Methylpropane (isobutane)</span>: -11.7°C<br>• Branched → weak London dispersion forces</li><li><span style='color:#FF8F00;'>Butane</span>: -0.5°C<br>• Linear → stronger intermolecular forces</li><li><span style='color:#FF8F00;'>Cyclobutene</span>: 2-4°C<br>• Ring strain + slight polarity from C=C</li></ol><p>Key factor: Surface area of contact between molecules</p></div>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure",
+      "Alkanes and Cycloalkanes",
+      "Isomerism and Stereochemistry",
+      "Boiling Point"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2023/2024",
+    "Question": {
+      "content": "In propyne, the bond angle between carbon number 3 and the attached hydrogen atom is ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "180°"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px; align-items:center; background:#E8F5E9; padding:15px; border-radius:5px;'><div style='flex:1;'><p><b>Propyne Structure</b>:<br>CH≡C-CH<sub>3</sub></p><ul><li>Carbon 3 (terminal CH<sub>3</sub>) is sp<sup>3</sup> hybridized</li><li>But the H-C≡C bond angle is 180° due to sp hybridization at C1</li></ul></div><div style='flex:1; text-align:center; font-family:monospace;'>H-C≡C-CH<sub>3</sub><br>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;180°</div></div>"
+    },
+    "topic": [
+      "Molecular Geometry",
+      "Chemical Bonding and Structure",
+      "Organic Chemistry Fundamentals",
+      "Alkynes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2023/2024",
+    "Question": {
+      "content": "Draw the structure of bicyclo [3.2.1] octane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "bicyclo [3.2.1] octane",
+      "content": "https://lh3.googleusercontent.com/d/1sBuo90TmAFrLF3l7qmPtqgf30B1Clu-W"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #D1C4E9; padding:15px; border-radius:5px;'><p><b>Bicyclo[n.m.p] Nomenclature</b>:</p><ul><li>[3.2.1] indicates:<br>• 3 carbons on longest bridge<br>• 2 carbons on middle bridge<br>• 1 carbon on shortest bridge</li></ul><div style='text-align:center; margin:15px 0; font-family:monospace;'>&nbsp;&nbsp;CH<sub>2</sub>-CH<sub>2</sub><br>&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\<br>CH<sub>2</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH-CH<sub>2</sub><br>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>CH<sub>2</sub>-CH-CH<sub>2</sub></div></div>"
+    },
+    "topic": [
+      "IUPAC Nomenclature",
+      "Alkanes and Cycloalkanes",
+      "Chemical Bonding and Structure",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2023/2024",
+    "Question": {
+      "content": "In organic compounds the Carius method is used to quantitatively estimate the amount of ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Halogens (Cl, Br, I), Sulfur, or Phosphorus"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFF3E0; padding:15px; border-radius:5px;'><p>The <b>Carius method</b> involves:</p><ol><li>Heating compound with fuming HNO<sub>3</sub> in sealed tube</li><li>Converts elements to:<ul><li>Halogens → AgX (weighable precipitate)</li><li>Sulfur → BaSO<sub>4</sub></li><li>Phosphorus → Mg<sub>2</sub>P<sub>2</sub>O<sub>7</sub></li></ul></li></ol><p>Used for <span style='color:#E65100;'>quantitative elemental analysis</span> in organic compounds.</p></div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Elemental Analysis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2023/2024",
+    "Question": {
+      "content": "Give the structure of the product of reaction between 1-butyne and 2 molecules of hydrogen ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane \\(CH_3-CH_2-CH_2-CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border-left:4px solid #388E3C; padding-left:15px; background:#E8F5E9;'><p><b>Complete hydrogenation</b> of alkynes:</p><p style='text-align:center;'>CH≡C-CH<sub>2</sub>-CH<sub>3</sub> + 2H<sub>2</sub> → CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></p><ul><li>Requires Ni/Pd/Pt catalyst</li><li>First forms 1-butene (CH<sub>2</sub>=CH-CH<sub>2</sub>-CH<sub>3</sub>)</li><li>Then fully saturates to butane</li></ul></div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkynes",
+      "Alkenes and Alkynes Reactions",
+      "Hydrogenation",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2023/2024",
+    "Question": {
+      "content": "Mention two types of centrifugation methods",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Differential centrifugation and Density gradient centrifugation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:grid; grid-template-columns:1fr 1fr; gap:10px;'><div style='background:#E1F5FE; padding:10px; border-radius:5px;'><p><b>Differential</b>:</p><ul><li>Separates by particle size/mass</li><li>Increasing speeds pellet different components</li><li>Used for organelle separation</li></ul></div><div style='background:#E8F5E9; padding:10px; border-radius:5px;'><p><b>Density Gradient</b>:</p><ul><li>Uses medium (e.g., sucrose gradient)</li><li>Particles migrate to equilibrium density</li><li>Higher resolution separation</li></ul></div></div>"
+    },
+    "topic": [
+      "Centrifugation",
+      "Introduction To Organic Chemistry",
+      "Chromatography",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2023/2024",
+    "Question": {
+      "content": "Hydrogenation of alkenes under suitable conditions produces ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alkanes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#F3E5F5; padding:15px; border-radius:5px;'><p><b>Catalytic hydrogenation</b>:</p><p style='text-align:center;'>R-CH=CH-R' + H<sub>2</sub> → R-CH<sub>2</sub>-CH<sub>2</sub>-R'</p><ul><li>Catalysts: Ni, Pd, Pt at 25-150°C</li><li>Syn addition of H<sub>2</sub> across double bond</li><li>Industrial application: Vegetable oil hardening</li></ul></div>"
+    },
+    "topic": [
+      "Hydrogenation",
+      "Alkenes and Alkynes Reactions",
+      "Organic Chemistry Fundamentals",
+      "Reduction"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2023/2024",
+    "Question": {
+      "content": "How many 2° hydrogen atoms are found in 2,2-dimethylpropane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f8f9fa; padding:20px; border-radius:8px; border-left:4px solid #4285f4; margin:15px 0;'>\n  <h3 style='color:#1a73e8; margin-top:0;'>Understanding Hydrocarbon Classification</h3>\n  \n  <p>In organic chemistry, hydrogen atoms are classified based on the carbon atom they're attached to:</p>\n  \n  <ul style='background:#fff; padding:15px; border-radius:5px;'>\n    <li><b>1° (Primary) hydrogen</b>: Attached to a carbon that's connected to <b>one</b> other carbon</li>\n    <li><b>2° (Secondary) hydrogen</b>: Attached to a carbon that's connected to <b>two</b> other carbons</li>\n    <li><b>3° (Tertiary) hydrogen</b>: Attached to a carbon that's connected to <b>three</b> other carbons</li>\n  </ul>\n  \n  <h4 style='color:#1a73e8;'>Step 1: Draw the Structure of 2,2-Dimethylpropane</h4>\n  \n  <div style='text-align:center; background:#fff; padding:15px; border-radius:5px; margin:15px 0; font-family:monospace; line-height:1.8;'>\n    &nbsp;&nbsp;&nbsp;CH<sub>3</sub><br>\n    &nbsp;&nbsp;&nbsp;|<br>\n    CH<sub>3</sub> - C - CH<sub>3</sub><br>\n    &nbsp;&nbsp;&nbsp;|<br>\n    &nbsp;&nbsp;&nbsp;CH<sub>3</sub>\n  </div>\n  \n  <p><b>Molecular formula:</b> C<sub>5</sub>H<sub>12</sub></p>\n  \n  <h4 style='color:#1a73e8;'>Step 2: Analyze Each Carbon Position</h4>\n  \n  <table style='width:100%; border-collapse:collapse; background:#fff; margin:15px 0;'>\n    <tr style='background:#e8f0fe;'>\n      <th style='padding:10px; border:1px solid #ddd;'>Carbon Type</th>\n      <th style='padding:10px; border:1px solid #ddd;'>Count</th>\n      <th style='padding:10px; border:1px solid #ddd;'>Hydrogen Classification</th>\n    </tr>\n    <tr>\n      <td style='padding:10px; border:1px solid #ddd;'>Central carbon (C)</td>\n      <td style='padding:10px; border:1px solid #ddd;'>1</td>\n      <td style='padding:10px; border:1px solid #ddd;'>No hydrogens (quaternary carbon)</td>\n    </tr>\n    <tr>\n      <td style='padding:10px; border:1px solid #ddd;'>Methyl groups (CH<sub>3</sub>)</td>\n      <td style='padding:10px; border:1px solid #ddd;'>4</td>\n      <td style='padding:10px; border:1px solid #ddd;'>All hydrogens are <span style='color:#ea4335;'>primary (1°)</span></td>\n    </tr>\n  </table>\n  \n  <h4 style='color:#1a73e8;'>Step 3: Count 2° Hydrogens</h4>\n  \n  <p>Each methyl group (CH<sub>3</sub>) has:</p>\n  <ul>\n    <li>Carbon connected to <b>one</b> other carbon (the central carbon)</li>\n    <li>All hydrogens are therefore <b>primary (1°)</b></li>\n    <li>No CH<sub>2</sub> groups are present in the molecule</li>\n  </ul>\n  \n  <div style='background:#e6f4ea; padding:15px; border-radius:5px; margin:15px 0;'>\n    <h4 style='color:#137333; margin-top:0;'>Conclusion</h4>\n    <p>Since 2,2-dimethylpropane contains only <b>primary (1°) hydrogens</b> and <b>no secondary carbons</b>, the number of 2° hydrogen atoms is:</p>\n    <p style='text-align:center; font-size:24px; color:#137333; font-weight:bold;'>0</p>\n  </div>\n</div>"
+    },
+    "topic": [
+      "IUPAC Nomenclature",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2023/2024",
+    "Question": {
+      "content": "Calculate the index of hydrogen deficiency of \\( \\text{C}_7\\text{H}_6\\text{FNO}_2 \\):",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#E8EAF6; padding:15px; border-radius:5px;'><p><b>IHD Formula</b>:</p><p style='text-align:center;'>\\[ \\frac{(2C + 2 - H - X + N)}{2} \\]</p><p>For C<sub>7</sub>H<sub>6</sub>FNO<sub>2</sub>:</p><p style='text-align:center;'>\\[ \\frac{(14 + 2 - 6 - 1 + 1)}{2} = \\frac{10}{2} = 5 \\]</p><p>+1 for N=O bond → <span style='color:#303F9F;'>Total IHD = 6</span> (likely aromatic ring + other unsaturation)</p></div>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure",
+      "Introduction To Organic Chemistry",
+      "Index of Hydrogen Deficiency"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2023/2024",
+    "Question": {
+      "content": "Arrange the following in an order of increasing bond energies; \\( \\text{CH}_3=\\text{O} \\), \\( \\text{CH}_2=\\text{CH}_2 \\), \\( \\text{CH}_3-\\text{CH}_3 \\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_3-CH_3 < CH_2=CH_2 < CH_3=O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FCE4EC; padding:15px; border-radius:5px;'><p><b>Bond Energy Comparison</b> (kJ/mol):</p><table style='width:100%; border-collapse:collapse;'><tr><th style='border:1px solid #F8BBD0; padding:8px;'>Bond</th><th style='border:1px solid #F8BBD0; padding:8px;'>Type</th><th style='border:1px solid #F8BBD0; padding:8px;'>Energy</th></tr><tr><td style='border:1px solid #F8BBD0; padding:8px;'>C-C</td><td style='border:1px solid #F8BBD0; padding:8px;'>σ</td><td style='border:1px solid #F8BBD0; padding:8px;'>~348</td></tr><tr><td style='border:1px solid #F8BBD0; padding:8px;'>C=C</td><td style='border:1px solid #F8BBD0; padding:8px;'>π</td><td style='border:1px solid #F8BBD0; padding:8px;'>~614</td></tr><tr><td style='border:1px solid #F8BBD0; padding:8px;'>C=O</td><td style='border:1px solid #F8BBD0; padding:8px;'>π</td><td style='border:1px solid #F8BBD0; padding:8px;'>~745</td></tr></table></div>"
+    },
+    "topic": [
+      "Chemical Bonding and Structure",
+      "Organic Chemistry Fundamentals",
+      "Functional Groups",
+      "Bond Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2023/2024",
+    "Question": {
+      "content": "An atom or group of atoms with odd number of electrons is called ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Free radical"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#E0F2F1; padding:15px; border-radius:5px;'><p><b>Free radicals</b>:</p><ul><li>Contain unpaired electrons (e.g., CH<sub>3</sub>•)</li><li>Highly reactive intermediates</li><li>Formed by:<ul><li>Homolytic bond cleavage</li><li>Radical initiation (UV light, peroxides)</li></ul></li></ul><p style='color:#00897B;'>Example: Cl• in chlorination reactions</p></div>"
+    },
+    "topic": [
+      "Free Radicals",
+      "Chemical Bonding and Structure",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2023/2024",
+    "Question": {
+      "content": "From the following items, underline the one(s) that is/are not likely to contain organic compound nail, cellphone, pencil, paracetamol",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "nail"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#ECEFF1; padding:15px; border-radius:5px;'><p><b>Organic compounds</b> contain carbon-hydrogen bonds:</p><table style='width:100%; border-collapse:collapse;'><tr><th style='border:1px solid #CFD8DC; padding:8px;'>Item</th><th style='border:1px solid #CFD8DC; padding:8px;'>Composition</th></tr><tr><td style='border:1px solid #CFD8DC; padding:8px;'>Nail</td><td style='border:1px solid #CFD8DC; padding:8px;'>Inorganic metal (Fe)</td></tr><tr style='background:#E8EAF6'><td style='border:1px solid #CFD8DC; padding:8px;'>Pencil</td><td style='border:1px solid #CFD8DC; padding:8px;'>Graphite (C) + clay (inorganic)+ wood (organic)</td></tr><tr style='background:#E8EAF6;'><td style='border:1px solid #CFD8DC; padding:8px;'>Cellphone</td><td style='border:1px solid #CFD8DC; padding:8px;'>Contains plastics (organic polymers)</td></tr><tr style='background:#E8EAF6;'><td style='border:1px solid #CFD8DC; padding:8px;'>Paracetamol</td><td style='border:1px solid #CFD8DC; padding:8px;'>C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub> (organic drug)</td></tr></table></div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Functional Groups"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2023/2024",
+    "Question": {
+      "content": "The presence of water in organic compounds is usually confirmed by using ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Anhydrous copper(II) sulfate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFEBEE; padding:15px; border-radius:5px;'><p><b>Water Detection Test</b>:</p><ul><li>White anhydrous CuSO<sub>4</sub> turns <span style='color:#C62828;'>blue</span> with H<sub>2</sub>O</li><li>Forms hydrated CuSO<sub>4</sub>·5H<sub>2</sub>O</li><li>Other methods:<ul><li>Cobalt chloride paper (blue→pink)</li><li>Karl Fischer titration (quantitative)</li></ul></li></ul></div>"
+    },
+    "topic": [
+      "Qualitative Analysis",
+      "Organic Chemistry Fundamentals",
+      "Chemical Tests"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2023/2024",
+    "Question": {
+      "content": "Arrange pentane, 2-methylbutane and 2,2-dimethylpropane in an increasing order of boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2,2-dimethylpropane < 2-methylbutane < pentane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#F3E5F5; padding:15px; border-radius:5px;'><p><b>Boiling Point Trends</b> (C<sub>5</sub>H<sub>12</sub> isomers):</p><table style='width:100%; border-collapse:collapse;'><tr><th style='border:1px solid #D1C4E9; padding:8px;'>Compound</th><th style='border:1px solid #D1C4E9; padding:8px;'>BP (°C)</th><th style='border:1px solid #D1C4E9; padding:8px;'>Branching</th></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>Pentane</td><td style='border:1px solid #D1C4E9; padding:8px;'>36.1</td><td style='border:1px solid #D1C4E9; padding:8px;'>Linear</td></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>2-methylbutane</td><td style='border:1px solid #D1C4E9; padding:8px;'>27.8</td><td style='border:1px solid #D1C4E9; padding:8px;'>1 branch</td></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>2,2-dimethylpropane</td><td style='border:1px solid #D1C4E9; padding:8px;'>9.5</td><td style='border:1px solid #D1C4E9; padding:8px;'>2 branches</td></tr></table><p>More branching → weaker London forces → lower BP</p></div>"
+    },
+    "topic": [
+      "Boiling Point",
+      "Alkanes and Cycloalkanes",
+      "Isomerism and Stereochemistry",
+      "Molecular Geometry",
+      "Chemical Bonding and Structure",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2019/2018",
+    "Question": {
+      "content": "Name the major method used for the separation of the constituents of petroleum",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fractional Distillation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Petroleum is a mix of hydrocarbons (like gasoline, diesel, etc.). <em>Fractional distillation</em> separates them based on <strong>boiling points</strong>.<br><br><strong>How it works:</strong><br>1. Petroleum is heated in a tower.<br>2. Lighter compounds (e.g., propane) rise and condense at the top.<br>3. Heavier compounds (e.g., bitumen) stay at the bottom.<br><br><em>Analogy:</em> Like sorting candies by size!"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Alkenes Reactions",
+      "Alkynes and Aromatic Compounds",
+      "Fractional Distillation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2019/2018",
+    "Question": {
+      "content": "Which of the following ions is not used as a convenient test for terminal alkynes?",
+      "type": "OBJ",
+      "options": [
+        "\\(Na^+\\)",
+        "\\(Ag^+\\)",
+        "\\(Cu^+\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(Na^+\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Terminal alkynes (e.g., HC≡CH) react with <strong>\\(Ag^+\\)</strong> or <strong>\\(Cu^+\\)</strong> to form <em>insoluble precipitates</em> (a positive test).<br><br><strong>Why not \\(Na^+\\)?</strong><br>\\(Na^+\\) is too weak—it doesn’t react with alkynes. It’s like trying to light a match with wet paper!"
+    },
+    "topic": [
+      "Alkynes and Aromatic Compounds",
+      "Functional Group Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Qualitative Analysis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2019/2018",
+    "Question": {
+      "content": "Draw the structure of bicyclo[3.2.1] octane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "bicyclo[3.2.1] octane",
+      "content": "https://lh3.googleusercontent.com/d/1fkj2s3bfEw5fuyrpC5SPhS__lP27Dip5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Bicyclo[3.2.1]octane is like <strong>two rings sharing atoms</strong> (a \"bicycle\" for molecules!).<br><br><strong>Structure Breakdown:</strong><br>1. <strong>8 carbons total</strong> (octane).<br>2. Rings are fused: <strong>3 + 2 + 1</strong> carbons in the bridges.<br><br><em>Tip:</em> Imagine a hexagon with two extra \"arms\" crossing it."
+    },
+    "topic": [
+      "Organic Chemistry",
+      "IUPAC Nomenclature",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2019/2018",
+    "Question": {
+      "content": "What is the name of the rule that governs addition of proton to carbon with greater number of hydrogen atoms?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Markovnikov's Rule"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br><em>Markovnikov’s Rule</em> says: <strong>\"The rich get richer!\"</strong><br><br>When adding HX to an alkene:<br>1. H<sup>+</sup> attaches to the carbon with <strong>more H’s already</strong>.<br>2. X<sup>–</sup> attaches to the carbon with <strong>fewer H’s</strong>.<br><br><strong>Example:</strong><br>\\(CH_2=CH-CH_3 + HBr \\rightarrow CH_3-CHBr-CH_3\\)"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Alkenes Reactions",
+      "Organic Reaction Mechanisms",
+      "Regioselectivity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2019/2018",
+    "Question": {
+      "content": "Draw the structure of 2-butylbenzene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2-butylbenzene",
+      "content": "https://lh3.googleusercontent.com/d/1fnZ1c-8LwcEOiryrMXNJyWEogWcsiDNG"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>2-butylbenzene is a benzene ring with a butyl group (<code>C<sub>4</sub>H<sub>9</sub></code>) attached at the <strong>second position</strong>.<br><br><strong>Key Features:</strong><br>- Benzene ring (hexagon with alternating double bonds)<br>- Butyl chain (<code>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></code>) on carbon #2"
+    },
+    "topic": [
+      "IUPAC Nomenclature",
+      "Aromatic Compounds",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2019/2018",
+    "Question": {
+      "content": "Provide the correct name for 1-methylbutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<img alt='pentane' class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1fpLVGtnmPZzDCNyPJMy-cj18UGvkVZQD'>  <center>pentane</center>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>\"1-methylbutane\" is actually just <strong>pentane</strong>!<br><br><strong>Why?</strong><br>- The longest carbon chain has 5 carbons (pentane)<br>- A methyl group at position 1 is redundant (it's just the start of the chain)<br><br><em>Fun fact:</em> This is why we use IUPAC naming rules!"
+    },
+    "topic": [
+      "IUPAC Nomenclature",
+      "Alkanes",
+      "Organic Chemistry Fundamentals",
+      "Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2019/2018",
+    "Question": {
+      "content": "In a sodium fusion test, what does the formation of a white precipitate with silver nitrate that is soluble in ammonium hydroxide indicate?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chlorine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>This is the <strong>test for chlorine</strong>!<br><br><strong>Steps:</strong><br>1. White precipitate = <code>AgCl</code> (silver chloride)<br>2. Soluble in NH<sub>4</sub>OH = forms <code>[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup></code><br><br><em>Analogy:</em> Like dissolving salt in water, but fancier!"
+    },
+    "topic": [
+      "Qualitative Analysis",
+      "Organic Chemistry Fundamentals",
+      "Halogen Detection"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2019/2018",
+    "Question": {
+      "content": "Draw any one of the structural isomers of a compound with molecular formula \\(C_4H_8\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_2=CH-CH_2-CH_3\\) (But-1-ene)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br><strong>Isomers of C<sub>4</sub>H<sub>8</sub>:</strong><br>1. <strong>But-1-ene</strong> (\\(CH_2=CH-CH_2-CH_3\\))<br>2. <strong>But-2-ene</strong> (\\(CH_3-CH=CH-CH_3\\))<br>3. <strong>Methylpropene</strong> (\\(CH_2=C(CH_3)-CH_3\\))<br>4. <strong>Cyclobutane</strong> (a square ring!)<br><br><em>Note:</em> All have the same atoms but different arrangements."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Structural Isomers",
+      "Alkanes and Alkenes Reactions",
+      "IUPAC Nomenclature"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2019/2018",
+    "Question": {
+      "content": "What type of isomerism is exhibited between CH₂CH₂CHO and \\(CH_3COCH_3\\)?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functional group isomers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>These compounds are <strong>functional group isomers</strong> because they have:<br>- <strong>Propanal</strong> (\\(CH_3CH_2CHO\\)): An aldehyde group (<code>-CHO</code>)<br>- <strong>Propanone</strong> (\\(CH_3COCH_3\\)): A ketone group (<code>C=O</code>)<br><br><em>Key Point:</em> Same molecular formula (\\(C_3H_6O\\)) but different functional groups!"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Functional Group Chemistry",
+      "Structural Isomers",
+      "Isomerism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2019/2018",
+    "Question": {
+      "content": "Draw the structure of 3-chloro-4-phenyl-4-hexanal",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "3-chloro-4-phenyl-4-hexanal",
+      "content": "https://lh3.googleusercontent.com/d/1fx3UsNn_VBYNyuBN4Ely5KB7vDLEK33b"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>This molecule has:<br>1. A <strong>6-carbon chain</strong> (hexanal) with an aldehyde (<code>-CHO</code>) at carbon 1.<br>2. A <strong>chlorine atom</strong> at carbon 3.<br>3. A <strong>phenyl group</strong> (\\(C_6H_5\\)) at carbon 4.<br><br><em>Tip:</em> The numbering starts from the aldehyde end!"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "IUPAC Nomenclature",
+      "Functional Group Chemistry",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2019/2018",
+    "Question": {
+      "content": "Calculate the index of hydrogen deficiency of \\(C_5H_7N_2Br\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='font-family: Arial, sans-serif; line-height: 1.6;'><h3 style='color: #2c3e50;'>Step-by-Step Solution:</h3><ol><li><strong>Formula for IHD:</strong><br>The Index of Hydrogen Deficiency (IHD) is calculated using:<br>\\[ IHD = \\frac{2C + 2 - H - X + N}{2} \\]<br>where:<ul><li>\\(C\\) = number of carbon atoms</li><li>\\(H\\) = number of hydrogen atoms</li><li>\\(X\\) = number of halogens (Br, Cl, F, I)</li><li>\\(N\\) = number of nitrogen atoms</li></ul></li><li><strong>Substitute values for \\(C_5H_7N_2Br\\):</strong><br>\\[ C = 5, \\; H = 7, \\; N = 2, \\; X (Br) = 1 \\]<br>\\[ IHD = \\frac{2(5) + 2 - 7 - 1 + 2}{2} \\]</li><li><strong>Simplify the calculation:</strong><br>\\[ IHD = \\frac{10 + 2 - 7 - 1 + 2}{2} = \\frac{6}{2} = 3 \\]</li></ol><h3 style='color: #2c3e50;'>Final Answer:</h3><p>The Index of Hydrogen Deficiency for \\(C_5H_7N_2Br\\) is <strong>3</strong>.</p><p><em>Note:</em> This indicates 3 degrees of unsaturation (e.g., rings, π bonds, or a combination).</p></div>"
+    },
+    "topic": [
+      "Index of Hydrogen Deficiency",
+      "Organic Chemistry Fundamentals",
+      "Organic Chemistry",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2019/2018",
+    "Question": {
+      "content": "How many pi bonds exist between carbon and nitrogen in cyanomethane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2 (triple bond: 1σ + 2π)<br><img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1fyv5SGoNgd4wJ7dV0UuoUlsJ2ISay_d1'>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Cyanomethane (\\(CH_3CN\\)) has a <strong>triple bond</strong> between C and N:<br>- <strong>1 sigma (σ) bond</strong><br>- <strong>2 pi (π) bonds</strong><br><br><em>Visual:</em> The triple bond is like a stick (σ) with two springs (π) wrapped around it."
+    },
+    "topic": [
+      "Chemical Bonding",
+      "Functional Group Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2019/2018",
+    "Question": {
+      "content": "Among the following compounds, underline the one that is not a nucleophile:",
+      "type": "OBJ",
+      "options": [
+        "\\(CH_3CH_2NH_2\\)",
+        "\\(CH_3CH_3\\)",
+        "\\(H_2O\\)",
+        "\\(C_2H_5SH\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_3CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>A nucleophile is an electron-rich species that can donate electrons. <strong>Ethane (\\(CH_3CH_3\\))</strong> has no lone pairs or π electrons to donate, unlike:<br>- <strong>Amines (\\(CH_3CH_2NH_2\\))</strong>: Lone pair on N<br>- <strong>Water (\\(H_2O\\))</strong>: Lone pairs on O<br>- <strong>Thiols (\\(C_2H_5SH\\))</strong>: Lone pair on S"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Functional Group Chemistry",
+      "Nucleophilicity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2019/2018",
+    "Question": {
+      "content": "Give the name of a group of molecules that accept electrons during a chemical reaction",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electrophiles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br><strong>Electrophiles</strong> ('electron - lovers ') are electron-deficient species that accept electrons in reactions. Examples:<br>- \\(H^+\\) (proton)<br>- \\(BF_3\\) (Lewis acid)<br>- \\(CH_3^+\\) (carbocation)<br><br><em>Opposite:</em> Nucleophiles (electron donors)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Organic Reaction Mechanisms",
+      "Lewis Acids",
+      "Chemical Bonding",
+      "Electron Acceptors"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2019/2018",
+    "Question": {
+      "content": "Circle the ketone among the following compounds",
+      "type": "OBJ",
+      "options": [
+        "\\(CH_3COCl\\)",
+        "\\(CH_3CO_2C_2H_5\\)",
+        "\\(CH_3COCH_2CH_3\\)",
+        "\\(CH_3OCH_3\\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_3COCH_2CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>A <strong>ketone</strong> has a carbonyl group (<code>C=O</code>) bonded to <strong>two carbon atoms</strong>. Only <strong>butanone (\\(CH_3COCH_2CH_3\\))</strong> fits!<br><br><strong>Others:</strong><br>- \\(CH_3COCl\\): Acid chloride<br>- \\(CH_3CO_2C_2H_5\\): Ester<br>- \\(CH_3OCH_3\\): Ether"
+    },
+    "topic": [
+      "Functional Group Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2019/2018",
+    "Question": {
+      "content": "Name the types of hybrid orbitals found in propyne",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sp & sp³"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Propyne (\\(CH_3C≡CH\\)) has two types of hybrid orbitals:<br>1. <strong>sp</strong>: The triple-bonded carbons (C≡C) use linear sp orbitals (180° bond angle).<br>2. <strong>sp³</strong>: The terminal methyl group (\\(CH_3\\)) uses tetrahedral sp³ orbitals (109.5° bond angle).<br><br><em>Visual:</em> Imagine a pencil (sp) stuck to a pyramid (sp³)."
+    },
+    "topic": [
+      "Chemical Bonding",
+      "Alkynes and Aromatic Compounds",
+      "Hybridization",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2019/2018",
+    "Question": {
+      "content": "What are the empirical and molecular formula of butane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Molecular formula: \\(C_4H_{10}\\)<br>Empirical formula: \\(C_2H_5\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>1. <strong>Molecular formula</strong> (\\(C_4H_{10}\\)): Actual atom count in butane.<br>2. <strong>Empirical formula</strong> (\\(C_2H_5\\)): Simplified ratio (divide by 2).<br><br><em>Mnemonic:</em> \"Molecular = Multiple; Empirical = Simplified\"."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding",
+      "Alkanes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2018/2019",
+    "Question": {
+      "content": "In qualitative elemental analysis, what is used to oxidize carbon to carbon(IV) oxide?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Copper(II) oxide (CuO)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>CuO oxidizes organic carbon to CO<sub>2</sub> during combustion</li><li>Test: CO<sub>2</sub> turns limewater milky</li><li>Alternative oxidizers: Pb<sub>3</sub>O<sub>4</sub>, KMnO<sub>4</sub>/H<sub>2</sub>SO<sub>4</sub></li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Qualitative Elemental Analysis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 6 @ 2018/2019",
+    "Question": {
+      "content": "In the Lassaigne test, the sodium halide formed was reacted with silver trioxonitrate(V) to form a pale yellow precipitate which is soluble in excess ammonia. This shows that the analyte contains?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bromine (Br)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Observation sequence</strong>:<br>1. Pale yellow ppt = AgBr<br>2. Soluble in NH<sub>3</sub> (distinguishes from AgI)</li><li>Different from:<br>- AgCl (white, very soluble)<br>- AgI (yellow, insoluble)</li></ul>"
+    },
+    "topic": [
+      "Qualitative Elemental Analysis",
+      "Organic Chemistry Fundamentals",
+      "Functional Groups Identification"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2018/2019",
+    "Question": {
+      "content": "Calculate the index of hydrogen deficiency of C<sub>7</sub>H<sub>6</sub>FNO<sub>2</sub>",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "IHD = 5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Formula</strong>: IHD = (2C + 2 - H + N - X)/2 = (2×7 + 2 - 6 + 1 - 1)/2 = 5</li><li>Each unit indicates 1 ring or π-bond</li><li>Possible structures: Could include benzene ring (IHD=4) + 1 other unsaturation</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry",
+      "Index of Hydrogen Deficiency"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2018/2019",
+    "Question": {
+      "content": "Pick the compound with the lowest intramolecular attractive forces",
+      "type": "OBJ",
+      "options": [
+        "Octane",
+        "Ethane",
+        "Cyclopropane"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>London forces increase with molecular size</li><li><strong>Order</strong>: Octane > Cyclopropane > Ethane</li><li>Ethane (C<sub>2</sub>H<sub>6</sub>) has weakest van der Waals forces</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding & Hybridization",
+      "Alkanes & Free Radical Reactions",
+      "Ring Strain"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2018/2019",
+    "Question": {
+      "content": "Pick the compound with the highest boiling point among the following",
+      "type": "OBJ",
+      "options": [
+        "Butane",
+        "Butanol",
+        "Butanone",
+        "Cyclobutene"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butanol"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Hydrogen bonding</strong> in butanol (OH group) dominates</li><li><strong>Order</strong>: Butanol (118°C) > Butanone (80°C) > Cyclobutene (2°C) > Butane (-1°C)</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Functional Groups Identification",
+      "Intermolecular Forces"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2018/2019",
+    "Question": {
+      "content": "Which of the following compounds is the most soluble in water?",
+      "type": "OBJ",
+      "options": [
+        "2,3-dimethylbutane",
+        "Butanol",
+        "Ethanol"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethanol"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Solubility decreases with increasing hydrocarbon chain length</li><li><strong>Order</strong>: Ethanol (miscible) > Butanol (8g/100mL) > 2,3-dimethylbutane (insoluble)</li><li>OH group enables H-bonding with water</li></ul>"
+    },
+    "topic": [
+      "Intermolecular Forces",
+      "Functional Groups Identification",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2018/2019",
+    "Question": {
+      "content": "What type of isomerism exists between ethanol and methoxymethane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Functional group isomerism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Same molecular formula (C<sub>2</sub>H<sub>6</sub>O)</li><li>Different functional groups: alcohol (-OH) vs ether (-O-)</li><li>Physical properties differ significantly</li></ul>"
+    },
+    "topic": [
+      "Isomerism & Stereochemistry",
+      "Functional Groups Identification",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2018/2019",
+    "Question": {
+      "content": "Give the structural and empirical formula of 2-chloropentanoic acid",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2-chloropentanoic acid",
+      "content": "https://example.com/2-chloropentanoic-acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Structural</strong>: CH<sub>3</sub>-CH<sub>2</sub>-CH(Cl)-CH<sub>2</sub>-COOH</li><li><strong>Empirical</strong>: C<sub>5</sub>H<sub>9</sub>ClO<sub>2</sub></li><li>Contains carboxylic acid (-COOH) and chloro (-Cl) groups</li></ul>"
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Organic Chemistry Fundamentals",
+      "Chemical Formulas"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2018/2019",
+    "Question": {
+      "content": "Write the chemical formula of the first organic compound synthesized from inorganic material",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Urea \\((NH_2)_2CO\\)",
+      "content": "https://example.com/urea-structure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Wöhler's synthesis</strong> (1828): NH<sub>4</sub>OCN → (NH<sub>2</sub>)<sub>2</sub>CO</li><li>Disproved vital force theory</li><li>Molecular formula: CH<sub>4</sub>N<sub>2</sub>O</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Chemical Formulas"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2018/2019",
+    "Question": {
+      "content": "The mixing of standard atomic orbitals to form new orbitals is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hybridization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Hybridization combines atomic orbitals (s, p, d) to form new hybrid orbitals with different shapes and energies</li><li>Common types: sp³ (tetrahedral), sp² (trigonal planar), sp (linear)</li><li>Explains molecular geometry and bonding angles (e.g., methane's 109.5°)</li><li>First proposed by Linus Pauling in 1931</li></ul>"
+    },
+    "topic": [
+      "Chemical Bonding & Hybridization",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2018/2019",
+    "Question": {
+      "content": "Mention two physical methods employed in the determination of the molecular weight of a compound",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<ul><li>Boiling point elevation (Ebullioscopy)</li><li>Freezing point depression (Cryoscopy)</li></ul>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Ebullioscopy</strong>:<br>- Measures ΔT<sub>b</sub> using Beckmann thermometer<br>- Formula: M<sub>2</sub> = (K<sub>b</sub> × w<sub>2</sub> × 1000)/(ΔT<sub>b</sub> × w<sub>1</sub>)<br>- Solvent constants: Water (K<sub>b</sub>=0.512), Benzene (K<sub>b</sub>=2.53)</li><li><strong>Cryoscopy</strong>:<br>- Measures ΔT<sub>f</sub> <br>- Formula: M<sub>2</sub> = (K<sub>f</sub> × w<sub>2</sub> × 1000)/(ΔT<sub>f</sub> × w<sub>1</sub>)<br>- Solvent constants: Water (K<sub>f</sub>=1.86), Camphor (K<sub>f</sub>=40)</li><li>Both are colligative properties depending on particle number</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Introduction to Spectroscopy (NMR, IR, MS)",
+      "Molecular Weight Determination"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2018/2019",
+    "Question": {
+      "content": "How many sigma bonds are there in cyanomethane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5 sigma bonds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Structure</strong>: CH<sub>3</sub>-C≡N</li><li><strong>Sigma bonds</strong>:<br>1. Three C-H bonds in CH<sub>3</sub><br>2. One C-C bond<br>3. One C-N bond</li><li><strong>Pi bonds</strong>: 2 in C≡N triple bond</li><li>Total bonds: 5σ + 2π</li></ul>"
+    },
+    "topic": [
+      "Chemical Bonding & Hybridization",
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Molecular Structure Drawing",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2018/2019",
+    "Question": {
+      "content": "Suggest a more accurate name for 4-hexanone",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-hexanone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Carbonyl group should have the lowest possible number</li><li>Correct numbering: \\(CH_3CH_2COCH_2CH_2CH_3\\) (C=O at position 3)</li><li>4-hexanone would imply \\(CH_3CH_2CH_2COCH_2CH_3\\), which is incorrect</li><li>IUPAC Rule C-14.3: Number from end nearest the functional group</li></ul>"
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2018/2019",
+    "Question": {
+      "content": "Show the reaction for the complete combustion of pentane.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_5H_{12} + 8O_2 \\rightarrow 5CO_2 + 6H_2O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Balanced equation</strong>: 1:8:5:6 stoichiometry</li><li>Heat of combustion: \\(\\Delta H^\\circ \\approx -3509\\ kJ/mol\\)</li><li>Incomplete combustion would produce CO or C (soot)</li><li>Important in internal combustion engines</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes & Free Radical Reactions",
+      "Chemical Formulas",
+      "Combustion"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2018/2019",
+    "Question": {
+      "content": "Name two physical properties of alkanes that increase with chain length",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Boiling point and Melting point"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Boiling point</strong>: Increases due to stronger London dispersion forces (\\(\\propto\\) molecular surface area)</li><li><strong>Melting point</strong>: Increases as longer chains pack more efficiently in solid state</li><li>Example trend: Methane (\\(-162\\degree C\\)) → Hexane (\\(69\\degree C\\)) → Decane (\\(174\\degree C\\))</li><li>Branching decreases these values by reducing molecular contact</li></ul>"
+    },
+    "topic": [
+      "Alkanes & Free Radical Reactions",
+      "Intermolecular Forces",
+      "Physical Properties",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2018/2019",
+    "Question": {
+      "content": "Give the name and structure of hydrocarbon that can form metal salts",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Terminal alkyne (\\(RC\\equiv CH\\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Forms acetylides with \\(Ag^+\\) or \\(Cu^+\\) salts (e.g., \\(RC\\equiv CAg\\))</li><li>Acidic hydrogen (\\(pK_a \\approx 25\\)) reacts with strong bases</li><li>Example: \\(HC\\equiv CH + 2[Ag(NH_3)_2]^+ \\rightarrow AgC\\equiv CAg\\downarrow\\)</li><li>Used to distinguish terminal vs internal alkynes</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Alkynes & Addition Reactions",
+      "Organic Nomenclature (IUPAC)",
+      "Molecular Structure Drawing",
+      "Acidity of Hydrocarbons"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2018/2019",
+    "Question": {
+      "content": "What is a carbon bonded to four carbon atoms called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quaternary Carbon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>A <em>quaternary carbon</em> is like the <em>central hub</em> in a molecule where <strong>four other carbons</strong> are directly attached to it. <br><br><strong>Example:</strong><br>In <code>(CH<sub>3</sub>)<sub>4</sub>C</code> (neopentane), the <strong>central carbon</strong> is quaternary because it’s bonded to <strong>four CH<sub>3</sub> groups</strong>."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Carbon Classification"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2018/2019",
+    "Question": {
+      "content": "When a covalent bond cleaves unsymmetrically, it gives rise to?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbocation and Carbanion (i.e. Heterolytic fission)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br><em>Heterolytic fission</em> is like a <strong>unequal divorce</strong> where one atom takes both electrons:<br><br>1. <strong>Carbocation</strong> forms if the <em>more electronegative</em> atom leaves with the electrons.<br>   \\[ R-X \\rightarrow R^+ + X^- \\]<br>2. <strong>Carbanion</strong> forms if the <em>less electronegative</em> atom leaves with the electrons.<br>   \\[ R-X \\rightarrow R^- + X^+ \\]<br><br><em>Note:</em> Happens in polar solvents or with unstable bonds."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding & Hybridization",
+      "Reaction Mechanisms & Arrow Pushing",
+      "Heterolytic Cleavage"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2017/2018",
+    "Question": {
+      "content": "The smallest alkane that can form a ring structure is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyclopropane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>The smallest possible cycloalkane requires <strong>3 carbons</strong></li><li>Cyclopropane (C<sub>3</sub>H<sub>6</sub>) has 60° bond angles (significant angle strain)</li><li>Propane (C<sub>3</sub>H<sub>8</sub>) is the straight-chain form</li><li>Smaller rings than 3 carbons are impossible due to orbital overlap constraints</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2017/2018",
+    "Question": {
+      "content": "The percentage of p-character in sp³ hybridized carbon is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "75%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>sp³ hybridization = 1 s orbital + 3 p orbitals</li><li>p-character percentage = (3 p orbitals)/(total 4 orbitals) × 100 = 75%</li><li>s-character = 25% (1/4)</li><li>This hybridization creates tetrahedral geometry (109.5° bond angles)</li></ul>"
+    },
+    "topic": [
+      "Chemical Bonding",
+      "Organic Chemistry Fundamentals",
+      "sp3 Hybridization"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2017/2018",
+    "Question": {
+      "content": "sp² hybridized carbon has ___ geometry with ___ bond angles",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trigonal planar and 120°"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>sp² hybridization = 1 s orbital + 2 p orbitals (33% s-character, 67% p-character)</li><li>Forms <strong>3 σ-bonds</strong> in a plane with 120° angles</li><li>Remaining p orbital forms π-bonds (in double bonds)</li><li>Example: All carbons in ethylene (C<sub>2</sub>H<sub>4</sub>)</li></ul>"
+    },
+    "topic": [
+      "Chemical Bonding",
+      "Organic Chemistry Fundamentals",
+      "Hybridization"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 6 @ 2017/2018",
+    "Question": {
+      "content": "The bond angles for tetrahedral molecules is ___ while that of planar molecules is_____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "109.5° & 120°"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Tetrahedral</strong> (sp³ hybridization): 109.5° bond angles (e.g., methane CH<sub>4</sub>)</li><li><strong>Planar</strong> (sp² hybridization): 120° bond angles (e.g., ethylene C<sub>2</sub>H<sub>4</sub>)</li><li>These angles minimize electron pair repulsion (VSEPR theory)</li><li>Tetrahedral has 4 electron domains, planar trigonal has 3</li></ul>"
+    },
+    "topic": [
+      "Chemical Bonding",
+      "Hybridization",
+      "sp3 Hybridization",
+      "Molecular Geometry",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2017/2018",
+    "Question": {
+      "content": "Reactions that proceed through many intermediates (multistep reactions) are called",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "chain reactions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Chain reactions involve <strong>initiation</strong>, <strong>propagation</strong>, and <strong>termination</strong> steps</li><li>Examples: radical halogenation, polymerization</li><li>Each propagation step generates a new reactive intermediate</li><li>Characterized by chain carriers (radicals, ions, etc.)</li><li>Can have chain lengths of thousands of cycles</li></ul>"
+    },
+    "topic": [
+      "Reaction Mechanisms",
+      "Organic Chemistry Fundamentals",
+      "Multistep Reactions",
+      "Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2017/2018",
+    "Question": {
+      "content": "Orbitals of equal energy are called",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Degenerate orbitals E.g. \\(p_x, p_y, p_z\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Degenerate orbitals have <strong>identical energy levels</strong></li><li>Atomic examples: 3p orbitals \\(p_x, p_y, p_z\\)</li><li>Molecular examples: π and π* orbitals in benzene</li><li>External fields (electric/magnetic) can remove degeneracy</li><li>Important in spectroscopy and molecular orbital theory</li></ul>"
+    },
+    "topic": [
+      "Chemical Bonding",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2017/2018",
+    "Question": {
+      "content": "Homolysis in chemistry leads to the production of",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Free radicals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Homolytic cleavage: <strong>equal splitting</strong> of bond electrons</li><li>Produces two radicals (species with unpaired electrons)</li><li>Requires energy input (heat/light/radical initiators)</li><li>Example: Cl<sub>2</sub> → 2Cl• (ΔH = +242 kJ/mol)</li><li>Fundamental in combustion, polymerization, atmospheric chemistry</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Reaction Mechanisms",
+      "Organic Chemistry Fundamentals",
+      "Homolysis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2017/2018",
+    "Question": {
+      "content": "Calculate the index of hydrogen deficiency (IHD) of \\(C_7H_{10}\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>IHD Formula</strong>: (2C + 2 - H)/2 where C = #carbons, H = #hydrogens</li><li>For C<sub>7</sub>H<sub>10</sub>: (2×7 + 2 - 10)/2 = (16-10)/2 = <strong>3</strong></li><li>Each IHD unit indicates either: 1 ring, 1 double bond, or 2 double bonds</li><li>Possible structures: Could be 3 rings, 3 double bonds, 1 ring + 2 double bonds, etc.</li></ul>"
+    },
+    "topic": [
+      "Index of Hydrogen Deficiency",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry",
+      "Alkenes and Alkynes",
+      "Alkanes and Cycloalkanes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2017/2018",
+    "Question": {
+      "content": "From the following list, circle the one(s) that is/are not made of organic compounds; dyes, pure water, dry wood, shirt, paracetamol, grass",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pure water (H<sub>2</sub>O doesn't contain carbon)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Organic compounds</strong> must contain carbon (except few exceptions like CO<sub>2</sub>)</li><li>Water (H<sub>2</sub>O) is inorganic - no carbon present</li><li>Other options contain carbon: dyes (aromatic), wood (cellulose), shirts (cotton/polyester), paracetamol (C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub>), grass (cellulose/chlorophyll)</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry",
+      "Classification of Compounds"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 13 @ 2017/2018",
+    "Question": {
+      "content": "The first organic compounds synthesized in the laboratory is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(Urea (NH_2-CO-NH_2)\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Synthesized by <strong>Friedrich Wöhler</strong> in 1828 from ammonium cyanate (NH<sub>4</sub>OCN)</li><li>Disproved vitalism theory (that organic compounds required 'vital force')</li><li>Reaction: NH<sub>4</sub><sup>+</sup> + OCN<sup>-</sup> → (NH<sub>2</sub>)<sub>2</sub>CO</li><li>Marked birth of synthetic organic chemistry</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Organic Chemistry",
+      "History of Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2017/2018",
+    "Question": {
+      "content": "In sodium fusion test, the sodium halide formed was reacted with silver nitrate (V) to form a yellow precipitate, which is insoluble in excess ammonia. This shows that the analyte contains",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Iodide ion (I<sup>-</sup>)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Yellow precipitate</strong> = AgI (silver iodide)</li><li>Distinct from: AgCl (white, soluble in NH<sub>3</sub>), AgBr (pale yellow, partially soluble)</li><li>Sodium fusion converts organic halides to NaX (X = Cl, Br, I)</li><li>Confirmatory test: AgNO<sub>3</sub> + NaI → AgI↓ + NaNO<sub>3</sub></li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Qualitative Analysis",
+      "Detection of Halogens"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2017/2018",
+    "Question": {
+      "content": "Which of the following is an example of heteroaliphatic compound?",
+      "type": "OBJ",
+      "options": [
+        "cannitol",
+        "cyclopentane",
+        "methylethyl ether",
+        "n-pentane"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "methylethyl ether (CH<sub>3</sub>-O-CH<sub>2</sub>CH<sub>3</sub>)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Heteroaliphatic</strong> = aliphatic compound with heteroatom (O, N, S etc.) in chain</li><li>Methylethyl ether contains oxygen (-O-) in carbon chain</li><li>Others are pure hydrocarbons: cyclopentane (C<sub>5</sub>H<sub>10</sub>), n-pentane (C<sub>5</sub>H<sub>12</sub>)</li><li>'Cannitol' appears to be a misspelling/misnomer</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Classification of Compounds",
+      "Alcohols and Ethers",
+      "Heteroaliphatic Compounds"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2017/2018",
+    "Question": {
+      "content": "Arrange the structures of butane, methylpropane and cyclobutane in order of decreasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyclobutane > butane > methylpropane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Cyclobutane</strong> (C<sub>4</sub>H<sub>8</sub>): Highest BP due to ring strain and more compact structure (49°C)</li><li><strong>Butane</strong> (C<sub>4</sub>H<sub>10</sub>): Straight chain has stronger London forces than branched (-0.5°C)</li><li><strong>Methylpropane</strong> (isobutane, C<sub>4</sub>H<sub>10</sub>): Branching reduces surface area and intermolecular forces (-11.7°C)</li><li>Order reflects molecular surface area and packing efficiency</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Boiling Point",
+      "Chemical Bonding",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2017/2018",
+    "Question": {
+      "content": "The average energy required to break a bond in a compound is called",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bond dissociation energy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Specifically measures energy to break <strong>one mole</strong> of bonds in gaseous state</li><li>Different from bond enthalpy (which is average value)</li><li>Example: H-H bond = 436 kJ/mol, C-H = 413 kJ/mol</li><li>Important for predicting reaction thermodynamics</li></ul>"
+    },
+    "topic": [
+      "Bond Energy",
+      "Chemical Bonding",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2017/2018",
+    "Question": {
+      "content": "Crude oil can be separated into its useful products by",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fractional distillation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Process occurs in <strong>fractionating column</strong> (30-70m tall)</li><li>Separates by boiling point: gases (top), gasoline, kerosene, diesel, lubricants, residue (bottom)</li><li>Temperature gradient: 350°C (bottom) to 20°C (top)</li><li>Later processes: cracking, reforming, treating</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Boiling Point",
+      "Fractional Distillation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2017/2018",
+    "Question": {
+      "content": "Write an equation for the complete combustion of propane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_3H_8 + 5O_2 \\rightarrow 3CO_2 + 4H_2O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Balanced equation shows 1:5:3:4 stoichiometry</li><li>ΔH° = -2220 kJ/mol (highly exothermic)</li><li>Incomplete combustion would produce CO or C (soot)</li><li>Common in LPG (liquefied petroleum gas)</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Combustion Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2017/2018",
+    "Question": {
+      "content": "What is the hybridization and molecular geometry for methane? ___ and ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sp³ and tetrahedral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Hybridization</strong>: sp³ (1 s orbital + 3 p orbitals combine)</li><li><strong>Geometry</strong>: Tetrahedral (109.5° bond angles)</li><li>CH<sub>4</sub> has 4 identical C-H σ-bonds</li><li>All carbons in alkanes are sp³ hybridized</li><li>Perfect example of VSEPR theory prediction</li></ul>"
+    },
+    "topic": [
+      "Hybridization",
+      "Molecular Geometry",
+      "sp3 Hybridization",
+      "Chemical Bonding",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2017/2018",
+    "Question": {
+      "content": "How many sigma bonds and pi-bonds are present in a molecule of propene (propylene)?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "8 sigma bonds and 1 pi-bond"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Propene structure</strong>: CH<sub>2</sub>=CH-CH<sub>3</sub></li><li><strong>Sigma bonds</strong>: 3 C-H in CH<sub>2</sub>, 1 C-H in CH, 3 C-H in CH<sub>3</sub>, 1 C-C</li><li><strong>Pi-bond</strong>: 1 in C=C double bond</li><li>Total: 8σ (all single bonds) + 1π (double bond component)</li><li>sp² hybridized carbons in double bond region</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Alkenes and Alkynes",
+      "Chemical Bonding",
+      "Hybridization"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2017/2018",
+    "Question": {
+      "content": "Which of the following compounds will exhibit cis-trans (geometrical) isomerism?",
+      "options": [
+        "2-butene",
+        "2-butyne",
+        "2-butanol"
+      ],
+      "type": "OBJ"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-butene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>2-butene (CH<sub>3</sub>-CH=CH-CH<sub>3</sub>)</strong>: Has restricted rotation around double bond</li><li>Can have <em>cis</em> (methyls same side) and <em>trans</em> (methyls opposite) forms</li><li><strong>2-butyne</strong>: Triple bond (linear, no isomerism)</li><li><strong>2-butanol</strong>: Single bonds (free rotation)</li><li>Requirements: Double bond + different groups on each carbon</li></ul>"
+    },
+    "topic": [
+      "Geometrical Isomerism",
+      "Stereochemistry",
+      "Alkenes and Alkynes",
+      "Nomenclature of Organic Compounds",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2017/2018",
+    "Question": {
+      "content": "The formation of violet color when sodium nitroprusside is added to sodium extract (during Lassaigne test) indicates the presence of",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sulfur (S)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Test mechanism</strong>: Organic S → Na<sub>2</sub>S during sodium fusion</li><li><strong>Reaction</strong>: Na<sub>2</sub>S + [Fe(CN)<sub>5</sub>NO]<sup>2-</sup> → [Fe(CN)<sub>5</sub>NOS]<sup>4-</sup> (violet)</li><li>Distinct from: N (blue), halogens (different precipitates)</li><li>Confirms thiols, sulfides, thiophenes in organic compounds</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Qualitative Analysis",
+      "Organic Chemistry Fundamentals",
+      "Detection of Sulfur",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2017/2018",
+    "Question": {
+      "content": "The laboratory instrument used to separate liquid-liquid immiscible mixture is___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Separating funnel"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Also called <strong>dropping funnel</strong> or <strong>separatory funnel</strong></li><li>Works via <strong>density difference</strong> (heavy liquid drains first)</li><li>Commonly used for: ether/water, dichloromethane/water separations</li><li>Key features: Stopper, stopcock, conical/pear shape</li><li>Alternative methods: Centrifugation (for emulsions)</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Qualitative Analysis",
+      "Laboratory Equipment"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2017/2018",
+    "Question": {
+      "content": "Give the laboratory test used to differentiate between pentene and pentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bromine water test and Baeyer's test"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Bromine water</strong>:<br>- Pentene: Decolorizes Br<sub>2</sub>/H<sub>2</sub>O (orange → colorless)<br>- Pentane: No reaction (stays orange)</li><li><strong>Baeyer's test</strong> (KMnO<sub>4</sub>):<br>- Pentene: Purple → brown MnO<sub>2</sub> precipitate<br>- Pentane: No reaction</li><li>Both tests detect C=C double bonds</li><li>Additional test: Pentene burns with more sooty flame</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes",
+      "Qualitative Analysis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2017/2018",
+    "Question": {
+      "content": "The most important natural source of hydrocarbon is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Crude oil (petroleum)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Crude oil</strong> contains thousands of hydrocarbon compounds (alkanes, cycloalkanes, aromatics)</li><li>Forms from ancient marine organisms under heat/pressure over millions of years</li><li>Other sources: Natural gas (methane), coal (mostly carbon), biomass (renewable but less concentrated)</li><li>Provides >80% of world's energy and raw materials for plastics, pharmaceuticals, etc.</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Fossil Fuels"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2017/2018",
+    "Question": {
+      "content": "Give the IUPAC nomenclature of \\(CH_3CH_2C(CH_3)CH_2CH_2CH_3\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-methylhexane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Step 1</strong>: Identify longest carbon chain (6 carbons → hexane)</li><li><strong>Step 2</strong>: Number from end nearest substituent (CH<sub>3</sub> at C3)</li><li><strong>Structure</strong>: CH<sub>3</sub>-CH<sub>2</sub>-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li><li>Not 3,3-dimethylhexane (only one methyl group present)</li><li>Common error: Miscounting chain length or substituent positions</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Nomenclature of Organic Compounds",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2017/2018",
+    "Question": {
+      "content": "Calculate the molecular formula of a compound that contains 40% carbon, 6.7% Hydrogen and 53.3% oxygen by mass. Molecular weight of compound is \\(180gmol^{-1}\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_6H_{12}O_6\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Step 1</strong>: Assume 100g sample → 40g C, 6.7g H, 53.3g O</li><li><strong>Step 2</strong>: Convert to moles:<br>- C: 40/12 = 3.33 mol<br>- H: 6.7/1 = 6.7 mol<br>- O: 53.3/16 = 3.33 mol</li><li><strong>Step 3</strong>: Divide by smallest (3.33):<br>- C: 1, H: 2, O: 1 → Empirical formula CH<sub>2</sub>O (MW=30)</li><li><strong>Step 4</strong>: 180/30 = 6 → Molecular formula = (CH<sub>2</sub>O)<sub>6</sub> = C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></li><li>Common examples: Glucose, fructose</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Empirical and Molecular Formula"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2014/2015",
+    "Question": {
+      "content": "What is the chemical produced from the reaction of cooking gas with excess oxygen?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CO₂ & H₂O"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cooking gas is propane (\\(C_3H_8\\)). When burned in excess oxygen, it undergoes combustion:<br><br>\\( C_3H_8 + 5O_2 \\rightarrow 3CO_2 + 4H_2O \\)<br><br>Products: <strong>CO₂</strong> (carbon dioxide) and <strong>H₂O</strong> (water)."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Combustion"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2014/2015",
+    "Question": {
+      "content": "Name structures with molecular formula C₂H₆O",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethanol (\\(C_2H_5OH\\)) <br> Dimethyl ether (\\(CH_3OCH_3\\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The molecular formula C₂H₆O has two possible structures:<br><br>1. <strong>Ethanol</strong> (\\(C_2H_5OH\\)): An alcohol with an –OH group.<br>2. <strong>Dimethyl ether</strong> (\\(CH_3OCH_3\\)): An ether with an oxygen between two methyl groups.<br><br>These are <strong>functional group isomers</strong>—same atoms, different arrangements!"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Molecular Structure",
+      "Nomenclature of Organic Compounds",
+      "Isomerism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2014/2015",
+    "Question": {
+      "content": "Name the product of oxidation of 1-butylbenzene with \\(KMnO_4\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1agwh3iTiWfH5syXdtADEZBkYNqI4Isyj",
+      "alt": "Butylbenzene and Benzoic acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div><h3>Simple Explanation:</h3><p>When we react <strong>1-butylbenzene</strong> (a benzene ring with a 4-carbon chain) with <strong>\\(KMnO_4\\)</strong> (a strong oxidizer):</p><ul><li>The <strong>long carbon side chain gets chopped off</strong>.</li><li>Only the <strong>first carbon attached to benzene survives</strong>.</li><li>That carbon turns into a <strong>carboxylic acid group (–COOH)</strong>.</li></ul><br><strong>Final Product:</strong> <strong>Benzoic acid</strong> (\\(C_6H_5COOH\\)).<br><br><strong>Why?</strong> Because \\(KMnO_4\\) <em>destroys long side chains</em> but keeps the benzene ring safe!</div>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Aromatic Compounds",
+      "Oxidation Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2014/2015",
+    "Question": {
+      "content": "A hydrocarbon must have the following elements (a)___ (b)___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a) Carbon (C)  <br>(b) Hydrogen (H)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydrocarbons are organic compounds made <strong>only</strong> of:<br><br>1. <strong>Carbon (C)</strong>: Forms the backbone of the molecule.<br>2. <strong>Hydrogen (H)</strong>: Bonds to carbon to complete the structure.<br><br>Examples: Methane (\\(CH_4\\)), Ethane (\\(C_2H_6\\)), etc."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Elemental Composition"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2014/2015",
+    "Question": {
+      "content": "Mention two instrumental methods used in the identification of organic compounds",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i.) Infrared (IR) spectroscopy<br>ii.) Mass spectrometry (MS)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Two key instrumental methods for identifying organic compounds:<br><br>1. <strong>Infrared (IR) Spectroscopy</strong>: Measures absorption of IR light to reveal functional groups (e.g., \\(C=O\\), \\(O-H\\)).<br>2. <strong>Mass Spectrometry (MS)</strong>: Determines molecular weight and structure by ionizing molecules and analyzing mass-to-charge ratios (<em>m/z</em>).<br><br>These methods are often used together for comprehensive analysis."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Instrumental Analysis",
+      "Molecular Structure"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 6 @ 2014/2015",
+    "Question": {
+      "content": "Combustion of 8.23 mg of a compound X yields 22.62 mg of CO₂ and 9.26 mg of H₂O. Determine the empirical formula of X.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_2H_4O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "To find the empirical formula:<br><br>1. <strong>Calculate moles of CO₂ and H₂O</strong>:<br>   - Moles of CO₂ = 22.62 mg ÷ 44.01 g/mol = 0.514 mmol C<br>   - Moles of H₂O = 9.26 mg ÷ 18.02 g/mol = 0.514 mmol H (×2 = 1.028 mmol H)<br><br>2. <strong>Calculate mass of O</strong>:<br>   - Mass of C + H = (0.514 × 12.01) + (1.028 × 1.01) = 7.24 mg<br>   - Mass of O = 8.23 mg - 7.24 mg = 0.99 mg → 0.062 mmol O<br><br>3. <strong>Determine simplest ratio</strong>:<br>   - C:H:O = 0.514 : 1.028 : 0.062 ≈ 2:4:1<br><br>Thus, the empirical formula is <strong>\\(C_2H_4O\\)</strong> (e.g., acetaldehyde or ethylene oxide)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Combustion",
+      "Elemental Composition",
+      "Empirical Formula"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2014/2015",
+    "Question": {
+      "content": "The mixing of one 2s and two 2p orbitals gives __ hybrid orbital",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(sp^2\\) hybrid orbital"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "When one <strong>2s orbital</strong> mixes with two <strong>2p orbitals</strong>, they form three <strong>\\(sp^2\\) hybrid orbitals</strong>.<br><br>• Shape: Trigonal planar (120° angles).<br>• Example: In <strong>ethene (\\(C_2H_4\\))</strong>, each carbon uses \\(sp^2\\) orbitals to form bonds."
+    },
+    "topic": [
+      "Chemical Bonding",
+      "Molecular Structure",
+      "Hybridization",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2014/2015",
+    "Question": {
+      "content": "Which of these functional groups has no carbonyl group:",
+      "type": "OBJ",
+      "options": [
+        "aldehyde",
+        "ketone",
+        "amine",
+        "amide",
+        "ester"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "amine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Amines (RNH₂)</strong> lack a carbonyl (C=O) group. All other options contain C=O: aldehydes (-CHO), ketones (R-CO-R'), amides (-CONH₂), and esters (-COOR)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Molecular Structure",
+      "Nomenclature of Organic Compounds",
+      "Functional Groups"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2014/2015",
+    "Question": {
+      "content": "After crystallization, the purity of the product is determined by",
+      "type": "OBJ",
+      "options": [
+        "Boiling point",
+        "distillation",
+        "Melting point",
+        "chromatography"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Melting point"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Melting point analysis</strong> is standard for purity checks. Pure compounds melt sharply at a specific temperature, while impurities lower and broaden the range."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Instrumental Analysis",
+      "Purity Determination"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2014/2015",
+    "Question": {
+      "content": "Arrange n-butane, cyclobutane, and methylpropane in ascending order of boiling points",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Methylpropane < n-butane < cyclobutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Boiling Point Trends Explained:</strong><br><br>1. <strong>Methylpropane (lowest)</strong>: Branched structure reduces surface area → weaker London dispersion forces.<br>2. <strong>n-Butane</strong>: Linear chain has more surface area than methylpropane → stronger intermolecular forces.<br>3. <strong>Cyclobutane (highest)</strong>: Ring structure is rigid and compact → higher electron density and stronger van der Waals forces.<br><br><strong>General Rule</strong>: Boiling points increase with molecular surface area and rigidity."
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Molecular Structure",
+      "Physical Properties",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2014/2015",
+    "Question": {
+      "content": "The type of isomerism exhibited by 2-chloropropane and 1-chloropropane is called____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Positional isomerism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Positional Isomerism Explained:</strong><br><br>1. <strong>Definition</strong>: Isomers differ in the <em>position</em> of a functional group/substituent on the same carbon skeleton.<br>2. <strong>Example</strong>:<br>   - <strong>1-Chloropropane</strong>: Cl on carbon 1 (<em>CH₂Cl–CH₂–CH₃</em>).<br>   - <strong>2-Chloropropane</strong>: Cl on carbon 2 (<em>CH₃–CHCl–CH₃</em>).<br>3. <strong>Key Point</strong>: Same molecular formula (\\(C_3H_7Cl\\)), same chain length, only Cl position changes."
+    },
+    "topic": [
+      "Isomerism",
+      "Nomenclature of Organic Compounds",
+      "Molecular Structure",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2014/2015",
+    "Question": {
+      "content": "What is the structure of the product of the reaction between benzene and ethanoyl chloride/acetyl chloride \\( (CH_3COCl) \\) in the presence of aluminium chloride?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1apaOoMaMOnsU8nESfsFzANHU2bsD2a3t",
+      "alt": "Acetophenone (phenylethanone) structure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Friedel-Crafts Acylation Reaction:</strong><br><br>1. <strong>Reagents</strong>: Benzene + \\(CH_3COCl\\) (acetyl chloride) + \\(AlCl_3\\) (Lewis acid catalyst).<br>2. <strong>Mechanism</strong>:<br>   - \\(AlCl_3\\) activates \\(CH_3COCl\\) to form electrophilic \\(CH_3CO^+\\) (acylium ion).<br>   - Benzene attacks the acylium ion, forming a ketone (<strong>acetophenone</strong>).<br>3. <strong>Product</strong>: \\(C_6H_5COCH_3\\) (phenylethanone) — a benzene ring with a –COCH₃ group attached."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Aromatic Compounds",
+      "Molecular Structure",
+      "Electrophilic Aromatic Substitution"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2014/2015",
+    "Question": {
+      "content": "\\(CH_3CH=CH_2 + HBr \\xrightarrow{\\text{Peroxides}} ?\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1-bromopropane (\\(CH_3CH_2CH_2Br\\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Anti-Markovnikov Addition (Peroxide Effect):</strong><br><br>1. <strong>Role of peroxides</strong>: Initiates free-radical mechanism, reversing the usual Markovnikov addition.<br>2. <strong>Mechanism</strong>:<br>   - Peroxide breaks into radicals, causing HBr to add as H⁺ and Br•.<br>   - Br• attaches to the <em>less substituted</em> carbon (C1), forming <strong>1-bromopropane</strong>.<br>3. <strong>Contrast</strong>: Without peroxides, the product would be 2-bromopropane (Markovnikov's rule)."
+    },
+    "topic": [
+      "Alkenes and Alkynes Reactions",
+      "Radical Reactions",
+      "Functional Groups",
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2014/2015",
+    "Question": {
+      "content": "During heterolytic fission of a carbon-carbon bond, the possible carbon species formed are ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbocation & Carbanion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Heterolytic Fission Explained:</strong><br><br>1. <strong>Definition</strong>: Unequal cleavage of a bond where one atom keeps both electrons.<br>2. <strong>Products</strong>:<br>   - <strong>Carbocation</strong> (C⁺): Carbon with 6 valence electrons (electron-deficient).<br>   - <strong>Carbanion</strong> (C⁻): Carbon with 8 valence electrons (electron-rich).<br>3. <strong>Example</strong>: \\(CH_3-Br \rightarrow CH_3^+ + Br^-\\) (carbocation formation)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding",
+      "Reaction Intermediates"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2014/2015",
+    "Question": {
+      "content": "For different hybridized carbon atoms, the carbon-carbon bond length increases as the s-character increases.",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Hybridization and Bond Length:</strong><br><br>1. <strong>Trend</strong>: Higher s-character → <em>shorter</em> bond length.<br>   - \\(sp^3\\) (25% s): Longest bond (e.g., ethane, 1.54 Å).<br>   - \\(sp^2\\) (33% s): Intermediate (e.g., ethene, 1.33 Å).<br>   - \\(sp\\) (50% s): Shortest bond (e.g., ethyne, 1.20 Å).<br>2. <strong>Reason</strong>: s-orbitals hold electrons closer to the nucleus, increasing bond strength and shortening length."
+    },
+    "topic": [
+      "Hybridization",
+      "Chemical Bonding",
+      "Molecular Structure",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2014/2015",
+    "Question": {
+      "content": "An organic compound and dry CuO was heated in a tube. A colourless gas, which when passed through \\(Ca(OH)_2\\) solution gave a cloudy solution and a vapour which condensed in the tube were observed. Identify (a) colourless gas and (b) the vapour",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(a) Carbon (IV) oxide \\(CO_2(g)\\) <br> (b) Water vapour \\(H_2O(g)\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Combustion Analysis:</strong><br><br>1. <strong>Process</strong>: Heating organic compounds with CuO is a test for <em>carbon and hydrogen</em>.<br>2. <strong>Observations</strong>:<br>   - Cloudy \\(Ca(OH)_2\\) solution confirms \\(CO_2\\) (forms \\(CaCO_3\\) precipitate).<br>   - Condensed vapour is \\(H_2O\\) from hydrogen combustion.<br>3. <strong>Chemical Reactions</strong>:<br>   - \\(C + 2CuO \\rightarrow CO_2 + 2Cu\\)<br>   - \\(H_2 + CuO \\rightarrow H_2O + Cu\\)"
+    },
+    "topic": [
+      "Elemental Composition",
+      "Combustion",
+      "Oxidation Reactions",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2014/2015",
+    "Question": {
+      "content": "What type of reaction is shown in the transformation below <img class='imgAns thumbnail' src='https://lh3.googleusercontent.com/d/1b-Br2T1wg-XHQHk1NzW56vE9S4wI_PPo'>",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleophilic substitution reaction (Br is substituted with SH)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Reaction Mechanism:</strong><br><br>1. <strong>Type</strong>: \\(S_N2\\) nucleophilic substitution.<br>2. <strong>Process</strong>:<br>   - Thiol group (SH⁻) acts as nucleophile.<br>   - Bromine (Br) is the leaving group.<br>3. <strong>Key Features</strong>:<br>   - Inversion of configuration at carbon center.<br>   - One-step bimolecular reaction."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Chemical Reactions",
+      "Electrophilic Addition Reactions",
+      "Nucleophilic Substitution",
+      "Elimination Reactions",
+      "Oxidation Reactions",
+      "Radical Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 29 @ 2014/2015",
+    "Question": {
+      "content": "What type of reagent would accept electrons in a reaction or attack a substrate at a point of high electron density?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electrophile"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Electrophiles Explained:</strong><br><br>1. <strong>Definition</strong>: Electron-deficient species that attack electron-rich centers.<br>2. <strong>Examples</strong>:<br>   - \\(H^+\\), \\(Br^+\\), \\(AlCl_3\\), carbocations.<br>3. <strong>Behavior</strong>:<br>   - Accept electron pairs during bond formation.<br>   - Attack π bonds or lone pairs (e.g., in alkenes or aromatic rings)."
+    },
+    "topic": [
+      "Electrophilicity",
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding",
+      "Electrophilic Addition Reactions",
+      "Electrophilic Aromatic Substitution",
+      "Functional Groups"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2014/2015",
+    "Question": {
+      "content": "Name the process used to separate petroleum into useful fractions",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fractional distillation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Petroleum Refining Process:</strong><br><br>1. <strong>Principle</strong>: Separation based on boiling point differences.<br>2. <strong>Apparatus</strong>: Fractionating column with temperature gradient (20-400°C).<br>3. <strong>Key Stages</strong>:<br>   - Vaporization at 350-400°C<br>   - Condensation at different heights<br>   - Collection of fractions (LPG, gasoline, kerosene, etc.)"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Physical Properties",
+      "Alkanes and Cycloalkanes",
+      "Fractional Distillation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2014/2015",
+    "Question": {
+      "content": "A \\(C_6H_{12}\\) hydrocarbon reacts with ozone to yield a single product \\(C_3H_6O\\) which is identified as a ketone. Give the structure of the hydrocarbon",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1bHHQ2ROkBILktlhZOqG3bU8AZZfNsqAe",
+      "alt": "2,3-Dimethylbut-2-ene structure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Ozonolysis Mechanism:</strong><br><br>1. <strong>Reactant Analysis</strong>:<br>   - \\(C_6H_{12}\\) suggests cyclohexane or hexene.<br>   - Single ketone product implies symmetrical alkene.<br>2. <strong>Product Formation</strong>:<br>   - 2,3-dimethylbut-2-ene → 2 molecules of acetone (\\(CH_3COCH_3\\))<br>3. <strong>Reaction</strong>:<br>   \\( (CH_3)_2C=C(CH_3)_2 + O_3 → 2CH_3COCH_3 \\)<br>4. <strong>Key Point</strong>: Symmetrical alkenes produce identical carbonyl compounds."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Molecular Structure",
+      "Alkenes and Alkynes Reactions",
+      "Oxidation Reactions",
+      "Functional Groups",
+      "Chemical Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2014/2015",
+    "Question": {
+      "content": "Give the name of reagent used to distinguish terminal alkyne such as \\(CH_3CH_2C≡CH\\) from internal alkyne \\(CH_3C≡CCH_3\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tollens' reagent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Terminal vs Internal Alkyne Test:</strong><br><br>1. <strong>Tollens' Reagent</strong>: \\([Ag(NH_3)_2]^+OH^-\\)<br>2. <strong>Reaction</strong>:<br>   - Terminal alkynes (\\(R-C≡CH\\)) form silver acetylide precipitate (white).<br>   - Internal alkynes (\\(R-C≡C-R'\\)) show no reaction.<br>3. <strong>Chemical Test</strong>:<br>   \\( CH_3CH_2C≡CH + [Ag(NH_3)_2]^+ → CH_3CH_2C≡CAg↓ + 2NH_3 \\)<br>4. <strong>Alternative</strong>: Cuprous ammonium chloride also works similarly."
+    },
+    "topic": [
+      "Alkenes and Alkynes Reactions",
+      "Functional Groups",
+      "Chemical Reactions",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2013/2014",
+    "Question": {
+      "content": "What are the chemicals produced from the reaction of octane with excess oxygen?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbon dioxide (CO₂) and water (H₂O)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Complete Combustion of Octane:</b><br>\\[C_8H_{18(g)} + \\frac{25}{2}O_{2(g)} \\rightarrow 8CO_{2(g)} + 9H_2O_{(l)}\\]<br><br><b>Key Points:</b><br>• <b>Products:</b> CO₂ (greenhouse gas) and H₂O (liquid).<br>• <b>Conditions:</b> Excess oxygen ensures complete combustion (no CO or soot).<br>• <b>Stoichiometry:</b> 1 mol octane requires 12.5 mol O₂ for full oxidation.<br>• <b>Energy:</b> Exothermic reaction (releases heat, used in engines).<br><br><b>Note:</b> Incomplete combustion (limited O₂) produces toxic carbon monoxide (CO)."
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes (Conformations and Reactions)",
+      "Organic Chemistry Fundamentals",
+      "Combustion Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2013/2014",
+    "Question": {
+      "content": "When equal volumes of hexane and water are shaken in a separating funnel then left to stand, which liquid forms the lower layer?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Water"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Key Concepts:</b><br>• <b>Immiscibility:</b> Hexane (nonpolar) and water (polar) do not mix.<br>• <b>Density:</b> Water (1 g/mL) is denser than hexane (~0.66 g/mL).<br>• <b>Layer Formation:</b> The denser liquid (water) sinks to the bottom, while hexane floats on top.<br><br><b>Practical Note:</b> This principle is used in liquid-liquid extractions in chemistry."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Physical Properties of Liquids"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2013/2014",
+    "Question": {
+      "content": "Draw structures for two different classes of hydrocarbons with the molecular formula C₃H₄",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "diagram of Propyne (alkyne F.G) and 1,2-propadiene (Diene F.G)",
+      "content": "https://lh3.googleusercontent.com/d/1VuFl4G-VbWOrftAOABCSFhDSD58Uw-nd"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "1. <b>Propyne</b> (Alkyne): CH≡C-CH₃<br>2. <b>1,2-Propadiene</b> (Allene): CH₂=C=CH₂ <br> <br> <b>Isomers of C₃H₄:</b><br>1. <b>Propyne</b> (Alkyne Functional Group):<br>   • Structure: CH≡C-CH₃ (triple bond at C1).<br>   • Class: Terminal alkyne (acidic H).<br><br>2. <b>1,2-Propadiene</b> (Allene/Diene):<br>   • Structure: CH₂=C=CH₂ (cumulated double bonds).<br>   • Class: Unstable due to bond strain; reacts readily.<br><br><b>Key Difference:</b> Bond arrangement (triple vs. cumulated double)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Bonding and Molecular Structure",
+      "Isomerism (Structural and Stereoisomerism)",
+      "Alkenes (Structure, Reactions, Electrophilic Addition)",
+      "Alkynes (Structure, Reactions)",
+      "Hydrocarbons"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2013/2014",
+    "Question": {
+      "content": "Name the structure of the product of the reaction of 3-methyl-2-pentene with HBr/(CH₃O)₂",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2-Bromo-3-methylpentane",
+      "content": "https://lh3.googleusercontent.com/d/1W5gWU5a4blBkKsx5ZObUG_iEskioZiWG"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Reaction Mechanism (Markovnikov Addition):</b><br>1. <b>Electrophilic Attack:</b> H⁺ from HBr adds to the less substituted carbon (C2), forming a carbocation at C3.<br>2. <b>Nucleophilic Attack:</b> Br⁻ attacks the carbocation (C3).<br><br><b>Product:</b> CH₃-CH(Br)-CH(CH₃)-CH₂-CH₃<br><b>Name:</b> 2-Bromo-3-methylpentane<br><br><b>Note:</b> (CH₃O)₂ (dimethyl ether) acts as a polar solvent but doesn't alter the product."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Nomenclature of Organic Compounds",
+      "Alkenes (Structure, Reactions, Electrophilic Addition)",
+      "Radical Addition"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2013/2014",
+    "Question": {
+      "content": "The oxidation of compound Y with cold alkaline potassium permanganate gives Butane-2,3-diol. Give the name and structure of Y",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "But-2-ene (CH₃-CH=CH-CH₃)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Mechanism:</b><br>1. <b>Reaction Type:</b> Syn-hydroxylation of alkenes with cold alkaline KMnO₄.<br>2. <b>Process:</b> Two OH groups add across the double bond of But-2-ene.<br>3. <b>Structural Change:</b><br>   • Reactant (Y): CH₃-CH=CH-CH₃ (But-2-ene)<br>   • Product: CH₃-CH(OH)-CH(OH)-CH₃ (Butane-2,3-diol)<br><br><b>Key Points:</b><br>• Cold/alkaline conditions prevent C=C bond cleavage (vs. hot KMnO₄).<br>• Stereochemistry: Forms a meso compound (if cis-But-2-ene) or racemic mixture (if trans).<br>• Reverse logic: Removing the two OH groups from the diol reveals the original alkene."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkenes (Structure, Reactions, Electrophilic Addition)",
+      "Functional Groups and Their Properties",
+      "Nomenclature of Organic Compounds",
+      "Stereochemistry (Chirality, R/S Configuration)",
+      "Oxidation Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2013/2014",
+    "Question": {
+      "content": "Give the structure of; 4-cyclopentyl-3-ethyl-4-(1-propyl) heptane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1WEm-eOPIdw12neZCPAYxyZYl-as-P26P",
+      "alt": "ans"
+    },
+    "Explanation": {
+      "type": "img",
+      "alt": "ans",
+      "content": "https://lh3.googleusercontent.com/d/1WEm-eOPIdw12neZCPAYxyZYl-as-P26P"
+    },
+    "topic": [
+      "Nomenclature of Organic Compounds",
+      "Alkanes and Cycloalkanes",
+      "Hydrocarbons",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2013/2014",
+    "Question": {
+      "content": "Name the product of oxidation of 1-propylbenzene with KMnO₄",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "propyl benzene => (Benzoic acid) ",
+      "content": "https://lh3.googleusercontent.com/d/1WFVMgXc-bS6OptWIsFmhmUCN2gJL_a10"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<h3>Benzoic acid (C₆H₅-COOH)</h3> <b>Oxidation Mechanism:</b><br>1. <b>Reactant:</b> 1-Propylbenzene (C₆H₅-CH₂-CH₂-CH₃)<br>2. <b>Reagent:</b> KMnO₄ (strong oxidizing agent)<br>3. <b>Process:</b><br>   • The alkyl side chain (propyl group) is completely oxidized<br>   • Regardless of side chain length, forms benzoic acid<br>4. <b>Product:</b> Benzoic acid (C₆H₅-COOH)<br><br><b>Key Points:</b><br>• Requires <i>heated</i> KMnO₄ for complete oxidation<br>• The entire side chain is converted to carboxyl group<br>• If under milder conditions, stops at phenylalkanoic acid intermediate"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Hydrocarbons",
+      "Aromatic Compounds",
+      "Functional Groups and Their Properties",
+      "Oxidation Reactions",
+      "Nomenclature of Organic Compounds"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 13 @ 2013/2014",
+    "Question": {
+      "content": "In a compound containing C, H, and O only, how could you determine quantitatively the percentage of oxygen in the compound?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( \\text{%O} = \\frac{ \\text{mass of O}}{\\text{total mass of compound} } \\times 100\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Experimental Methods:</b><br>1. <b>Combustion Analysis:</b><br>   • Burn compound to measure CO₂ (for %C) and H₂O (for %H)<br>   • Oxygen % = 100 - (%C + %H)<br>2. <b>Mass Difference:</b><br>   • Measure total mass<br>   • Subtract measured masses of C and H<br>3. <b>Instrumental Methods:</b><br>   • Elemental analysis (CHN analyzer)<br>   • Mass spectrometry<br><br><b>Example Calculation:</b><br>For ethanol (C₂H₅OH):<br>Molar mass = 46 g/mol<br>%O = (16/46) × 100 = 34.78%"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Combustion Reactions",
+      "Elemental Analysis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2013/2014",
+    "Question": {
+      "content": "A reagent that attacks a substrate at a centre deficient of electrons is called...",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleophile"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Key Concepts:</b><br>• <b>Electrophile</b>: Electron-deficient center (e.g., carbocations, carbonyl carbons)<br>• <b>Nucleophile</b>: Electron-rich species that donates electrons to electrophiles<br><br><b>Examples:</b><br>• Nucleophiles: OH⁻, NH₃, CN⁻, H₂O<br>• Electrophiles: H⁺, BF₃, CH₃⁺<br><br><b>Mechanism:</b> Nucleophiles attack electrophiles in substitution/addition reactions (e.g., SN₂ reactions)"
+    },
+    "topic": [
+      "Nucleophiles",
+      "Organic Chemistry Fundamentals",
+      "Introduction to Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2013/2014",
+    "Question": {
+      "content": "The reaction of 2-butene and I₂ to give 2,3-diiodobutane is what type of reaction?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electrophilic addition reaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Reaction Details:</b><br>1. <b>Type:</b> Electrophilic addition (halogenation)<br>2. <b>Mechanism:</b><br>   • Step 1: π-electrons of C=C attack I₂ → cyclic iodonium ion<br>   • Step 2: I⁻ opens the ring → anti-addition product<br>3. <b>Product:</b> meso-2,3-diiodobutane (stereospecific)<br>4. <b>Key Feature:</b> Trans addition across double bond<br><br><b>Equation:</b><br>CH₃-CH=CH-CH₃ + I₂ → CH₃-CH(I)-CH(I)-CH₃"
+    },
+    "topic": [
+      "Alkenes (Structure, Reactions, Electrophilic Addition)",
+      "Organic Chemistry Fundamentals",
+      "Halogenation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2013/2014",
+    "Question": {
+      "content": "Draw and name the product of the reaction of cyclohexane with bromine",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Cyclohexene + Br => 1,5-dionocyclohexane",
+      "content": "https://lh3.googleusercontent.com/d/1WKR94GM4LlmBIEgxMmPjBy2olTRKIaWR"
+    },
+    "Explanation": {
+      "type": "img",
+      "alt": "Cyclohexene + Br => 1,5-dionocyclohexane",
+      "content": "https://lh3.googleusercontent.com/d/1WKR94GM4LlmBIEgxMmPjBy2olTRKIaWR"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry",
+      "Hydrocarbons",
+      "Alkanes and Cycloalkanes (Conformations and Reactions)",
+      "Halogenation",
+      "Radical Substitution",
+      "Haloalkanes",
+      "Functional Groups and Their Properties",
+      "Nomenclature of Organic Compounds"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2013/2014",
+    "Question": {
+      "content": "For a compound to be classified as heterocyclic, it must have two important features. What are these features?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Cyclic (ring) structure<br>2. At least one heteroatom in the ring"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Heterocyclic Compounds Defined:</b><br>• <b>Cyclic Structure:</b> Must contain closed ring of atoms (3+ members)<br>• <b>Heteroatom:</b> Non-carbon atom in the ring (O, N, S most common)<br><br><b>Examples:</b><br>• Pyridine (C₅H₅N) - 6-membered ring with nitrogen<br>• Furan (C₄H₄O) - 5-membered ring with oxygen<br><br><b>Contrast:</b> Homocyclic compounds contain only carbon in the ring (e.g., benzene)"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Bonding and Molecular Structure",
+      "Functional Groups and Their Properties",
+      "Heterocyclic Compounds"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2013/2014",
+    "Question": {
+      "content": "What type of carbon species are formed during homolytic fission?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbon free radicals (•R)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Homolytic Fission Mechanism:</b><br>1. <b>Process:</b> Covalent bond breaks symmetrically<br>   A:B → A• + •B<br>2. <b>Carbon Radical Formation:</b><br>   • Each fragment retains one electron (odd e⁻ count)<br>   • Highly reactive intermediates<br>3. <b>Example:</b><br>   CH₃-CH₃ → 2CH₃• (methyl radicals)<br><br><b>Key Features:</b><br>• Requires energy (heat/UV light)<br>• Important in combustion/polymerization<br>• Contrast with heterolytic fission (ions)"
+    },
+    "topic": [
+      "Radicals",
+      "Introduction to Reaction Mechanisms",
+      "Bonding and Molecular Structure",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2013/2014",
+    "Question": {
+      "content": "Give the product of the reaction of 2-methylbut-1-ene with \\(H_2/Ni\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2-methylbutane (CH₃-CH₂-CH(CH₃)-CH₃)",
+      "content": "https://lh3.googleusercontent.com/d/1W0YxHoWUW-D7acrpmf7_xVqbJjngb6ir"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Hydrogenation Reaction Mechanism:</b><br>1. <b>Reactant:</b> 2-methylbut-1-ene (CH₂=C(CH₃)-CH₂-CH₃)<br>2. <b>Catalyst:</b> Nickel (Ni) metal surface<br>3. <b>Process:</b> Syn-addition of H₂ across the C=C double bond<br>4. <b>Product:</b> 2-methylbutane (saturated alkane)<br><br><b>Key Features:</b><br>• <b>Stereochemistry:</b> Occurs on metal surface (cis-addition)<br>• <b>Conditions:</b> Typically requires heat/pressure<br>• <b>Energy:</b> Exothermic (releases ~120 kJ/mol)<br><br><b>Equation:</b><br>CH₂=C(CH₃)-CH₂-CH₃ + H₂ → CH₃-CH₂-CH(CH₃)-CH₃"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkenes (Structure, Reactions, Electrophilic Addition)",
+      "Nomenclature of Organic Compounds",
+      "Hydrocarbons",
+      "Alkanes and Cycloalkanes (Conformations and Reactions)",
+      "Hydrogenation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2013/2014",
+    "Question": {
+      "content": "The ability of carbon to react with itself to form longer chains is known as______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Catenation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Catenation Definition:</b><br>• Carbon's unique ability to form covalent bonds with other carbon atoms<br>• Creates chains (straight/branched) or rings of varying lengths<br><br><b>Why Carbon Excels:</b><br>1. <b>Bond Strength:</b> C-C bonds (348 kJ/mol) are optimally strong<br>2. <b>Tetravalency:</b> Forms 4 stable covalent bonds<br>3. <b>Hybridization:</b> sp³/sp²/sp orbital flexibility<br><br><b>Examples:</b><br>• Ethane (C-C)<br>• Polyethylene (-C-C-)<sub>n</sub><br>• Buckminsterfullerene (C<sub>60</sub>)"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Bonding and Molecular Structure",
+      "Hydrocarbons",
+      "Alkanes and Cycloalkanes",
+      "Catenation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 25 @ 2013/2014",
+    "Question": {
+      "content": "To a weighed sample of an unknown organic compound was added a mixture of concentrated HNO₃ and solid AgNO₃ in a sealed tube and heated. The tube was cooled and broken into water. When filtered, a bright yellow precipitate was obtained. Identify the precipitate",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Silver iodide (AgI)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Beilstein Test Modification:</b><br>1. <b>Process:</b><br>   • HNO₃ oxidizes organic material, releasing halides<br>   • AgNO₃ reacts with halides → colored precipitates<br>2. <b>Precipitate Colors:</b><br>   • <b>White:</b> AgCl (chloride)<br>   • <b>Pale Yellow:</b> AgBr (bromide)<br>   • <b>Bright Yellow:</b> AgI (iodide)<br>3. <b>Chemistry:</b><br>   R-I + HNO₃ → I⁻ + oxidation products<br>   I⁻ + Ag⁺ → AgI↓ (K<sub>sp</sub> = 8.3×10<sup>-17</sup>)<br>4. <b>Confirmation:</b> Precipitate insoluble in NH₃(aq)"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Elemental Analysis",
+      "Oxidation Reactions",
+      "Functional Groups and Their Properties",
+      "Haloalkanes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2013/2014",
+    "Question": {
+      "content": "A compound contains 22.2% carbon, 4.6% hydrogen and 73.2% bromine. If the molecular mass is 109, calculate its molecular formula",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Molecular formula = \\[C_2H_5Br\\] (Bromoethane)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Step 1: Assume 100g sample</b><br>\\[ C = 22.2g,\\ H = 4.6g,\\ Br = 73.2g \\]<br><br><b>Step 2: Convert to moles</b><br>\\[ \\text{Moles C} = \\frac{22.2}{12.01} = 1.85 \\]<br>\\[ \\text{Moles H} = \\frac{4.6}{1.01} = 4.55 \\]<br>\\[ \\text{Moles Br} = \\frac{73.2}{79.90} = 0.916 \\]<br><br><b>Step 3: Determine simplest ratio</b><br>Divide by smallest value (0.916):<br>\\[ C = \\frac{1.85}{0.916} \\approx 2 \\]<br>\\[ H = \\frac{4.55}{0.916} \\approx 5 \\]<br>\\[ Br = 1 \\]<br><br><b>Step 4: Empirical formula</b><br>\\[ C_2H_5Br \\]<br><br><b>Step 5: Verify molecular mass</b><br>\\[ (2\\times12.01) + (5\\times1.01) + 79.90 = 109\\ \\text{g/mol} \\]<br>\\[ \\therefore \\text{Molecular formula} = C_2H_5Br \\]"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Elemental Analysis",
+      "Molecular Formula"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2013/2014",
+    "Question": {
+      "content": "Which of the following functional groups is out of place? Carboxyl group; Carbonyl group; Amide group; Hydroxyl group",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hydroxyl group (-OH)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Key Observation:</b><br>• <b>Common Feature:</b> Carboxyl (\\[-COOH\\]), carbonyl (\\[C=O\\]), and amide (\\[-CONH_2\\]) groups all contain a <b>carbonyl (C=O)</b> moiety<br>• <b>Outlier:</b> Hydroxyl group (\\[-OH\\]) lacks a carbonyl group<br><br><b>Structural Comparison:</b><br>1. Carboxyl: \\[R-COOH\\] (contains \\[C=O\\])<br>2. Carbonyl: \\[R-CO-R'\\]<br>3. Amide: \\[R-CONH_2\\]<br>4. Hydroxyl: \\[R-OH\\] (no C=O)"
+    },
+    "topic": [
+      "Functional Groups and Their Properties",
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2013/2014",
+    "Question": {
+      "content": "Calculate the unsaturation equivalent or index of hydrogen deficiency in:<br>(i) \\(C_4H_{11}NSO\\)<br>(ii) \\(C_7H_{10}BrClO\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(i) 0<br>(ii) 2"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Formula:</b> \\(IHD = \\frac{2C + 2 + N - H - X}{2}\\)<br> (where X = halogens)<br><br><b>(i) \\(C_4H_{11}NSO\\):</b><br>• Count: 4C, 11H, 1N, 1S (O ignored)<br>• Calculation: \\(\\frac{(2\\times4) + 2 + 1 - 11}{2} = 0\\)<br>• <b>Interpretation:</b> No rings/double bonds (saturated)<br><br><b>(ii) \\(C_7H_{10}BrClO\\):</b><br>• Count: 7C, 10H, 1Br, 1Cl (O ignored)<br>• Calculation: \\(\\frac{(2\\times7) + 2 - 10 - 1 - 1}{2} = 2\\)<br>• <b>Possible structures:</b> Could indicate 3 rings, 3 double bonds, 1 triple bond + 1 double bond, or combinations"
+    },
+    "topic": [
+      "Index of Hydrogen Deficiency",
+      "Organic Chemistry Fundamentals",
+      "Molecular Formula",
+      "Bonding and Molecular Structure"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 29 @ 2013/2014",
+    "Question": {
+      "content": "Suggest the types of hybrid orbitals you will find in a compound with molecular formula (C₄H₈S)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sp³ (tetrahedral) and sp² (trigonal planar)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Analysis:</b><br>1. <b>IHD = 1</b> (implies one double bond or ring)<br>2. <b>Possible Structures:</b><br>   • Thiophene (cyclic): sp² at all carbons and sulfur<br>   • Thioether with double bond: sp³ at saturated C/S, sp² at C=C<br>3. <b>Typical Hybridization:</b><br>   • Sulfur in thioethers: sp³<br>   • Carbon in double bonds: sp²<br>   • Carbon in single bonds: sp³"
+    },
+    "topic": [
+      "Bonding and Molecular Structure",
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Molecular Formula",
+      "Functional Groups and Their Properties",
+      "Hybridization"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2013/2014",
+    "Question": {
+      "content": "The m.pt for two samples of a compound was taken. One sample gave 80-85°C and another 81°C. Which is purer?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sample with sharp melting point (81°C)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Purity Indicators:</b><br>1. <b>Pure Compounds:</b> Melt within 0.5-1°C range<br>2. <b>Impure Compounds:</b> Broader range (80-85°C shows impurities)<br>3. <b>Scientific Principle:</b> Impurities depress and broaden melting point<br>4. <b>Application:</b> 81°C sample is >99% pure, while 80-85°C sample contains impurities"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Physical Properties of Liquids",
+      "Purity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2013/2014",
+    "Question": {
+      "content": "8.0 cm³ of gaseous hydrocarbon, X, was exploded with 54.0 cm³ of oxygen. The volume of the gaseous product after cooling to room temperature was 38.0 cm³, of which 6.0 cm³ remained after treatment with aqueous KOH. <br>(i) What volume of carbon (IV) oxide formed? <br>(ii) What volume of oxygen reacted? <br>(iii) what is the formula of X?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(i) 32.0 cm³ \\(CO_2\\) <br>(ii) 48.0 cm³ \\(O_2\\) <br>(iii) \\(C_4H_8\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Combustion Analysis Steps:</b><br><br><b>(i) Volume of \\[CO_2\\] formed:</b><br>\\[ \\text{Total gas after reaction} = 38.0\\,cm^3 \\]<br>\\[ \\text{Remaining gas after KOH} = 6.0\\,cm^3 \\ \\text{(unreacted } O_2\\text{)} \\]<br>\\[ \\text{Volume } CO_2 = 38.0 - 6.0 = \\boxed{32.0\\,cm^3} \\]<br><br><b>(ii) Volume of \\[O_2\\] reacted:</b><br>\\[ \\text{Initial } O_2 = 54.0\\,cm^3 \\]<br>\\[ \\text{Unreacted } O_2 = 6.0\\,cm^3 \\]<br>\\[ \\text{Reacted } O_2 = 54.0 - 6.0 = \\boxed{48.0\\,cm^3} \\]<br><br><b>(iii) Determine \\[C_xH_y\\] formula:</b><br><b>Step 1: Mole ratio from \\[CO_2\\]</b><br>\\[ \\frac{32.0\\,cm^3}{8.0\\,cm^3} = 4 \\ \\text{(4 C atoms per molecule)} \\]<br><b>Step 2: Balance oxygen atoms</b><br>General equation: \\[ C_xH_y + \\left(x + \\frac{y}{4}\\right)O_2 \\rightarrow xCO_2 + \\frac{y}{2}H_2O \\]<br>\\[ \\text{Volume ratio } O_2:CO_2 = 48:32 = 3:2 \\]<br>\\[ x + \\frac{y}{4} = 6 \\ \\text{and} \\ x = 4 \\]<br>\\[ 4 + \\frac{y}{4} = 6 \\Rightarrow y = 8 \\]<br>\\[ \\text{Formula} = \\boxed{C_4H_8} \\]"
+    },
+    "topic": [
+      "Combustion Reactions",
+      "Hydrocarbons",
+      "Molecular Formula",
+      "Elemental Analysis",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2013/2014",
+    "Question": {
+      "content": "Give two spectroscopic techniques used in identification of organic compounds",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Infrared (IR) spectroscopy <br>. Nuclear Magnetic Resonance (NMR) spectroscopy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Infrared Spectroscopy:</b><br>• Measures absorption of IR radiation by molecular vibrations <br>• Functional group identification via characteristic frequencies (e.g., \\( C=O \\  \\approx 1700cm^{-1}\\) )<br> <br><b>NMR Spectroscopy:</b> <br>• Analyzes nuclear spin transitions in magnetic fields  <br>• \\(^1H\\) NMR reveals hydrogen environments (chemical shifts \\(\\delta\\) in ppm)  <br>• \\(^{13}C\\) NMR shows carbon skeleton <br> <br><u>Other Techniques:</u> <br>• Mass spectrometry (molecular weight/fragmentation) <br>• UV-Vis spectroscopy (conjugated systems)"
+    },
+    "topic": [
+      "Basic Spectroscopy for Structure Elucidation (IR, NMR, MS)",
+      "Organic Chemistry Fundamentals",
+      "Structure Elucidation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2013/2014",
+    "Question": {
+      "content": "In the analysis of a hydrocarbon, a known weight was mixed with dry copper oxide and heated. The evolved gas turned calcium hydroxide solution cloudy. Which gas was evolved?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbon dioxide \\( CO_2\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Combustion Analysis:</b> <br>1. <b>Reaction:</b>  <br> \\( C_xH_y + CuO \\rightarrow (\\Delta) xCO_2 + \\frac{y}{2}H_2O + Cu \\) <br>2. <b>Gas Test:</b>  <br> \\( CO_{2(g)} + Ca(OH)_{2(aq)} \\rightarrow CaCO_3(s)↓ + H_2O_{(l)} \\) <br> <i>•Observation:</i> White precipitate \\(CaCO_3\\) causes cloudiness <br> <br><b>Key Points:</b> <br>• Copper oxide (\\(CuO\\)) oxidizes hydrocarbon <br>• Only \\(CO_2\\) produces this result with limewater <br>• Quantitative analysis possible by measuring \\(CO_2\\) mass "
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Hydrocarbons",
+      "Combustion Reactions",
+      "Elemental Analysis",
+      "Oxidation Reactions"
+    ]
+  }
+]
