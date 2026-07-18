@@ -1,0 +1,185 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM_132.2",
+    "session": "Chemical Bonding and Molecular Structure",
+    "time": 90,
+    "topics": [
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Alkyl Halides: Substitution and Elimination Reactions",
+      "Aromatic Compounds and Electrophilic Aromatic Substitution",
+      "Chemical Bonding and Molecular Structure",
+      "Functional Groups",
+      "Introduction to Organic Spectroscopy (IR, NMR, MS)",
+      "Isomerism and Stereochemistry",
+      "Organic Acids and Bases",
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Organic Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2021/2022",
+    "Question": {
+      "content": "Underline the compound that bears the shortest carbon-carbon bond length among the following cyclopentane, methane, heptyne, 2,2-dimethylpentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "heptyne"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Bond length depends on bond order:<br/>- Single bonds (C-C) are longest (~1.54 Å)<br/>- Double bonds (C=C) are shorter (~1.34 Å)<br/>- Triple bonds (C≡C) are shortest (~1.20 Å)<br/><br/>Heptyne contains a <b>carbon-carbon triple bond</b>, while the others have only single bonds."
+    },
+    "topic": [
+      "Chemical Bonding and Molecular Structure",
+      "Alkanes and Cycloalkanes",
+      "Alkynes and their Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2021/2022",
+    "Question": {
+      "content": "When numbered accordingly, what is the hybridization of the fourth carbon in 1-butene?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sp³"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "1-butene structure: CH₂=CH-CH₂-CH₃<br/><br/>Numbering the carbons:<br/>1 (sp², double bond)<br/>2 (sp², double bond)<br/>3 (sp³, single bonds)<br/>4 (sp³, single bonds)<br/><br/>The fourth carbon (CH₃ group) forms 4 single bonds → <b>sp³ hybridized</b> (tetrahedral geometry)."
+    },
+    "topic": [
+      "Chemical Bonding and Molecular Structure",
+      "Organic Nomenclature",
+      "Alkenes and Electrophilic Addition Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2021/2022",
+    "Question": {
+      "content": "All hydrocarbons are insoluble in water. True or False",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydrocarbons are nonpolar molecules, while water is polar. The general rule is 'like dissolves like'.<br/><br/>Even small hydrocarbons like methane (CH₄) have negligible solubility in water because they cannot form hydrogen bonds with water molecules."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Chemical Bonding and Molecular Structure",
+      "Solubility"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2021/2022",
+    "Question": {
+      "content": "Circle the specie(s) that is/are not electrophile(s) among the following: \\( NH_3 \\), \\( CH_3 \\), RO, BF",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( NH_3 \\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Electrophiles</b> are electron-deficient species that accept electrons:<br/>- \\( CH_3^+ \\) (carbocation) - electrophile<br/>- RO⁻ (alkoxide ion) - nucleophile<br/>- BF₃ (boron trifluoride) - electrophile<br/>- <b>\\( NH_3 \\)</b> has a lone pair → nucleophile (not electrophile)"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Acids, Bases, and Reaction Mechanisms",
+      "Electron Donors",
+      "Chemical Bonding and Molecular Structure",
+      "Electrophiles"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2021/2022",
+    "Question": {
+      "content": "What is the value of the \\( H - C - H \\) bond angle as found in methane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "109.5°"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Methane (\\( CH_4 \\)) has <b>tetrahedral geometry</b>:<br/>- Carbon is sp³ hybridized<br/>- Four identical C-H bonds<br/>- Perfect tetrahedral angle = 109.5°<br/><br/>This angle minimizes repulsion between bonding electron pairs (VSEPR theory)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Chemical Bonding and Molecular Structure",
+      "Alkanes and Cycloalkanes",
+      "Molecular Geometry",
+      "Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2021/2022",
+    "Question": {
+      "content": "Arrange n-butane, cyclobutene and methylpropane in an increasing order of boiling points",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "methylpropane < n-butane < cyclobutene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Boiling points depend on:<br/>1. <b>Molecular shape</b>: Branched chains (methylpropane) have weaker London forces than straight chains (n-butane)<br/>2. <b>Polarity</b>: Cyclobutene's double bond creates slight polarity → higher bp<br/><br/>Boiling points:<br/>- methylpropane (isobutane): -11.7°C<br/>- n-butane: -0.5°C<br/>- cyclobutene: 2-4°C"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Electrophilic Addition Reactions",
+      "Organic Nomenclature",
+      "Chemical Bonding and Molecular Structure",
+      "Boiling Points"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2021/2022",
+    "Question": {
+      "content": "How many secondary hydrogens are there in 2,2-dimethylpropane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydrogen classification:<br/>- <b>Primary (1°)</b>: Attached to carbon bonded to one other carbon<br/>- <b>Secondary (2°)</b>: Attached to carbon bonded to two carbons<br/><br/>2,2-dimethylpropane (neopentane) structure:<br/>&nbsp;&nbsp;&nbsp;&nbsp;CH₃<br/>&nbsp;&nbsp;&nbsp;&nbsp;|<br/>CH₃-C-CH₃<br/>&nbsp;&nbsp;&nbsp;&nbsp;|<br/>&nbsp;&nbsp;&nbsp;&nbsp;CH₃<br/>All hydrogens are <b>primary</b> (attached to terminal -CH₃ groups)."
+    },
+    "topic": [
+      "Organic Nomenclature",
+      "Alkanes and Cycloalkanes",
+      "Structure Drawing",
+      "Chemical Bonding and Molecular Structure"
+    ]
+  }
+]
