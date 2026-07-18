@@ -1,0 +1,278 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM_132.2",
+    "session": "Organic Nomenclature (IUPAC)",
+    "time": 90,
+    "topics": [
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Alkyl Halides: Substitution and Elimination Reactions",
+      "Aromatic Compounds and Electrophilic Aromatic Substitution",
+      "Chemical Bonding and Molecular Structure",
+      "Functional Groups",
+      "Introduction to Organic Spectroscopy (IR, NMR, MS)",
+      "Isomerism and Stereochemistry",
+      "Organic Acids and Bases",
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Organic Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2018/2019",
+    "Question": {
+      "content": "Draw the structure of 4-ethyl-2-methylheptane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "4-ethyl-2-methylheptane",
+      "content": "https://lh3.googleusercontent.com/d/1eGXLZl90JKIVjjsVDAkbTKwj4yd1Cn1w"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Parent chain</strong>: Heptane (7 carbons)</li><li><strong>Substituents</strong>: Ethyl (-CH<sub>2</sub>CH<sub>3</sub>) at C4, methyl (-CH<sub>3</sub>) at C2</li><li><strong>Structure</strong>: CH<sub>3</sub>-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH(C<sub>2</sub>H<sub>5</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li><li>Note: All single bonds (saturated hydrocarbon)</li></ul>"
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Alkanes & Free Radical Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2018/2019",
+    "Question": {
+      "content": "Give the structural and empirical formula of 2-chloropentanoic acid",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2-chloropentanoic acid",
+      "content": "https://example.com/2-chloropentanoic-acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Structural</strong>: CH<sub>3</sub>-CH<sub>2</sub>-CH(Cl)-CH<sub>2</sub>-COOH</li><li><strong>Empirical</strong>: C<sub>5</sub>H<sub>9</sub>ClO<sub>2</sub></li><li>Contains carboxylic acid (-COOH) and chloro (-Cl) groups</li></ul>"
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Organic Chemistry Fundamentals",
+      "Chemical Formulas"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2018/2019",
+    "Question": {
+      "content": "Draw the molecular structure for benzenesulphonic acid",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "Benzenesulphonic acid \\(C_6H_5SO_3H\\)",
+      "content": "https://lh3.googleusercontent.com/d/1ekxUNdMHjldhhDvgjYOqCI1ygahtZ2eO"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Structure</strong>: Benzene ring with -SO<sub>3</sub>H substituent</li><li>Sulphonic acid group (-SO<sub>3</sub>H) is strongly acidic (pK<sub>a</sub> ≈ -6)</li><li>Formed by sulfonation of benzene with fuming H<sub>2</sub>SO<sub>4</sub></li><li>Important in detergents and dye synthesis</li></ul>"
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Aromatic Compounds & Electrophilic Aromatic Substitution",
+      "Molecular Structure Drawing"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2018/2019",
+    "Question": {
+      "content": "How many sigma bonds are there in cyanomethane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5 sigma bonds"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Structure</strong>: CH<sub>3</sub>-C≡N</li><li><strong>Sigma bonds</strong>:<br>1. Three C-H bonds in CH<sub>3</sub><br>2. One C-C bond<br>3. One C-N bond</li><li><strong>Pi bonds</strong>: 2 in C≡N triple bond</li><li>Total bonds: 5σ + 2π</li></ul>"
+    },
+    "topic": [
+      "Chemical Bonding & Hybridization",
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Molecular Structure Drawing",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 20 @ 2018/2019",
+    "Question": {
+      "content": "Draw the structure of hex-1-ene-3-yne",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_3CH_2-C\\equiv C-CH=CH_2\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Structure</strong>: Contains both double (ene) and triple (yne) bonds</li><li>IUPAC numbering gives priority to the double bond (position 1)</li><li>Triple bond at position 3: \\(C\\equiv C\\)</li><li>Note: The structure should show proper bond angles (120° for sp², 180° for sp)</li></ul>"
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Molecular Structure Drawing",
+      "Functional Groups Identification",
+      "Alkenes & Electrophilic Addition",
+      "Alkynes & Addition Reactions",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2018/2019",
+    "Question": {
+      "content": "Suggest a more accurate name for 4-hexanone",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-hexanone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Carbonyl group should have the lowest possible number</li><li>Correct numbering: \\(CH_3CH_2COCH_2CH_2CH_3\\) (C=O at position 3)</li><li>4-hexanone would imply \\(CH_3CH_2CH_2COCH_2CH_3\\), which is incorrect</li><li>IUPAC Rule C-14.3: Number from end nearest the functional group</li></ul>"
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2018/2019",
+    "Question": {
+      "content": "What is the name of the compound obtained from the addition of a bromine molecule to ethyne?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "(E)-1,2-dibromoethene (trans form)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Reaction</strong>: \\(HC\\equiv CH + Br_2 \\rightarrow BrCH=CHBr\\)</li><li>Forms trans product due to anti-addition mechanism</li><li>Further addition produces \\(CHBr_2CHBr_2\\) (tetrabromoethane)</li><li>Markovnikov's rule doesn't apply to symmetrical alkynes</li></ul>"
+    },
+    "topic": [
+      "Alkynes & Addition Reactions",
+      "Organic Nomenclature (IUPAC)",
+      "Electrophiles",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2018/2019",
+    "Question": {
+      "content": "Give the product of the reaction between 2,3-dimethylbut-2-ene and hot potassium tetraoxomanganate(VII)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1f0zbilpQATewAK4D_v3TTqQ6wdqUQMJN",
+      "alt": "2,3-dimethyl-2,3-butanediol and acetone"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Oxidative cleavage</strong> of double bond by \\(KMnO_4\\)</li><li>Products: \\( (CH_3)_2C=O \\) (acetone) + \\( (CH_3)_2C(OH)C(OH)(CH_3)_2 \\) (pinacol)</li><li>Mechanism involves cyclic manganate ester intermediate</li><li>Hot \\(KMnO_4\\) is stronger oxidant than cold solution</li></ul>"
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Alkenes & Electrophilic Addition",
+      "Ozonolysis",
+      "Reaction Mechanisms & Arrow Pushing",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2018/2019",
+    "Question": {
+      "content": "Give the name and structure of hydrocarbon that can form metal salts",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Terminal alkyne (\\(RC\\equiv CH\\))"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Forms acetylides with \\(Ag^+\\) or \\(Cu^+\\) salts (e.g., \\(RC\\equiv CAg\\))</li><li>Acidic hydrogen (\\(pK_a \\approx 25\\)) reacts with strong bases</li><li>Example: \\(HC\\equiv CH + 2[Ag(NH_3)_2]^+ \\rightarrow AgC\\equiv CAg\\downarrow\\)</li><li>Used to distinguish terminal vs internal alkynes</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Alkynes & Addition Reactions",
+      "Organic Nomenclature (IUPAC)",
+      "Molecular Structure Drawing",
+      "Acidity of Hydrocarbons"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2018/2019",
+    "Question": {
+      "content": "What is a carbon bonded to four carbon atoms called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quaternary Carbon"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>A <em>quaternary carbon</em> is like the <em>central hub</em> in a molecule where <strong>four other carbons</strong> are directly attached to it. <br><br><strong>Example:</strong><br>In <code>(CH<sub>3</sub>)<sub>4</sub>C</code> (neopentane), the <strong>central carbon</strong> is quaternary because it’s bonded to <strong>four CH<sub>3</sub> groups</strong>."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Carbon Classification"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2018/2019",
+    "Question": {
+      "content": "Give the structure of benzoic ethanoic anhydride",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "benzoic ethanoic anhydride",
+      "content": "https://lh3.googleusercontent.com/d/1f5KBoW1ic74L-mIeUcTLPnbSK5vQmFE8"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>An <em>anhydride</em> is formed when <strong>two carboxylic acids</strong> join by losing a water molecule. <br><br><strong>Benzoic ethanoic anhydride</strong> is a mix of:<br>1. <strong>Benzoic acid</strong> (C<sub>6</sub>H<sub>5</sub>COOH)<br>2. <strong>Ethanoic acid</strong> (CH<sub>3</sub>COOH)<br><br>Its structure: <code>C<sub>6</sub>H<sub>5</sub>CO-O-COCH<sub>3</sub></code> (benzoyl group + acetyl group)."
+    },
+    "topic": [
+      "Organic Nomenclature (IUPAC)",
+      "Functional Groups Identification",
+      "Molecular Structure Drawing",
+      "Introduction To Organic Chemistry"
+    ]
+  }
+]
