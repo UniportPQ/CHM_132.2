@@ -1,0 +1,1130 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM_132.2",
+    "session": "Alkanes and Cycloalkanes",
+    "time": 90,
+    "topics": [
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Alkyl Halides: Substitution and Elimination Reactions",
+      "Aromatic Compounds and Electrophilic Aromatic Substitution",
+      "Chemical Bonding and Molecular Structure",
+      "Functional Groups",
+      "Introduction to Organic Spectroscopy (IR, NMR, MS)",
+      "Isomerism and Stereochemistry",
+      "Organic Acids and Bases",
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Organic Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2023/2024",
+    "Question": {
+      "content": "Which of the following is/are acyclic compound (underline)? Butane, cyclobutene, 2-methylbutane , methylcyclobutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane, 2-methylbutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Acyclic compounds have open-chain structures without rings.\\(  \\text{Butane} (CH_3-CH_2-CH_2-CH_3)\\) and 2-methylbutane (branched chain) are acyclic, while cyclobutene and methylcyclobutane contain ring structures."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure",
+      "Alkanes and Cycloalkanes",
+      "IUPAC Nomenclature"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2023/2024",
+    "Question": {
+      "content": "Arrange butane, methylpropane and cyclobutene in order of increasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "methylpropane < butane < cyclobutene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFF8E1; padding:15px; border-radius:5px;'><p><b>Boiling Point Trends</b>:</p><ol><li><span style='color:#FF8F00;'>Methylpropane (isobutane)</span>: -11.7°C<br>• Branched → weak London dispersion forces</li><li><span style='color:#FF8F00;'>Butane</span>: -0.5°C<br>• Linear → stronger intermolecular forces</li><li><span style='color:#FF8F00;'>Cyclobutene</span>: 2-4°C<br>• Ring strain + slight polarity from C=C</li></ol><p>Key factor: Surface area of contact between molecules</p></div>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure",
+      "Alkanes and Cycloalkanes",
+      "Isomerism and Stereochemistry",
+      "Boiling Point"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2023/2024",
+    "Question": {
+      "content": "Draw the structure of bicyclo [3.2.1] octane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "bicyclo [3.2.1] octane",
+      "content": "https://lh3.googleusercontent.com/d/1sBuo90TmAFrLF3l7qmPtqgf30B1Clu-W"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #D1C4E9; padding:15px; border-radius:5px;'><p><b>Bicyclo[n.m.p] Nomenclature</b>:</p><ul><li>[3.2.1] indicates:<br>• 3 carbons on longest bridge<br>• 2 carbons on middle bridge<br>• 1 carbon on shortest bridge</li></ul><div style='text-align:center; margin:15px 0; font-family:monospace;'>&nbsp;&nbsp;CH<sub>2</sub>-CH<sub>2</sub><br>&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\<br>CH<sub>2</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH-CH<sub>2</sub><br>|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>CH<sub>2</sub>-CH-CH<sub>2</sub></div></div>"
+    },
+    "topic": [
+      "IUPAC Nomenclature",
+      "Alkanes and Cycloalkanes",
+      "Chemical Bonding and Structure",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2023/2024",
+    "Question": {
+      "content": "How many 2° hydrogen atoms are found in 2,2-dimethylpropane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f8f9fa; padding:20px; border-radius:8px; border-left:4px solid #4285f4; margin:15px 0;'>\n  <h3 style='color:#1a73e8; margin-top:0;'>Understanding Hydrocarbon Classification</h3>\n  \n  <p>In organic chemistry, hydrogen atoms are classified based on the carbon atom they're attached to:</p>\n  \n  <ul style='background:#fff; padding:15px; border-radius:5px;'>\n    <li><b>1° (Primary) hydrogen</b>: Attached to a carbon that's connected to <b>one</b> other carbon</li>\n    <li><b>2° (Secondary) hydrogen</b>: Attached to a carbon that's connected to <b>two</b> other carbons</li>\n    <li><b>3° (Tertiary) hydrogen</b>: Attached to a carbon that's connected to <b>three</b> other carbons</li>\n  </ul>\n  \n  <h4 style='color:#1a73e8;'>Step 1: Draw the Structure of 2,2-Dimethylpropane</h4>\n  \n  <div style='text-align:center; background:#fff; padding:15px; border-radius:5px; margin:15px 0; font-family:monospace; line-height:1.8;'>\n    &nbsp;&nbsp;&nbsp;CH<sub>3</sub><br>\n    &nbsp;&nbsp;&nbsp;|<br>\n    CH<sub>3</sub> - C - CH<sub>3</sub><br>\n    &nbsp;&nbsp;&nbsp;|<br>\n    &nbsp;&nbsp;&nbsp;CH<sub>3</sub>\n  </div>\n  \n  <p><b>Molecular formula:</b> C<sub>5</sub>H<sub>12</sub></p>\n  \n  <h4 style='color:#1a73e8;'>Step 2: Analyze Each Carbon Position</h4>\n  \n  <table style='width:100%; border-collapse:collapse; background:#fff; margin:15px 0;'>\n    <tr style='background:#e8f0fe;'>\n      <th style='padding:10px; border:1px solid #ddd;'>Carbon Type</th>\n      <th style='padding:10px; border:1px solid #ddd;'>Count</th>\n      <th style='padding:10px; border:1px solid #ddd;'>Hydrogen Classification</th>\n    </tr>\n    <tr>\n      <td style='padding:10px; border:1px solid #ddd;'>Central carbon (C)</td>\n      <td style='padding:10px; border:1px solid #ddd;'>1</td>\n      <td style='padding:10px; border:1px solid #ddd;'>No hydrogens (quaternary carbon)</td>\n    </tr>\n    <tr>\n      <td style='padding:10px; border:1px solid #ddd;'>Methyl groups (CH<sub>3</sub>)</td>\n      <td style='padding:10px; border:1px solid #ddd;'>4</td>\n      <td style='padding:10px; border:1px solid #ddd;'>All hydrogens are <span style='color:#ea4335;'>primary (1°)</span></td>\n    </tr>\n  </table>\n  \n  <h4 style='color:#1a73e8;'>Step 3: Count 2° Hydrogens</h4>\n  \n  <p>Each methyl group (CH<sub>3</sub>) has:</p>\n  <ul>\n    <li>Carbon connected to <b>one</b> other carbon (the central carbon)</li>\n    <li>All hydrogens are therefore <b>primary (1°)</b></li>\n    <li>No CH<sub>2</sub> groups are present in the molecule</li>\n  </ul>\n  \n  <div style='background:#e6f4ea; padding:15px; border-radius:5px; margin:15px 0;'>\n    <h4 style='color:#137333; margin-top:0;'>Conclusion</h4>\n    <p>Since 2,2-dimethylpropane contains only <b>primary (1°) hydrogens</b> and <b>no secondary carbons</b>, the number of 2° hydrogen atoms is:</p>\n    <p style='text-align:center; font-size:24px; color:#137333; font-weight:bold;'>0</p>\n  </div>\n</div>"
+    },
+    "topic": [
+      "IUPAC Nomenclature",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2023/2024",
+    "Question": {
+      "content": "Arrange pentane, 2-methylbutane and 2,2-dimethylpropane in an increasing order of boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2,2-dimethylpropane < 2-methylbutane < pentane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#F3E5F5; padding:15px; border-radius:5px;'><p><b>Boiling Point Trends</b> (C<sub>5</sub>H<sub>12</sub> isomers):</p><table style='width:100%; border-collapse:collapse;'><tr><th style='border:1px solid #D1C4E9; padding:8px;'>Compound</th><th style='border:1px solid #D1C4E9; padding:8px;'>BP (°C)</th><th style='border:1px solid #D1C4E9; padding:8px;'>Branching</th></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>Pentane</td><td style='border:1px solid #D1C4E9; padding:8px;'>36.1</td><td style='border:1px solid #D1C4E9; padding:8px;'>Linear</td></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>2-methylbutane</td><td style='border:1px solid #D1C4E9; padding:8px;'>27.8</td><td style='border:1px solid #D1C4E9; padding:8px;'>1 branch</td></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>2,2-dimethylpropane</td><td style='border:1px solid #D1C4E9; padding:8px;'>9.5</td><td style='border:1px solid #D1C4E9; padding:8px;'>2 branches</td></tr></table><p>More branching → weaker London forces → lower BP</p></div>"
+    },
+    "topic": [
+      "Boiling Point",
+      "Alkanes and Cycloalkanes",
+      "Isomerism and Stereochemistry",
+      "Molecular Geometry",
+      "Chemical Bonding and Structure",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2022/2023",
+    "Question": {
+      "content": "Provide the correct name for 2-methylpropane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Isobutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<table style='border-collapse:collapse; width:100%;'><tr><th style='border:1px solid #ddd; padding:8px;'>Common Name</th><th style='border:1px solid #ddd; padding:8px;'>IUPAC Name</th><th style='border:1px solid #ddd; padding:8px;'>Structure</th></tr><tr><td style='border:1px solid #ddd; padding:8px;'>Isobutane</td><td style='border:1px solid #ddd; padding:8px;'>2-methylpropane</td><td style='border:1px solid #ddd; padding:8px;'>CH<sub>3</sub>-CH(CH<sub>3</sub>)-CH<sub>3</sub></td></tr></table>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Nomenclature of Organic Compounds",
+      "Alkanes and Cycloalkanes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2022/2023",
+    "Question": {
+      "content": "The name of the product of the reaction between 2-butyne and 2 molecules of hydrogen is?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<p style='border-left:4px solid #4CAF50; padding-left:15px;'>Complete hydrogenation of alkynes:</p><p>CH<sub>3</sub>-C≡C-CH<sub>3</sub> + 2H<sub>2</sub> → CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></p><p>Requires:<br>1. Nickel/Palladium catalyst<br>2. Excess hydrogen gas</p>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Nomenclature of Organic Compounds",
+      "Alkanes and Cycloalkanes",
+      "Hydrogenation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2022/2023",
+    "Question": {
+      "content": "Arrange the following compounds in increasing order of boiling point: butane, 2-methyl propane, cyclobutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-methyl propane < butane < cyclobutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#e3f2fd; padding:15px; border-radius:5px;'>\n  <p><b>Boiling point factors</b>:</p>\n  <table style='width:100%; border-collapse:collapse; margin-top:10px;'>\n    <tr style='background:#bbdefb;'>\n      <th style='padding:8px; border:1px solid #90caf9;'>Compound</th>\n      <th style='padding:8px; border:1px solid #90caf9;'>BP (°C)</th>\n      <th style='padding:8px; border:1px solid #90caf9;'>Reason</th>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #90caf9;'>2-methyl propane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>-11.7</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Branched → weak London forces</td>\n    </tr>\n    <tr style='background:#e3f2fd;'>\n      <td style='padding:8px; border:1px solid #90caf9;'>butane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>-0.5</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Linear → stronger London forces</td>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #90caf9;'>cyclobutane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>12.5</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Ring strain → more rigid structure</td>\n    </tr>\n  </table>\n</div>"
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Organic Structure and Bonding",
+      "Isomerism and Stereochemistry",
+      "Nomenclature of Organic Compounds"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2022/2023",
+    "Question": {
+      "content": "Draw the structure of bicyclo[3.1.0]heptane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A fused three-ring system with 5 carbons in the main bridge and a cyclopropane ring"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#e8f5e9; padding:15px; border-radius:5px;'>\n  <p><b>Bicyclo[n.m.p] naming</b>:</p>\n  <ul>\n    <li><b>[3.1.0]</b> indicates:\n      <ul>\n        <li>3 carbons between bridgeheads on longest path</li>\n        <li>1 carbon on middle bridge</li>\n        <li>0 carbons on shortest bridge (direct bond)</li>\n      </ul>\n    </li>\n  </ul>\n  <div style='text-align:center; margin:15px 0; font-family:monospace;'>\n    <p>Structure:</p>\n    <p>\n      &nbsp;&nbsp;CH₂-CH₂<br>\n      &nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\<br>\n    CH₂&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH-CH₂<br>\n    &nbsp;\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/<br>\n      &nbsp;&nbsp;CH₂\n    </p>\n  </div>\n</div>"
+    },
+    "topic": [
+      "Nomenclature of Organic Compounds",
+      "Alkanes and Cycloalkanes",
+      "Organic Structure and Bonding"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2021/2022",
+    "Question": {
+      "content": "Underline the compound that bears the shortest carbon-carbon bond length among the following cyclopentane, methane, heptyne, 2,2-dimethylpentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "heptyne"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Bond length depends on bond order:<br/>- Single bonds (C-C) are longest (~1.54 Å)<br/>- Double bonds (C=C) are shorter (~1.34 Å)<br/>- Triple bonds (C≡C) are shortest (~1.20 Å)<br/><br/>Heptyne contains a <b>carbon-carbon triple bond</b>, while the others have only single bonds."
+    },
+    "topic": [
+      "Chemical Bonding and Molecular Structure",
+      "Alkanes and Cycloalkanes",
+      "Alkynes and their Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2021/2022",
+    "Question": {
+      "content": "Provide the correct name for 2-ethylpentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-methylhexane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The name '2-ethylpentane' is incorrect because:<br/>1. The parent chain should be the <b>longest continuous carbon chain</b> (here it's actually 6 carbons, not 5)<br/>2. The correct structure:<br/>&nbsp;&nbsp;&nbsp;CH₃-CH₂-CH-CH₂-CH₂-CH₃<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CH₃<br/>This is <b>3-methylhexane</b> (methyl at position 3 of a hexane chain)."
+    },
+    "topic": [
+      "Organic Nomenclature",
+      "Alkanes and Cycloalkanes",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2021/2022",
+    "Question": {
+      "content": "All hydrocarbons are insoluble in water. True or False",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydrocarbons are nonpolar molecules, while water is polar. The general rule is 'like dissolves like'.<br/><br/>Even small hydrocarbons like methane (CH₄) have negligible solubility in water because they cannot form hydrogen bonds with water molecules."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Chemical Bonding and Molecular Structure",
+      "Solubility"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2021/2022",
+    "Question": {
+      "content": "What are the products formed when propane burns completely in oxygen?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carbon dioxide (CO₂) and water (H₂O)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Complete combustion of hydrocarbons follows this general equation:<br/>\\[ C_xH_y + O_2 \\rightarrow CO_2 + H_2O \\]<br/>For propane (\\( C_3H_8 \\)):<br/>\\[ C_3H_8 + 5O_2 \\rightarrow 3CO_2 + 4H_2O \\]<br/>This occurs with sufficient oxygen and produces only CO₂ and H₂O as products."
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Combustion",
+      "Chemical Formulas",
+      "Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 28 @ 2021/2022",
+    "Question": {
+      "content": "What is the value of the \\( H - C - H \\) bond angle as found in methane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "109.5°"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Methane (\\( CH_4 \\)) has <b>tetrahedral geometry</b>:<br/>- Carbon is sp³ hybridized<br/>- Four identical C-H bonds<br/>- Perfect tetrahedral angle = 109.5°<br/><br/>This angle minimizes repulsion between bonding electron pairs (VSEPR theory)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Chemical Bonding and Molecular Structure",
+      "Alkanes and Cycloalkanes",
+      "Molecular Geometry",
+      "Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2021/2022",
+    "Question": {
+      "content": "Arrange n-butane, cyclobutene and methylpropane in an increasing order of boiling points",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "methylpropane < n-butane < cyclobutene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Boiling points depend on:<br/>1. <b>Molecular shape</b>: Branched chains (methylpropane) have weaker London forces than straight chains (n-butane)<br/>2. <b>Polarity</b>: Cyclobutene's double bond creates slight polarity → higher bp<br/><br/>Boiling points:<br/>- methylpropane (isobutane): -11.7°C<br/>- n-butane: -0.5°C<br/>- cyclobutene: 2-4°C"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Electrophilic Addition Reactions",
+      "Organic Nomenclature",
+      "Chemical Bonding and Molecular Structure",
+      "Boiling Points"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2021/2022",
+    "Question": {
+      "content": "How many secondary hydrogens are there in 2,2-dimethylpropane?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Hydrogen classification:<br/>- <b>Primary (1°)</b>: Attached to carbon bonded to one other carbon<br/>- <b>Secondary (2°)</b>: Attached to carbon bonded to two carbons<br/><br/>2,2-dimethylpropane (neopentane) structure:<br/>&nbsp;&nbsp;&nbsp;&nbsp;CH₃<br/>&nbsp;&nbsp;&nbsp;&nbsp;|<br/>CH₃-C-CH₃<br/>&nbsp;&nbsp;&nbsp;&nbsp;|<br/>&nbsp;&nbsp;&nbsp;&nbsp;CH₃<br/>All hydrogens are <b>primary</b> (attached to terminal -CH₃ groups)."
+    },
+    "topic": [
+      "Organic Nomenclature",
+      "Alkanes and Cycloalkanes",
+      "Structure Drawing",
+      "Chemical Bonding and Molecular Structure"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2017/2018",
+    "Question": {
+      "content": "How many pi-bonds are present in 2,3-dimethylhexane____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zero (0)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>2,3-dimethylhexane (C<sub>8</sub>H<sub>18</sub>) is a <strong>saturated hydrocarbon</strong></li><li>Contains only <strong>single bonds</strong> (C-C and C-H)</li><li>π-bonds exist only in double/triple bonds (absent here)</li><li>All carbons are <strong>sp³ hybridized</strong> with tetrahedral geometry</li><li>Molecular structure: CH<sub>3</sub>-CH(CH<sub>3</sub>)-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li></ul>"
+    },
+    "topic": [
+      "Nomenclature of Organic Compounds",
+      "Alkanes and Cycloalkanes",
+      "Chemical Bonding"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2017/2018",
+    "Question": {
+      "content": "The smallest alkane that can form a ring structure is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyclopropane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>The smallest possible cycloalkane requires <strong>3 carbons</strong></li><li>Cyclopropane (C<sub>3</sub>H<sub>6</sub>) has 60° bond angles (significant angle strain)</li><li>Propane (C<sub>3</sub>H<sub>8</sub>) is the straight-chain form</li><li>Smaller rings than 3 carbons are impossible due to orbital overlap constraints</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2017/2018",
+    "Question": {
+      "content": "Calculate the index of hydrogen deficiency (IHD) of \\(C_7H_{10}\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>IHD Formula</strong>: (2C + 2 - H)/2 where C = #carbons, H = #hydrogens</li><li>For C<sub>7</sub>H<sub>10</sub>: (2×7 + 2 - 10)/2 = (16-10)/2 = <strong>3</strong></li><li>Each IHD unit indicates either: 1 ring, 1 double bond, or 2 double bonds</li><li>Possible structures: Could be 3 rings, 3 double bonds, 1 ring + 2 double bonds, etc.</li></ul>"
+    },
+    "topic": [
+      "Index of Hydrogen Deficiency",
+      "Organic Chemistry Fundamentals",
+      "Introduction To Organic Chemistry",
+      "Alkenes and Alkynes",
+      "Alkanes and Cycloalkanes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2017/2018",
+    "Question": {
+      "content": "Arrange the structures of butane, methylpropane and cyclobutane in order of decreasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyclobutane > butane > methylpropane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Cyclobutane</strong> (C<sub>4</sub>H<sub>8</sub>): Highest BP due to ring strain and more compact structure (49°C)</li><li><strong>Butane</strong> (C<sub>4</sub>H<sub>10</sub>): Straight chain has stronger London forces than branched (-0.5°C)</li><li><strong>Methylpropane</strong> (isobutane, C<sub>4</sub>H<sub>10</sub>): Branching reduces surface area and intermolecular forces (-11.7°C)</li><li>Order reflects molecular surface area and packing efficiency</li></ul>"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Boiling Point",
+      "Chemical Bonding",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2017/2018",
+    "Question": {
+      "content": "Crude oil can be separated into its useful products by",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fractional distillation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Process occurs in <strong>fractionating column</strong> (30-70m tall)</li><li>Separates by boiling point: gases (top), gasoline, kerosene, diesel, lubricants, residue (bottom)</li><li>Temperature gradient: 350°C (bottom) to 20°C (top)</li><li>Later processes: cracking, reforming, treating</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Boiling Point",
+      "Fractional Distillation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2017/2018",
+    "Question": {
+      "content": "Write an equation for the complete combustion of propane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_3H_8 + 5O_2 \\rightarrow 3CO_2 + 4H_2O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Balanced equation shows 1:5:3:4 stoichiometry</li><li>ΔH° = -2220 kJ/mol (highly exothermic)</li><li>Incomplete combustion would produce CO or C (soot)</li><li>Common in LPG (liquefied petroleum gas)</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Combustion Reactions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2017/2018",
+    "Question": {
+      "content": "What is the hybridization and molecular geometry for methane? ___ and ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "sp³ and tetrahedral"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Hybridization</strong>: sp³ (1 s orbital + 3 p orbitals combine)</li><li><strong>Geometry</strong>: Tetrahedral (109.5° bond angles)</li><li>CH<sub>4</sub> has 4 identical C-H σ-bonds</li><li>All carbons in alkanes are sp³ hybridized</li><li>Perfect example of VSEPR theory prediction</li></ul>"
+    },
+    "topic": [
+      "Hybridization",
+      "Molecular Geometry",
+      "sp3 Hybridization",
+      "Chemical Bonding",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 29 @ 2017/2018",
+    "Question": {
+      "content": "The product of the reaction between 2-butyne and 2 molecules of hydrogen is __",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Butane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Full hydrogenation</strong>: CH<sub>3</sub>-C≡C-CH<sub>3</sub> + 2H<sub>2</sub> → CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li><li><strong>Catalyst</strong>: Typically Ni/Pt/Pd at high pressure</li><li>Intermediate: cis/trans-2-butene (partial hydrogenation)</li><li>Exothermic (ΔH ≈ -300 kJ/mol)</li><li>Industrial importance in margarine production</li></ul>"
+    },
+    "topic": [
+      "Reactions of Alkynes",
+      "Alkenes and Alkynes",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2017/2018",
+    "Question": {
+      "content": "Draw the structure of 2-ethyl-1,4-dimethylcyclohexene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2-ethyl-1,4-dimethylcyclohexene",
+      "content": "https://lh3.googleusercontent.com/d/1e7iDCgoIb5OdbLQcve9GZ61z36WhcuNu"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Parent chain</strong>: Cyclohexene ring (double bond between C1-C2)</li><li><strong>Substituents</strong>: Ethyl (-CH<sub>2</sub>CH<sub>3</sub>) at C2, methyl (-CH<sub>3</sub>) at C1 and C4</li><li><strong>Note</strong>: Double bond creates potential cis/trans isomerism</li><li>Numbering gives priority to double bond (C1-C2)</li><li>Structure shows all substituents on same side (cis) by default</li></ul>"
+    },
+    "topic": [
+      "Nomenclature of Organic Compounds",
+      "Alkenes and Alkynes",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2017/2018",
+    "Question": {
+      "content": "Give the laboratory test used to differentiate between pentene and pentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bromine water test and Baeyer's test"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Bromine water</strong>:<br>- Pentene: Decolorizes Br<sub>2</sub>/H<sub>2</sub>O (orange → colorless)<br>- Pentane: No reaction (stays orange)</li><li><strong>Baeyer's test</strong> (KMnO<sub>4</sub>):<br>- Pentene: Purple → brown MnO<sub>2</sub> precipitate<br>- Pentane: No reaction</li><li>Both tests detect C=C double bonds</li><li>Additional test: Pentene burns with more sooty flame</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes",
+      "Qualitative Analysis"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2017/2018",
+    "Question": {
+      "content": "The most important natural source of hydrocarbon is",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Crude oil (petroleum)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Crude oil</strong> contains thousands of hydrocarbon compounds (alkanes, cycloalkanes, aromatics)</li><li>Forms from ancient marine organisms under heat/pressure over millions of years</li><li>Other sources: Natural gas (methane), coal (mostly carbon), biomass (renewable but less concentrated)</li><li>Provides >80% of world's energy and raw materials for plastics, pharmaceuticals, etc.</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Fossil Fuels"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2017/2018",
+    "Question": {
+      "content": "Give the IUPAC nomenclature of \\(CH_3CH_2C(CH_3)CH_2CH_2CH_3\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-methylhexane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Step 1</strong>: Identify longest carbon chain (6 carbons → hexane)</li><li><strong>Step 2</strong>: Number from end nearest substituent (CH<sub>3</sub> at C3)</li><li><strong>Structure</strong>: CH<sub>3</sub>-CH<sub>2</sub>-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></li><li>Not 3,3-dimethylhexane (only one methyl group present)</li><li>Common error: Miscounting chain length or substituent positions</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Nomenclature of Organic Compounds",
+      "Alkanes and Cycloalkanes",
+      "Organic Chemistry",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2016/2017",
+    "Question": {
+      "content": "Chain branching in alkanes merally reduces both melting and point. <b>TRUE/FALSE</b>",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "<b>TRUE</b>"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Branching reduces surface area contact between molecules, weakening London dispersion forces and thus lowering both melting and boiling points compared to straight-chain isomers."
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Organic Structure and Bonding",
+      "Physical Properties of Organic Compounds",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 8 @ 2016/2017",
+    "Question": {
+      "content": "Give the structure of hydrocarbon molecule containing four carbons all of which are sp³ hybridized",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CH_3-CH_2-CH_2-CH_3\\) (Butane)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "For all carbons to be sp³ hybridized, the molecule must contain only single bonds. Butane is the simplest example with four sp³ hybridized carbons."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Structure and Bonding",
+      "Alkanes and Cycloalkanes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2016/2017",
+    "Question": {
+      "content": "The two structural isomers of \\(C_4H_9Br\\) are \\(CH_3CH_2CHBrCH_3\\) and \\((CH_3)_3CBr\\). Draw the remaining two structural isomers of this compound",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1dXcpswlrGMoMkrGIWKWkmMFooGeHFhSr"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The four isomers are: 1-bromobutane, 2-bromobutane, 1-bromo-2-methylpropane, and 2-bromo-2-methylpropane (tert-butyl bromide)."
+    },
+    "topic": [
+      "Structural Isomers",
+      "Organic Structure and Bonding",
+      "Functional Groups",
+      "Alkanes and Cycloalkanes",
+      "Organic Nomenclature"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2016/2017",
+    "Question": {
+      "content": "What separation technique would you use to separate mixture of liquid hydrocarbons with very close boiling point?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fractional Distillation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Fractional distillation uses a fractionating column to create multiple vaporization-condensation cycles, allowing separation of compounds with boiling points differing by less than 25°C."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Physical Properties of Organic Compounds",
+      "Chromatography",
+      "Alkanes and Cycloalkanes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 19 @ 2016/2017",
+    "Question": {
+      "content": "Why do branched chain hydrocarbons have lower boiling and melting?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "This is because the Vander Waals forces are weaker in branch chained isomers as compared to straight chain and thus less energy is required to overcome these forces in branched chains"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Branching reduces molecular surface area and prevents close packing, decreasing London dispersion forces. This effect is more pronounced for boiling points than melting points."
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Organic Structure and Bonding",
+      "Physical Properties of Organic Compounds",
+      "Intermolecular Forces"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2016/2017",
+    "Question": {
+      "content": "Which of the following hydrocarbons has the highest bond energy? (i) alkane (ii) alkene (iii)alkyne",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ALKYNE"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "C≡C triple bonds in alkynes (837 kJ/mol) are stronger than C=C (614 kJ/mol) in alkenes and C-C (347 kJ/mol) in alkanes due to increased orbital overlap."
+    },
+    "topic": [
+      "Organic Structure and Bonding",
+      "Physical Properties of Organic Compounds",
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes Reactions",
+      "Bond Energy"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 31 @ 2016/2017",
+    "Question": {
+      "content": "The hybridization of carbon atoms in hexane is ___",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hexane structure \\(CH_3-CH_2-CH_2-CH_2-CH_2-CH_3\\) <br> All carbon atoms in Hexane are singly bonded, as such the hybridization of the carbons in hexane are → sp³ hybridized"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Single-bonded carbons form tetrahedral geometries with sp³ hybridization (25% s-character, 75% p-character)."
+    },
+    "topic": [
+      "Organic Structure and Bonding",
+      "Alkanes and Cycloalkanes",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2016/2017",
+    "Question": {
+      "content": "Which of the following is an alicyclic compound? (1) cyclohexane (ii) benzene (iii) butanamine",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyclohexane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Alicyclic compounds are aliphatic cyclic hydrocarbons. Cyclohexane is alicyclic, benzene is aromatic, and butanamine is acyclic."
+    },
+    "topic": [
+      "Classification of Organic Compounds",
+      "Alicyclic Compounds",
+      "Organic Nomenclature",
+      "Alkanes and Cycloalkanes",
+      "Aromatic Compounds",
+      "Functional Groups"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2015/2016",
+    "Question": {
+      "content": "Arrange n-hexane, cyclohexane and 3-methyl pentane in an order of decreasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyclohexane > n-hexane > 3-methylpentane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Cyclohexane</strong> has the highest boiling point due to its rigid cyclic structure allowing closer molecular packing</li><li><strong>n-Hexane</strong> (straight chain) has stronger London dispersion forces than branched 3-methylpentane</li><li><strong>3-Methylpentane</strong> has the lowest boiling point because branching reduces surface area and intermolecular forces</li></ul>"
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Isomerism and Stereochemistry",
+      "Bonding and Molecular Structure",
+      "Boiling Point"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 12 @ 2015/2016",
+    "Question": {
+      "content": "A mixture of hexane and water is said to be",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Immiscible"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Immiscible</strong> liquids don't mix to form a homogeneous solution</li><li>Hexane (nonpolar) and water (polar) have different intermolecular forces</li><li>Water forms hydrogen bonds while hexane only has London dispersion forces</li><li>They separate into distinct layers with hexane floating on water (density 0.66 g/mL vs 1.0 g/mL)</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Bonding and Molecular Structure",
+      "Separation Techniques",
+      "Miscibility"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2015/2016",
+    "Question": {
+      "content": "Write an equation that describes the complete combustion of butane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(2C_4H_{10} + 13O_2 \\rightarrow 8CO_2 + 10H_2O\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Complete combustion converts hydrocarbons to CO₂ and H₂O</li><li>Butane (\\(C_4H_{10}\\)) reacts with oxygen</li><li>Balanced equation shows 2:13:8:10 mole ratio</li><li>Alternative form: \\(C_4H_{10} + 6.5O_2 \\rightarrow 4CO_2 + 5H_2O\\)</li><li>Exothermic reaction releasing ~2877 kJ/mol</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Combustion"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2015/2016",
+    "Question": {
+      "content": "What is the general formula for cycloalkanes?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(C_nH_{2n}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Cycloalkanes have <strong>two fewer hydrogens</strong> than alkanes (\\(C_nH_{2n+2}\\))</li><li>Each ring reduces hydrogen count by 2 (one pair per C-C bond formed)</li><li>Examples: Cyclopropane (\\(C_3H_6\\)), cyclohexane (\\(C_6H_{12}\\))</li><li>Same formula as alkenes but different functional groups</li></ul>"
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Organic Nomenclature",
+      "Functional Groups",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2015/2016",
+    "Question": {
+      "content": "Draw the structure and give the IUPAC name of an alkane with the molecular formula \\(C_5H_{12}\\) that has only primary hydrogens",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2,2-dimethylpropane (neopentane)",
+      "content": "https://lh3.googleusercontent.com/d/1cY-lRt0zct_SPQ2P3hwYlI-y9yN1BuJW"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Only <strong>2,2-dimethylpropane</strong> (neopentane) satisfies this condition</li><li>Central quaternary carbon with four methyl groups</li><li>All 12 hydrogens are equivalent and primary</li><li>No secondary or tertiary hydrogens present</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Organic Nomenclature",
+      "Isomerism and Stereochemistry",
+      "Bonding and Molecular Structure"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1 @ 2014/2015",
+    "Question": {
+      "content": "What is the chemical produced from the reaction of cooking gas with excess oxygen?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CO₂ & H₂O"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Cooking gas is propane (\\(C_3H_8\\)). When burned in excess oxygen, it undergoes combustion:<br><br>\\( C_3H_8 + 5O_2 \\rightarrow 3CO_2 + 4H_2O \\)<br><br>Products: <strong>CO₂</strong> (carbon dioxide) and <strong>H₂O</strong> (water)."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Cycloalkanes",
+      "Combustion"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2014/2015",
+    "Question": {
+      "content": "Arrange n-butane, cyclobutane, and methylpropane in ascending order of boiling points",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Methylpropane < n-butane < cyclobutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Boiling Point Trends Explained:</strong><br><br>1. <strong>Methylpropane (lowest)</strong>: Branched structure reduces surface area → weaker London dispersion forces.<br>2. <strong>n-Butane</strong>: Linear chain has more surface area than methylpropane → stronger intermolecular forces.<br>3. <strong>Cyclobutane (highest)</strong>: Ring structure is rigid and compact → higher electron density and stronger van der Waals forces.<br><br><strong>General Rule</strong>: Boiling points increase with molecular surface area and rigidity."
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Molecular Structure",
+      "Physical Properties",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 17 @ 2014/2015",
+    "Question": {
+      "content": "Draw the structure and give the IUPAC name of an alkane with the molecular formula \\(C_5H_{12}\\) that has only primary hydrogens",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2,2-dimethylpropane (neopentane) structure",
+      "content": "https://lh3.googleusercontent.com/d/1aoOTUlHmhHK8cJXQXXhWGl9zVHiIQM0N"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Key Points:</strong><br><br>1. <strong>Molecular Formula</strong>: \\(C_5H_{12}\\) (pentane isomers).<br>2. <strong>Only Primary Hydrogens</strong>: Hydrogens attached to carbons bonded to <em>only one other carbon</em>.<br>3. <strong>Structure</strong>: <strong>2,2-dimethylpropane</strong> (neopentane) — a central carbon bonded to four methyl groups (–CH₃).<br>4. <strong>Why?</strong> All 12 hydrogens are primary (no secondary/tertiary hydrogens possible in this structure)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Molecular Structure",
+      "Nomenclature of Organic Compounds",
+      "Isomerism"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2014/2015",
+    "Question": {
+      "content": "Name the process used to separate petroleum into useful fractions",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fractional distillation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Petroleum Refining Process:</strong><br><br>1. <strong>Principle</strong>: Separation based on boiling point differences.<br>2. <strong>Apparatus</strong>: Fractionating column with temperature gradient (20-400°C).<br>3. <strong>Key Stages</strong>:<br>   - Vaporization at 350-400°C<br>   - Condensation at different heights<br>   - Collection of fractions (LPG, gasoline, kerosene, etc.)"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Physical Properties",
+      "Alkanes and Cycloalkanes",
+      "Fractional Distillation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2014/2015",
+    "Question": {
+      "content": "Arrange the following petroleum fractions in increasing order of boiling points: <i>Petrol, Kerosene, Naphtha, LPG, Heavy Gas Oil</i>",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "LPG < Petrol < Naphtha < Kerosene < Heavy Gas Oil"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Boiling Point Trends in Petroleum Fractions:</strong><br><br>1. <strong>LPG</strong> (C3-C4): -42°C to 0°C (lowest)<br>2. <strong>Petrol</strong> (C5-C10): 30-200°C<br>3. <strong>Naphtha</strong> (C6-C12): 90-200°C<br>4. <strong>Kerosene</strong> (C10-C16): 175-325°C<br>5. <strong>Heavy Gas Oil</strong> (C15-C25): 300-400°C (highest)<br><br><strong>Rule</strong>: Boiling point increases with carbon chain length."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Physical Properties",
+      "Alkanes and Cycloalkanes",
+      "Fractional Distillation",
+      "Petroleum Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 9 @ 2013/2014",
+    "Question": {
+      "content": "Give the structure of; 4-cyclopentyl-3-ethyl-4-(1-propyl) heptane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1WEm-eOPIdw12neZCPAYxyZYl-as-P26P",
+      "alt": "ans"
+    },
+    "Explanation": {
+      "type": "img",
+      "alt": "ans",
+      "content": "https://lh3.googleusercontent.com/d/1WEm-eOPIdw12neZCPAYxyZYl-as-P26P"
+    },
+    "topic": [
+      "Nomenclature of Organic Compounds",
+      "Alkanes and Cycloalkanes",
+      "Hydrocarbons",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 16 @ 2013/2014",
+    "Question": {
+      "content": "Name the following compound: \\(CH_3CH(Cl)CH(CH_3)CH(CH)_3Br\\)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-bromo-4-chloro-3-methylpentane"
+    },
+    "Explanation": {
+      "type": "img",
+      "content": "https://lh3.googleusercontent.com/d/1WCpft0NZphHmEu7WcWgQ8pUY-rWiSl0P",
+      "alt": "2-bromo-4-chloro-3-methylpentane"
+    },
+    "topic": [
+      "Nomenclature of Organic Compounds",
+      "Functional Groups and Their Properties",
+      "Alkanes and Cycloalkanes",
+      "Haloalkanes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2013/2014",
+    "Question": {
+      "content": "The ability of carbon to react with itself to form longer chains is known as______",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Catenation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<b>Catenation Definition:</b><br>• Carbon's unique ability to form covalent bonds with other carbon atoms<br>• Creates chains (straight/branched) or rings of varying lengths<br><br><b>Why Carbon Excels:</b><br>1. <b>Bond Strength:</b> C-C bonds (348 kJ/mol) are optimally strong<br>2. <b>Tetravalency:</b> Forms 4 stable covalent bonds<br>3. <b>Hybridization:</b> sp³/sp²/sp orbital flexibility<br><br><b>Examples:</b><br>• Ethane (C-C)<br>• Polyethylene (-C-C-)<sub>n</sub><br>• Buckminsterfullerene (C<sub>60</sub>)"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Bonding and Molecular Structure",
+      "Hydrocarbons",
+      "Alkanes and Cycloalkanes",
+      "Catenation"
+    ]
+  }
+]
