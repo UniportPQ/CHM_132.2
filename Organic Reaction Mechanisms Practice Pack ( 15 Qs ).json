@@ -1,0 +1,380 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM_132.2",
+    "session": "Organic Reaction Mechanisms",
+    "time": 90,
+    "topics": [
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Alkyl Halides: Substitution and Elimination Reactions",
+      "Aromatic Compounds and Electrophilic Aromatic Substitution",
+      "Chemical Bonding and Molecular Structure",
+      "Functional Groups",
+      "Introduction to Organic Spectroscopy (IR, NMR, MS)",
+      "Isomerism and Stereochemistry",
+      "Organic Acids and Bases",
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Organic Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2022/2023",
+    "Question": {
+      "content": "Provide the structure of the product formed when chloromethane reacts with benzene in the presence of AlCl<sub>3</sub>",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Toluene \\(C_6H_5CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#f5f5f5; padding:15px; border-radius:5px;'><p>This is a <b>Friedel-Crafts alkylation</b> reaction:</p><ol><li>AlCl<sub>3</sub> polarizes C-Cl bond → CH<sub>3</sub><sup>+</sup> forms</li><li>CH<sub>3</sub><sup>+</sup> attacks benzene ring</li><li>Forms toluene + HCl</li></ol><p style='text-align:center; margin-top:10px;'>C<sub>6</sub>H<sub>6</sub> + CH<sub>3</sub>Cl → C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub> + HCl</p></div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Aromatic Compounds and Aromaticity",
+      "Electrophilic Aromatic Substitution",
+      "Organic Reaction Mechanisms",
+      "Organic Structure and Bonding"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 7 @ 2022/2023",
+    "Question": {
+      "content": "The hydrohalogenation of propene will not follow Markovnikov's rule if carried out in the presence of ____",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peroxides (e.g., \\(H_2O_2\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; justify-content:space-between;'><div style='width:48%;'><p><b>Normal Markovnikov addition</b> (without peroxides):</p><p>CH<sub>3</sub>CH=CH<sub>2</sub> + HBr → CH<sub>3</sub>CH(Br)CH<sub>3</sub></p><p>H adds to less substituted carbon</p></div><div style='width:48%; background:#fff3cd; padding:10px; border-radius:5px;'><p><b>Anti-Markovnikov</b> (with peroxides):</p><p>CH<sub>3</sub>CH=CH<sub>2</sub> + HBr → CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br</p><p>Br adds to less substituted carbon</p></div></div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Organic Reaction Mechanisms",
+      "Anti-Markovnikov Addition"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2022/2023",
+    "Question": {
+      "content": "What is the structure of the product(s) of the reaction between hot concentrated potassium tetraoxomanganate (VII) with 2-butene?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2 molecules of acetic acid \\(CH_3COOH\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #ddd; padding:15px; border-radius:5px; background:#f5f5f5;'>\n  <p><b>Oxidative cleavage</b> with hot KMnO<sub>4</sub>:</p>\n  <div style='text-align:center; margin:15px 0;'>\n    CH<sub>3</sub>-CH=CH-CH<sub>3</sub> + [O] → 2 CH<sub>3</sub>-COOH\n  </div>\n  <ul>\n    <li>Breaks C=C and forms carboxyl groups at cleavage sites</li>\n    <li>Symmetric alkene → identical products</li>\n    <li>Other name for KMnO<sub>4</sub>: Potassium permanganate</li>\n  </ul>\n</div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Organic Reaction Mechanisms",
+      "Organic Structure and Bonding",
+      "Functional Groups",
+      "Oxidation of Alkenes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 15 @ 2022/2023",
+    "Question": {
+      "content": "What kind of chemical species result from the symmetrical cleavage of covalent bonds?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Free radicals"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px;'>\n  <div style='flex:1; background:#e8f5e9; padding:15px; border-radius:5px;'>\n    <p><b>Symmetrical cleavage</b> (Homolytic):</p>\n    <p style='text-align:center;'>A:B → A• + B•</p>\n    <p>Produces <span style='color:#D32F2F;'>free radicals</span> with unpaired electrons</p>\n  </div>\n  <div style='flex:1; background:#ffebee; padding:15px; border-radius:5px;'>\n    <p><b>Asymmetrical cleavage</b> (Heterolytic):</p>\n    <p style='text-align:center;'>A:B → A<sup>+</sup> + B<sup>-</sup></p>\n    <p>Produces ions</p>\n  </div>\n</div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Structure and Bonding",
+      "Organic Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 24 @ 2022/2023",
+    "Question": {
+      "content": "Circle the specie or species that is/are nucleophiles:",
+      "type": "OBJ",
+      "options": [
+        "\\( BF_3 \\)",
+        "\\( AlCl_3 \\)",
+        "\\( Br_2 \\)",
+        "\\( NH_3 \\)",
+        "\\( CH_3^+ \\)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(NH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:grid; grid-template-columns:repeat(2,1fr); gap:10px;'>\n  <div style='background:#ffebee; padding:10px; border-radius:5px;'>\n    <p><b>Nucleophiles</b> (electron donors):</p>\n    <p>NH<sub>3</sub> - Lone pair on N</p>\n  </div>\n  <div style='background:#e8eaf6; padding:10px; border-radius:5px;'>\n    <p><b>Electrophiles</b> (electron acceptors):</p>\n    <p>BF<sub>3</sub>, AlCl<sub>3</sub>, Br<sub>2</sub>, CH<sub>3</sub><sup>+</sup></p>\n  </div>\n</div>\n<p style='margin-top:10px;'>NH<sub>3</sub> is the only Lewis base in the list</p>"
+    },
+    "topic": [
+      "Nucleophiles and Electrophiles",
+      "Organic Reaction Mechanisms",
+      "Organic Structure and Bonding"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 30 @ 2022/2023",
+    "Question": {
+      "content": "Give the structure of the product of dehydrohalogenation of 2-bromopropane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Propene \\(CH_3-CH=CH_2\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border-left:4px solid #7CB342; padding-left:15px; background:#f1f8e9;'>\n  <p><b>Elimination reaction</b> (Zaitsev's rule):</p>\n  <p style='text-align:center;'>\n    CH<sub>3</sub>-CH(Br)-CH<sub>3</sub> + KOH<sub>(alc)</sub> → CH<sub>3</sub>-CH=CH<sub>2</sub> + KBr + H<sub>2</sub>O\n  </p>\n  <ul>\n    <li>Removal of H and Br from adjacent carbons</li>\n    <li>Forms the more substituted alkene (propene)</li>\n    <li>Requires alcoholic KOH and heat</li>\n  </ul>\n</div>"
+    },
+    "topic": [
+      "Alkyl Halides: Substitution and Elimination Reactions",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Organic Reaction Mechanisms",
+      "Nomenclature of Organic Compounds",
+      "Dehydrohalogenation"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 35 @ 2022/2023",
+    "Question": {
+      "content": "Draw the structures of the main products ozonolysis of 2-methyl-2-butene and subsequent treatment with Zn/H⁺",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acetone \\(CH_3COCH_3\\) and acetaldehyde \\(CH_3CHO\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#ffebee; padding:15px; border-radius:5px;'>\n  <p><b>Ozonolysis mechanism</b>:</p>\n  <ol>\n    <li>O<sub>3</sub> adds to C=C forming ozonide</li>\n    <li>Zn/H<sup>+</sup> cleaves ozonide to carbonyls</li>\n  </ol>\n  <div style='text-align:center; margin:15px 0; font-family:monospace;'>\n    <p>(CH<sub>3</sub>)<sub>2</sub>C=CHCH<sub>3</sub> → (CH<sub>3</sub>)<sub>2</sub>C=O + CH<sub>3</sub>CHO</p>\n    <p>2-methyl-2-butene → acetone + acetaldehyde</p>\n  </div>\n  <p style='color:#c62828;'>Note: The double bond is completely cleaved</p>\n</div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Organic Reaction Mechanisms",
+      "Nomenclature of Organic Compounds",
+      "Carbonyl Compounds: Aldehydes and Ketones",
+      "Functional Groups",
+      "Organic Structure and Bonding",
+      "Oxidation of Alkenes"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2019/2018",
+    "Question": {
+      "content": "What is the name of the rule that governs addition of proton to carbon with greater number of hydrogen atoms?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Markovnikov's Rule"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br><em>Markovnikov’s Rule</em> says: <strong>\"The rich get richer!\"</strong><br><br>When adding HX to an alkene:<br>1. H<sup>+</sup> attaches to the carbon with <strong>more H’s already</strong>.<br>2. X<sup>–</sup> attaches to the carbon with <strong>fewer H’s</strong>.<br><br><strong>Example:</strong><br>\\(CH_2=CH-CH_3 + HBr \\rightarrow CH_3-CHBr-CH_3\\)"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Alkanes and Alkenes Reactions",
+      "Organic Reaction Mechanisms",
+      "Regioselectivity"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 5 @ 2019/2018",
+    "Question": {
+      "content": "Name the product of the reaction of benzene with sulphuric acid",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Benzene Sulphonic Acid"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Benzene + sulphuric acid = <strong>\\(C_6H_5SO_3H\\)</strong> (benzene sulphonic acid).<br><br><strong>What happens?</strong><br>1. Sulphur attacks benzene, replacing one H.<br>2. Adds a <strong>\\(-SO_3H\\)</strong> group (sulphonyl).<br><br><em>Uses:</em> Detergents, dyes!"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Alkynes and Aromatic Compounds",
+      "Organic Reaction Mechanisms",
+      "Functional Group Chemistry",
+      "Electrophilic Aromatic Substitution"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 6 @ 2019/2018",
+    "Question": {
+      "content": "What is the structure of the product formed when benzene is reacted with nitric and sulphuric acid?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nitrobenzene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Benzene + HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub> = <strong>\\(C_6H_5NO_2\\)</strong> (nitrobenzene).<br><br><strong>Mechanism:</strong><br>1. HNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> makes <strong>NO<sub>2</sub><sup>+</sup></strong> (nitronium ion).<br>2. NO<sub>2</sub><sup>+</sup> attacks benzene, replacing one H.<br><br><em>Fun fact:</em> Nitrobenzene smells like almonds!"
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Alkynes and Aromatic Compounds",
+      "Electrophilic Aromatic Substitution",
+      "Organic Reaction Mechanisms",
+      "Functional Group Chemistry",
+      "Nitration"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 18 @ 2019/2018",
+    "Question": {
+      "content": "Name the common catalyst used for the chlorination of benzene",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lewis acid \\(AlCl_3\\) or \\(FeCl_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Chlorination of benzene requires a <strong>Lewis acid catalyst</strong> to generate the electrophile \\(Cl^+\\).<br><br><strong>Common catalysts:</strong><br>- \\(AlCl_3\\) (aluminum chloride)<br>- \\(FeCl_3\\) (iron(III) chloride)<br><br><em>Note:</em> These help break \\(Cl_2\\) into \\(Cl^+\\) and \\(Cl^-\\)."
+    },
+    "topic": [
+      "Electrophilic Aromatic Substitution",
+      "Aromatic Compounds",
+      "Organic Reaction Mechanisms",
+      "Lewis Acids"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 22 @ 2019/2018",
+    "Question": {
+      "content": "What is the name of the product obtained by the addition of one molecule of chlorine to ethyne?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1,2-Dichloroethene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>Ethyne (\\(C_2H_2\\)) + \\(Cl_2\\) → <strong>1,2-dichloroethene</strong> (\\(ClCH=CHCl\\)).<br><br><strong>Mechanism:</strong><br>1. \\(Cl_2\\) adds across the triple bond.<br>2. Forms a double bond with Cl atoms on adjacent carbons.<br><br><em>Note:</em> Further addition would give 1,1,2,2-tetrachloroethane."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry",
+      "Alkynes and Aromatic Compounds",
+      "IUPAC Nomenclature",
+      "Organic Reaction Mechanisms",
+      "Functional Group Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 26 @ 2019/2018",
+    "Question": {
+      "content": "Give the name of a group of molecules that accept electrons during a chemical reaction",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Electrophiles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br><strong>Electrophiles</strong> ('electron - lovers ') are electron-deficient species that accept electrons in reactions. Examples:<br>- \\(H^+\\) (proton)<br>- \\(BF_3\\) (Lewis acid)<br>- \\(CH_3^+\\) (carbocation)<br><br><em>Opposite:</em> Nucleophiles (electron donors)."
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry Fundamentals",
+      "Organic Reaction Mechanisms",
+      "Lewis Acids",
+      "Chemical Bonding",
+      "Electron Acceptors"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2019/2018",
+    "Question": {
+      "content": "The acronym, S<sub>N</sub>2, represents__",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Substitution Nucleophilic Bimolecular"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br>S<sub>N</sub>2 stands for:<br>- <strong>Substitution</strong>: Replacing a leaving group (e.g., Cl<sup>–</sup>)<br>- <strong>Nucleophilic</strong>: Attack by an electron-rich species (e.g., OH<sup>–</sup>)<br>- <strong>Bimolecular</strong>: Rate depends on both nucleophile and substrate concentrations<br><br><em>Key Feature:</em> The reaction happens in <strong>one step</strong> with inversion of configuration!"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Reaction Mechanisms",
+      "Substitution and Elimination Reactions",
+      "Nucleophilicity",
+      "Nucleophilic Substitution"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 34 @ 2019/2018",
+    "Question": {
+      "content": "Which of the spectroscopic methods can you use to check that a secondary alcohol has been completely oxidized to a ketone?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Infrared Spectroscopy (IR)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Simple Explanation:</strong><br><strong>IR spectroscopy</strong> detects functional groups:<br>1. <strong>Secondary alcohol</strong>: Shows a broad O-H stretch (~3200-3500 cm⁻¹) and C-O stretch (~1000-1200 cm⁻¹).<br>2. <strong>Ketone</strong>: Shows a sharp C=O stretch (~1700 cm⁻¹).<br><br><em>Key Point:</em> Disappearance of O-H peak and appearance of C=O peak confirms oxidation."
+    },
+    "topic": [
+      "Spectroscopy",
+      "Qualitative Analysis",
+      "Functional Group Chemistry",
+      "Alcohols and Ethers",
+      "Organic Reaction Mechanisms"
+    ]
+  }
+]
