@@ -1,0 +1,284 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM_132.2",
+    "session": "Isomerism and Stereochemistry",
+    "time": 90,
+    "topics": [
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Alkyl Halides: Substitution and Elimination Reactions",
+      "Aromatic Compounds and Electrophilic Aromatic Substitution",
+      "Chemical Bonding and Molecular Structure",
+      "Functional Groups",
+      "Introduction to Organic Spectroscopy (IR, NMR, MS)",
+      "Isomerism and Stereochemistry",
+      "Organic Acids and Bases",
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Organic Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 14 @ 2023/2024",
+    "Question": {
+      "content": "Arrange butane, methylpropane and cyclobutene in order of increasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "methylpropane < butane < cyclobutene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#FFF8E1; padding:15px; border-radius:5px;'><p><b>Boiling Point Trends</b>:</p><ol><li><span style='color:#FF8F00;'>Methylpropane (isobutane)</span>: -11.7°C<br>• Branched → weak London dispersion forces</li><li><span style='color:#FF8F00;'>Butane</span>: -0.5°C<br>• Linear → stronger intermolecular forces</li><li><span style='color:#FF8F00;'>Cyclobutene</span>: 2-4°C<br>• Ring strain + slight polarity from C=C</li></ol><p>Key factor: Surface area of contact between molecules</p></div>"
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Chemical Bonding and Structure",
+      "Alkanes and Cycloalkanes",
+      "Isomerism and Stereochemistry",
+      "Boiling Point"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 23 @ 2023/2024",
+    "Question": {
+      "content": "Draw and name any geometric isomer of a compound with the molecular formula \\( \\text{C}_4\\text{H}_8 \\):",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "cis-2-butene or trans-2-butene",
+      "content": "https://lh3.googleusercontent.com/d/1re1Q1x1r19Vb4kJFAvI_NzAL4asEyytc"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:15px;'><div style='flex:1; background:#FFF8E1; padding:10px; border-radius:5px;'><p><b>cis-2-butene</b>:</p><p style='text-align:center; font-family:monospace;'>CH<sub>3</sub><br>\\<br>C=C<br>/<br>H&nbsp;&nbsp;CH<sub>3</sub></p><p>BP: 3.7°C</p></div><div style='flex:1; background:#FFF8E1; padding:10px; border-radius:5px;'><p><b>trans-2-butene</b>:</p><p style='text-align:center; font-family:monospace;'>H<br>\\<br>C=C<br>/<br>CH<sub>3</sub>&nbsp;H</p><p>BP: 0.9°C</p></div></div>"
+    },
+    "topic": [
+      "Isomerism and Stereochemistry",
+      "IUPAC Nomenclature",
+      "Alkenes and Alkynes Reactions",
+      "Molecular Geometry",
+      "Chemical Bonding and Structure",
+      "Functional Groups"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 33 @ 2023/2024",
+    "Question": {
+      "content": "Arrange pentane, 2-methylbutane and 2,2-dimethylpropane in an increasing order of boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2,2-dimethylpropane < 2-methylbutane < pentane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#F3E5F5; padding:15px; border-radius:5px;'><p><b>Boiling Point Trends</b> (C<sub>5</sub>H<sub>12</sub> isomers):</p><table style='width:100%; border-collapse:collapse;'><tr><th style='border:1px solid #D1C4E9; padding:8px;'>Compound</th><th style='border:1px solid #D1C4E9; padding:8px;'>BP (°C)</th><th style='border:1px solid #D1C4E9; padding:8px;'>Branching</th></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>Pentane</td><td style='border:1px solid #D1C4E9; padding:8px;'>36.1</td><td style='border:1px solid #D1C4E9; padding:8px;'>Linear</td></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>2-methylbutane</td><td style='border:1px solid #D1C4E9; padding:8px;'>27.8</td><td style='border:1px solid #D1C4E9; padding:8px;'>1 branch</td></tr><tr><td style='border:1px solid #D1C4E9; padding:8px;'>2,2-dimethylpropane</td><td style='border:1px solid #D1C4E9; padding:8px;'>9.5</td><td style='border:1px solid #D1C4E9; padding:8px;'>2 branches</td></tr></table><p>More branching → weaker London forces → lower BP</p></div>"
+    },
+    "topic": [
+      "Boiling Point",
+      "Alkanes and Cycloalkanes",
+      "Isomerism and Stereochemistry",
+      "Molecular Geometry",
+      "Chemical Bonding and Structure",
+      "Organic Chemistry Fundamentals"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 3 @ 2022/2023",
+    "Question": {
+      "content": "Optical isomers that are mirror images of each other are called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enantiomers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:20px; align-items:center;'><div><p><b>Enantiomers</b> are:</p><ul><li>Non-superimposable mirror images</li><li>Have identical physical properties except for optical rotation</li><li>Rotate plane-polarized light equally but in opposite directions</li></ul></div><div style='border-left:1px solid #ccc; padding-left:15px;'><p>Example: L- and D-alanine</p><p style='text-align:center'>🔄 Mirror relationship</p></div></div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Isomerism and Stereochemistry",
+      "Enantiomers"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 11 @ 2022/2023",
+    "Question": {
+      "content": "Underline the compound(s) among the following that can exhibit geometrical isomerism: 1-butene, 2-butyne, 2-pentene, 2-methylpentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-pentene"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='border:1px solid #e0e0e0; padding:15px; border-radius:5px;'>\n  <p><b>Geometrical isomerism (cis/trans)</b> requires:</p>\n  <ul>\n    <li>A double bond (C=C) <span style='color:#4CAF50;'>✓ Present in 1-butene and 2-pentene</span></li>\n    <li>Different groups on each double bond carbon <span style='color:#4CAF50;'>✓ Only 2-pentene meets this</span></li>\n  </ul>\n  <div style='margin-top:15px; background:#f9f9f9; padding:10px;'>\n    <p><b>2-pentene examples:</b></p>\n    <p style='text-align:center'>\n      cis: CH<sub>3</sub>-CH=CH-CH<sub>2</sub>-CH<sub>3</sub> (same side)<br>\n      trans: CH<sub>3</sub>...CH<sub>3</sub> (opposite sides)\n    </p>\n  </div>\n</div>"
+    },
+    "topic": [
+      "Isomerism and Stereochemistry",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Organic Structure and Bonding",
+      "Nomenclature of Organic Compounds",
+      "Introduction To Organic Chemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 21 @ 2022/2023",
+    "Question": {
+      "content": "Arrange the following compounds in increasing order of boiling point: butane, 2-methyl propane, cyclobutane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-methyl propane < butane < cyclobutane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='background:#e3f2fd; padding:15px; border-radius:5px;'>\n  <p><b>Boiling point factors</b>:</p>\n  <table style='width:100%; border-collapse:collapse; margin-top:10px;'>\n    <tr style='background:#bbdefb;'>\n      <th style='padding:8px; border:1px solid #90caf9;'>Compound</th>\n      <th style='padding:8px; border:1px solid #90caf9;'>BP (°C)</th>\n      <th style='padding:8px; border:1px solid #90caf9;'>Reason</th>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #90caf9;'>2-methyl propane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>-11.7</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Branched → weak London forces</td>\n    </tr>\n    <tr style='background:#e3f2fd;'>\n      <td style='padding:8px; border:1px solid #90caf9;'>butane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>-0.5</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Linear → stronger London forces</td>\n    </tr>\n    <tr>\n      <td style='padding:8px; border:1px solid #90caf9;'>cyclobutane</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>12.5</td>\n      <td style='padding:8px; border:1px solid #90caf9;'>Ring strain → more rigid structure</td>\n    </tr>\n  </table>\n</div>"
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Organic Structure and Bonding",
+      "Isomerism and Stereochemistry",
+      "Nomenclature of Organic Compounds"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 27 @ 2022/2023",
+    "Question": {
+      "content": "Draw the structure of the functional group isomer of ethanol",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dimethyl ether \\(CH_3-O-CH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='display:flex; gap:20px; align-items:center;'>\n  <div style='flex:1;'>\n    <p><b>Functional group isomers</b> have:</p>\n    <ul>\n      <li>Same molecular formula (C<sub>2</sub>H<sub>6</sub>O)</li>\n      <li>Different functional groups</li>\n    </ul>\n  </div>\n  <div style='flex:1; background:#f5f5f5; padding:10px; border-radius:5px;'>\n    <p><b>Ethanol</b>: CH<sub>3</sub>-CH<sub>2</sub>-OH (alcohol)</p>\n    <p><b>Isomer</b>: CH<sub>3</sub>-O-CH<sub>3</sub> (ether)</p>\n  </div>\n</div>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Isomerism and Stereochemistry",
+      "Functional Groups",
+      "Alcohols and Ethers",
+      "Organic Structure and Bonding",
+      "Nomenclature of Organic Compounds"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 4 @ 2015/2016",
+    "Question": {
+      "content": "Arrange n-hexane, cyclohexane and 3-methyl pentane in an order of decreasing boiling point",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cyclohexane > n-hexane > 3-methylpentane"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Cyclohexane</strong> has the highest boiling point due to its rigid cyclic structure allowing closer molecular packing</li><li><strong>n-Hexane</strong> (straight chain) has stronger London dispersion forces than branched 3-methylpentane</li><li><strong>3-Methylpentane</strong> has the lowest boiling point because branching reduces surface area and intermolecular forces</li></ul>"
+    },
+    "topic": [
+      "Alkanes and Cycloalkanes",
+      "Isomerism and Stereochemistry",
+      "Bonding and Molecular Structure",
+      "Boiling Point"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 6 @ 2015/2016",
+    "Question": {
+      "content": "Account for the difference in boiling points between methoxymethane and ethanol, although both have the same molecular formula",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethanol can form hydrogen bonding whereas methoxymethane cannot."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Ethanol (CH<sub>3</sub>CH<sub>2</sub>OH)</strong>: Forms strong intermolecular hydrogen bonds (O-H⋯O) requiring more energy to break</li><li><strong>Methoxymethane (CH<sub>3</sub>OCH<sub>3</sub>)</strong>: Only has weaker dipole-dipole interactions (no H-bonding)</li><li>Hydrogen bonding increases ethanol's boiling point by ≈20°C compared to methoxymethane</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Boiling Point",
+      "Alcohols and Ethers",
+      "Functional Groups",
+      "Bonding and Molecular Structure",
+      "Isomerism and Stereochemistry"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 10 @ 2015/2016",
+    "Question": {
+      "content": "What type of isomerism exists in 2-chloropentane and 3-chloropentane",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Positional isomerism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li><strong>Positional isomers</strong> have the same molecular formula but differ in the position of functional groups</li><li>Both compounds are C<sub>5</sub>H<sub>11</sub>Cl with chlorine at different carbon positions (C-2 vs C-3)</li><li>They have different physical properties and slightly different chemical reactivity</li></ul>"
+    },
+    "topic": [
+      "Isomerism and Stereochemistry",
+      "Positional Isomerism",
+      "Organic Nomenclature",
+      "Alkyl Halides",
+      "Functional Groups"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 32 @ 2015/2016",
+    "Question": {
+      "content": "Draw the structure and give the IUPAC name of an alkane with the molecular formula \\(C_5H_{12}\\) that has only primary hydrogens",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "img",
+      "alt": "2,2-dimethylpropane (neopentane)",
+      "content": "https://lh3.googleusercontent.com/d/1cY-lRt0zct_SPQ2P3hwYlI-y9yN1BuJW"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<ul><li>Only <strong>2,2-dimethylpropane</strong> (neopentane) satisfies this condition</li><li>Central quaternary carbon with four methyl groups</li><li>All 12 hydrogens are equivalent and primary</li><li>No secondary or tertiary hydrogens present</li></ul>"
+    },
+    "topic": [
+      "Introduction To Organic Chemistry",
+      "Organic Chemistry",
+      "Alkanes and Cycloalkanes",
+      "Organic Nomenclature",
+      "Isomerism and Stereochemistry",
+      "Bonding and Molecular Structure"
+    ]
+  }
+]
