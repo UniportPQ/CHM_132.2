@@ -1,0 +1,50 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Introduction To Organic Chemistry",
+    "code": "CHM_132.2",
+    "session": "Organic Acids and Bases",
+    "time": 90,
+    "topics": [
+      "Alkanes and Cycloalkanes",
+      "Alkenes and Alkynes: Structure and Reactions",
+      "Alkyl Halides: Substitution and Elimination Reactions",
+      "Aromatic Compounds and Electrophilic Aromatic Substitution",
+      "Chemical Bonding and Molecular Structure",
+      "Functional Groups",
+      "Introduction to Organic Spectroscopy (IR, NMR, MS)",
+      "Isomerism and Stereochemistry",
+      "Organic Acids and Bases",
+      "Organic Chemistry Fundamentals",
+      "Organic Nomenclature (IUPAC)",
+      "Organic Reaction Mechanisms"
+    ]
+  },
+  {
+    "type": "Instruction",
+    "content": "Answer all Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 2 @ 2023/2024",
+    "Question": {
+      "content": "Which of the following is not an electrophile: \\( BF_3 \\), \\( AlCl_3 \\), \\( CH_3^+ \\), \\( NH_3 \\) and \\( NO_2^+ \\)?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(NH_3\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Electrophiles are electron-deficient species that accept electrons. \\(NH_3\\) is a nucleophile (electron donor) due to its lone pair, while all others (\\(BF_3\\), \\(AlCl_3\\) - Lewis acids; \\(CH_3^+\\), \\(NO_2^+\\) - carbocation and nitronium ion) are electrophiles."
+    },
+    "topic": [
+      "Organic Chemistry Fundamentals",
+      "Introduction to Reaction Mechanisms",
+      "Organic Acids and Bases",
+      "Electrophiles"
+    ]
+  }
+]
